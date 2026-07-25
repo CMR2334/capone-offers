@@ -164,6 +164,12 @@ git push origin main
 
 ## Known issues / open questions
 
+- **Pages deployment is best-effort after a successful ingest.** GitHub Actions
+  has repeatedly failed while provisioning the separate deploy runner even though
+  Gmail ingestion completed. The deploy job is non-fatal at the job level so these
+  upstream runner/Pages incidents no longer generate failed-workflow emails; true
+  ingest/auth/parser failures remain fatal. A later healthy run publishes any
+  temporarily delayed `offers.json`.
 - **Sync token is public by design.** Cross-device sync works via a shared token
   (`SHARED_SYNC_TOKEN` in `index.html`, fixed 2026-06-07 — see CHANGELOG `33da2ac`);
   a static site can't keep it secret, so the KV bucket is protected by obscurity only.

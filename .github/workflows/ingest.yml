@@ -52,6 +52,10 @@ jobs:
   deploy:
     needs: ingest
     runs-on: ubuntu-latest
+    # The deploy job uses a second GitHub-hosted runner. Treat runner startup
+    # failures/cancellations as non-fatal once ingestion has succeeded; Pages can
+    # catch up on the next run without turning a healthy refresh into an alert.
+    continue-on-error: true
     outputs:
       pages_warning: ${{ steps.configure_pages.outcome == 'failure' || steps.upload_artifact.outcome == 'failure' || steps.deployment.outcome == 'failure' }}
     environment:
@@ -81,11 +85,11 @@ jobs:
         run: |
           echo "::warning::GitHub Pages setup/upload/deploy failed after ingest succeeded. offers.json was committed; the live site may lag until GitHub Pages recovers and a later run publishes it."
 
-  # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
-  # or broken cron is visible instead of offers.json silently going stale.
+  # Keep true ingest/auth/parser failures loud. Deploy-only failures are handled
+  # separately because offers.json was already refreshed successfully.
   notify-failure:
-    needs: [ingest, deploy]
-    if: failure()
+    needs: ingest
+    if: always() && needs.ingest.result == 'failure'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -105,7 +109,7 @@ jobs:
             exit 0
           fi
           body=$(printf '%s\n' \
-            "The scheduled ingest/deploy workflow failed, so public/offers.json is not being refreshed." \
+            "The scheduled ingest job failed, so public/offers.json is not being refreshed." \
             "" \
             "Likely causes: an expired GMAIL_REFRESH_TOKEN (rotate it — see HANDOFF.md → Infrastructure & secrets map), a Gmail API/format change, or a parser regression. The live site shows a staleness banner once data is ~8h old." \
             "" \
@@ -115,11 +119,16 @@ jobs:
             "Close this issue once the pipeline is healthy again; the next failure will open a fresh one.")
           gh issue create --label ingest-failure --title "Ingest workflow failing" --body "$body"
 
-  # Pages queue timeouts are usually an upstream GitHub Pages condition. Keep the
-  # workflow green to avoid repeated email alerts, but leave a deduped issue trail.
+  # Pages pipeline and deploy-runner failures are usually upstream GitHub
+  # conditions. Keep the workflow green, but leave a deduped issue trail when the
+  # warning job can run.
   notify-deploy-warning:
     needs: [ingest, deploy]
-    if: needs.ingest.result == 'success' && needs.deploy.outputs.pages_warning == 'true'
+    if: >-
+      always() &&
+      needs.ingest.result == 'success' &&
+      (needs.deploy.result != 'success' ||
+      needs.deploy.outputs.pages_warning == 'true')
     runs-on: ubuntu-latest
     permissions:
       issues: write

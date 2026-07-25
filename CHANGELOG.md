@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-25 — CI: suppress deploy-runner startup failure emails
+**Commit:** see `git log --grep="deploy runner startup"`
+**Files:** `.github/workflows/ingest.yml`, `CHANGELOG.md`, `HANDOFF.md`
+**What changed:** Made the entire Pages deploy job non-fatal after ingestion succeeds, covering GitHub-hosted runner startup failures and cancellations that happen before any deploy step can execute. The prior step-level guards still classify Pages setup, artifact upload, and deployment errors as warnings; the warning job now also recognizes a non-successful deploy job when GitHub can run it. True Gmail/auth/parser failures remain fatal and continue to open the deduped `ingest-failure` issue.
+**Revert:** use the commit shown by the `git log` command above
+
+---
+
 ## 2026-07-22 — Fix: keep the best active offer per merchant
 **Commit:** `1cf8fb3`
 **Files:** `ingestor/ingest.js`, `test/ingest.test.js`, `package.json`, `README.md`, `HANDOFF.md`
