@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-27T16:18:25.169Z",
+  "lastUpdated": "2026-07-27T17:18:16.935Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "e.l.f. Cosmetics",
+      "percentBack": 56.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YllMT2o1ckdFMHN5UTZNZ1p3b2t1QzR6OHFOS3h4T0hNNjc3cUYzVE9Eckw4Z2lmRFNRWDhTTGRSa0cyVXVpNTdBRi9pMGgxR0NSZ2JLVVVuSjVuZEdYb25WNkphT1RYcDFmOHBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=elfcosmetics.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
     {
       "merchant": "Event Tickets Center",
       "percentBack": 54.5,
@@ -18,6 +32,20 @@
       "emailDate": "2026-07-25T10:32:10.000Z"
     },
     {
+      "merchant": "Caudalie",
+      "percentBack": 44.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZjYrODBWV3k3ZXB1bzR6Skt3TmdEV2NubFVLQ1NtcDRCQkU5WHNtYzB2RGJQM05VaDRMenFiVEpGSFAvS1RBQzY5TXpRNTBkc3VRaGVsWjNDY2o1SE9DK2hXbjNueHBXcjdDNkVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=us.caudalie.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 40,
       "dollarBack": null,
@@ -25,11 +53,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Vm1vSG1oTVRVU2gzRjhiODI3SmVtdTJnVDBjWUVxTFZKQU1yZEFmUTRLRmdjb2U3NWxDT3hsYzQ5TFAxdHkyaVJtQVFJcVdPWHhpRGdOZUoySDNITWpscWMzQjVZZ2J4K293dTBRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6My9qQTFOdjU0QmloNG50MW1rS2FFYTNQbm5mTVhyMTc3V2dNRk53bzJqaC85Z251UEJqQlpkU1Q1ZjVEa3lpcWtRVVZCNXRUbDBGd1dlRVlySzQzZ1BiVW0vOTg2YmpuTG4rclVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fa3c16b9b6f170",
-      "emailDate": "2026-07-27T13:26:29.000Z"
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "Ticket Club",
@@ -60,6 +88,20 @@
       "emailDate": "2026-07-24T12:20:09.000Z"
     },
     {
+      "merchant": "CVS",
+      "percentBack": 28.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N01zNStTN0l0a09WYlFuZnBGRjQrYjN6dDhZTzQ3L1NYMVNJZlRsQWduN2FqZ25qS0lwQktlL1k5Mi9KRkpCTnRwVzZCQ3hMV0NhOE15akh1SjhSWGtuWmRlRkp3WVp2WEdlOTVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 23.5,
       "dollarBack": null,
@@ -72,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "19f94efb0428cede",
       "emailDate": "2026-07-24T16:22:43.000Z"
+    },
+    {
+      "merchant": "Maison Margiela Fragrances",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SzRtSW9ZRzZRQzM3RXI5NlZPckdnU2FYRmh0UldPUjM5UGl1REdNQTJhUFp3NUV1Unc0czVRckM3RnJDZTBjTEtPUy9sWUgzYUhhOVJNSUpFQmxjVlRpQ25pV1J4cUtCa2oyVDZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=maisonmargiela-fragrances.us&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "MLS Store",
@@ -142,6 +198,48 @@
       "source": "single-use",
       "emailMessageId": "19fa1d865d0f29e0",
       "emailDate": "2026-07-27T04:32:20.000Z"
+    },
+    {
+      "merchant": "Thrive Causemetics",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y2x3WEk5c3dJY1JVSGMzQ0xtUkF2RlljWUVlMU1HQzF1RVNzZ0N3M0tqeEl3NjdudkN1MkhSekVaMmN3VUNUV2J6V3RGMUx3RFVKSmswam5peVhoZFM1dUI4RWtkTk1LWFhzUXNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thrivecausemetics.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
+      "merchant": "Shiseido",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eUtJWXpjclkyUFNORDdrUGVncU1ONUNhNHhKVVBaU0l4Z0p2S0Jmd1o2cGo5cmllQzFFSU9FZGozYVBMUXJMNXpyZ3U3aDNxd1JYRW1CQ08yei90OFk3UEZpa2poNWRYTTlJQmRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shiseido.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
+      "merchant": "Stylevana",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6djlPV01ON281d2V0RFkxbkZJbnNqd0llaGJkb1lnTUhHb28raXJPUmIwdFRLSS9PbXVSRzBGVVRwdFVBc2p4SzhnUWdQWHpKS25GeW0rczVkb2Ixa1VJUVVPUFBwRDcwdXZyR2xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stylevana.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -242,6 +340,20 @@
       "emailDate": "2026-07-24T16:22:43.000Z"
     },
     {
+      "merchant": "Ulta Beauty",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bzNiMDYxRVZzQmFvSlhnaS90aTM0ZkVkbXJrTE8wWVUyZVVBUGppU29QQ0lTNlpaRUVUMW1ESlpiMWt6Z3BlVjQ4QU5WNnVMYjJYcTJQWnZyamZRQ29UWk5sendhVVBreis2WlJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ulta.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
       "merchant": "PetFlow",
       "percentBack": 11,
       "dollarBack": null,
@@ -254,6 +366,20 @@
       "source": "single-use",
       "emailMessageId": "19f99470c37231c0",
       "emailDate": "2026-07-25T12:36:37.000Z"
+    },
+    {
+      "merchant": "Dermalogica",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T0t0SjlraDBSQmZkU0wwQWVVVWIrV1hDdmxnS2lLL3M5MG1va0hRNGVGaytxZ3JMOUU5R3IzVTJaVGxaR04vZENvRUZJUWVEbGE2aTZWUnNDaUhjRHVXci9HVDd0Q2ZOYjRCemZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dermalogica.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "SpotHero",
@@ -310,6 +436,34 @@
       "source": "single-use",
       "emailMessageId": "19f99f4ba7bb428f",
       "emailDate": "2026-07-25T15:46:20.000Z"
+    },
+    {
+      "merchant": "Sephora",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWxQenArdXFBNDNNSVg5eFJ5UCtiUFhmalp4SWJrN09INUhHVFphVThiZm55M3dJc0xHRTQ0ZGk2RGJLZVpFY0N6MHl1TXJHOE1LelhTNWRqMXVtcE1RTllOMU9ib2cvZ09oREV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sephora.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
+    },
+    {
+      "merchant": "Laura Geller",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NTVYcGEycDUydGxoRVhRR2o1VVYyTy9Hc2YxV3hoRjNzSUFCeG51R0FYeDJFS2dycmxjVTFQMVBubEtKSUJWVlBZTmwrUDFGY1prV1JCVW9iUlc3dE1McUJiaC9xTkNGaVd3THJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=laurageller.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "Petco",
@@ -604,6 +758,20 @@
       "source": "single-use",
       "emailMessageId": "19fa3c16b9b6f170",
       "emailDate": "2026-07-27T13:26:29.000Z"
+    },
+    {
+      "merchant": "Ipsy",
+      "percentBack": null,
+      "dollarBack": 21.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZlQxcWUxTXozTURvSnU2c2V4RkdpRTFBOUVwWTJyZXNCZlYzUHF5NlpVK3BJZXByMnBSK1EyTTlFWmwrcU1WSGMwbmpxTFM1ajM5WDBvREg2NHE3d1NYd2dzT0FzZ1kzU3RvRktnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ipsy.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa493d287fa657",
+      "emailDate": "2026-07-27T17:16:18.000Z"
     },
     {
       "merchant": "CheapOair",
