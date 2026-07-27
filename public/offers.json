@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T20:18:15.192Z",
+  "lastUpdated": "2026-07-27T21:18:19.864Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -88,6 +88,34 @@
       "emailDate": "2026-07-24T12:20:09.000Z"
     },
     {
+      "merchant": "The Prisoner Wine Company",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MGRkMTMzeU5mWlFiMkdCY0dPMHBDa3ZtUGFVdzRGZ0NVc0lRSmNwV1JQSFQxMmMwWDl0ZzBEWVRFTVFQdjJIQXJleEdFSGgzMCtwY05mTzFaK28zZmN2Y2NBVUptNnkvdWp3MUVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=theprisonerwinecompany.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
+      "merchant": "Cafe Britt",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6djNacDN5STdCUEMycitxbnFRUzVremdZVURkL3JYbDViSXludlU1aHJqTExIWjVuOWhtVW1FZjZHUk9sRENneUJwZTdjaktBUUhEVS9BVGdvY2MwVmlPZlF5c1o3L1Y3YXYza1hRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cafebritt.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
       "merchant": "CVS",
       "percentBack": 28.5,
       "dollarBack": null,
@@ -114,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "19f94efb0428cede",
       "emailDate": "2026-07-24T16:22:43.000Z"
+    },
+    {
+      "merchant": "Blue Bottle Coffee",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aFkrS3k2SEd6SHMrc2Nuei9DendCV0lHYkhXdkFJNnd4anNmWHhUZi9pdWJaVjJscGZDaU1ZeVhCQlVFUGZPNWNqNncwcGt3cWNxd3VBazFZTTFpbC81Q1BtMis1Z2RFMjEwbVd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bluebottlecoffee.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
     },
     {
       "merchant": "Maison Margiela Fragrances",
@@ -200,6 +242,34 @@
       "emailDate": "2026-07-27T04:32:20.000Z"
     },
     {
+      "merchant": "BUILT",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V2RlbWFiZ3Ewekp3Qm9YQklwMlJVNm1vV3JQTmZHMElMSk5ZNGg2VVNiN3Y1SjBDdTVvWkczcW81UlNqMUIwVzN1ZnJSK1ZESlFISmhzQkFFNGV1U1hRb2l2dXV4NnQrVEwycTZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=built.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
+      "merchant": "Shari's Berries",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REgraEQ4Sk5WSzJTK29lNGQyeXNlRlc5MlFjRG1EY1lWZE1pLzlEWnhVbGdGeHlqSDFTbjFJVXdoeUFRN0lndUdZWlB1R1hnNTVIS3lXOEtBN3F0SlArZUxDbFJBaEN1dEFRcUl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=berries.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
       "merchant": "Thrive Causemetics",
       "percentBack": 15,
       "dollarBack": null,
@@ -282,6 +352,20 @@
       "source": "single-use",
       "emailMessageId": "19f99f4ba7bb428f",
       "emailDate": "2026-07-25T15:46:20.000Z"
+    },
+    {
+      "merchant": "Vital Choice",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SXF4UVpzMkVSSmJXeVZTcDNQblQweDJYSTVKOXNpZE90ZktRYnlodlpzTmxNLzYxZTlZME5DWkdzNkpEQkszM3UrK2VqajJUeWJmc2cwUk5xRkREQkc5NGgwbFpDMTA4V290RUlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitalchoice.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
     },
     {
       "merchant": "Ticket Network",
@@ -368,6 +452,20 @@
       "emailDate": "2026-07-25T12:36:37.000Z"
     },
     {
+      "merchant": "Goldbelly",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ME53N1kwK3VOTU9ORHMvUkR0ODhmQ3drdHN1TU01QjlxMGllWjI1d3N6Nzc5T0dGZGJDRVFvUDVqRTg2STFmUytKeXlqQVljaEMySDVYY1RLaG81Yno5akVqT21hRzRkNG82cHFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
       "merchant": "Dermalogica",
       "percentBack": 10,
       "dollarBack": null,
@@ -438,6 +536,20 @@
       "emailDate": "2026-07-25T15:46:20.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 8.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 20",
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ck14TXQzbnArcXlVak81aWNlU2JsWEZWWU9rLy91ZnlDTDF1dHA4R2dYRTloK2dDdmZYdFg4cjM2OXN6VCtGc1ZFMWNHZU44bG5rM1NhMlg4L0d3R1FpVEVOR2xVWWRuS0lSTUFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
+    },
+    {
       "merchant": "Sephora",
       "percentBack": 8,
       "dollarBack": null,
@@ -506,6 +618,20 @@
       "source": "single-use",
       "emailMessageId": "19f95873221a12fb",
       "emailDate": "2026-07-24T19:08:13.000Z"
+    },
+    {
+      "merchant": "Harry & David",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6THJuV3Fyalg2M0l4VTNPNHhjRGJZY21ZVUViK2Y3eWEwYmRDVHdDTnA5TGc5eHczeDd6RTlxRjdzbHVQU0gzd0IxLzVmSlRpZE9PZWpiVnNLQk52MUFWdUV6Q1hNSGh5RmZDWjVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=harryanddavid.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -758,6 +884,20 @@
       "source": "single-use",
       "emailMessageId": "19fa3c16b9b6f170",
       "emailDate": "2026-07-27T13:26:29.000Z"
+    },
+    {
+      "merchant": "Hungryroot",
+      "percentBack": null,
+      "dollarBack": 22.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UFMzRytFR3FhWFhxMlRYM3NERDhYaG9jOHhsTzBPTFNXdSthTDgrTlNJcEE4ZlhLK3JZTEdwN1dScGJPWERqM09aaGtXYi95UjlCWU1OMm1EeGtrL1B4N1ppY25kWVJOK0JsQlB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hungryroot.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa54d25cdc36ed",
+      "emailDate": "2026-07-27T20:38:43.000Z"
     },
     {
       "merchant": "Ipsy",
