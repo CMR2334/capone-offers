@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T13:18:17.621Z",
+  "lastUpdated": "2026-07-27T14:18:11.225Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bEtTcEtPcjlGWlhzSjVRdHhPLzJtUUVKRWNYSkQ5U0JtalY0S1NLYWVRSUZObWgxSVlLMWxZd29RVjZXd2JoKzZpMG9rMHY5dzV1cEtwcFJoeWtrdzRzQ29jaHl5dmhENEJJQS9BPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Vm1vSG1oTVRVU2gzRjhiODI3SmVtdTJnVDBjWUVxTFZKQU1yZEFmUTRLRmdjb2U3NWxDT3hsYzQ5TFAxdHkyaVJtQVFJcVdPWHhpRGdOZUoySDNITWpscWMzQjVZZ2J4K293dTBRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fa38fa79d59399",
-      "emailDate": "2026-07-27T12:32:07.000Z"
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
     },
     {
       "merchant": "Ticket Club",
@@ -403,11 +403,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bWhKdVVCMzZ1bk5tTUZxL2UvcGRtYmNLcGlkbTlJYWd2TlZsNkhUcXlVVzJHc2RFREFDUnlxTUVha2FrbmNNZ0dXTEllUVFtNXNacFpXc2ZzMkY4T2xCR1MvN2pBbVM5ZVVoQ3N3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QXpjZHppM28wMmgyQUpvRDFLWjhZNkNSMUpBVFIyTVh1RDRRZVFIWWphVGkvWGJVamxsOWFCcjU3aFF3aFh6U0RVakU4K08wcXRxQXlVVmdXN3lrd1dwTVdrLzJOb2pHdVFDUjF3PT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,stcs_DA38GhYUmK3ZS0fI128HiHvfRi4M_kbSqAANQJw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/fb1b8ba32fbbe3d34afe8fd0.jpeg",
       "source": "single-use",
-      "emailMessageId": "19fa38fa79d59399",
-      "emailDate": "2026-07-27T12:32:07.000Z"
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
     },
     {
       "merchant": "StubHub",
@@ -578,6 +578,34 @@
       "emailDate": "2026-07-26T10:11:02.000Z"
     },
     {
+      "merchant": "Astound",
+      "percentBack": null,
+      "dollarBack": 96,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 21",
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cnJPZFp3OXhoeVpDdFdWOGllVXl0bDJ6aVd4WXNWK2YrQ0VXNEJIVzNzay9UUGVtN1RUcTZrWlNYQmpJbUkySDU0RWVGUFRYdUhXS2x2bGVIN3NjeVUrbVBmc2hjNHdOcENDSUV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=astound.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
+    },
+    {
+      "merchant": "Xfinity",
+      "percentBack": null,
+      "dollarBack": 37.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eDFuTzFzQ2FqYm9XdTA2ejd6TzBFaVlqWjVWQVVuN1pZQnFhYklCVHQ3SEtSNWE4TU0ydThrUkdUc1k0UVA3cFlHbFFwc3ZyQldYQTllelcxalpxTCtQUWxVMHJqZWtrT2JVUEVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
+    },
+    {
       "merchant": "CheapOair",
       "percentBack": null,
       "dollarBack": 18,
@@ -590,6 +618,20 @@
       "source": "single-use",
       "emailMessageId": "19fa1d865d0f29e0",
       "emailDate": "2026-07-27T04:32:20.000Z"
+    },
+    {
+      "merchant": "NOW",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bDJ5V2tjNjBBeCtsdkRTbGk4ZE9kY1Z5Q3lUb0hETFNNWklXbzFCY0xFVXdLRGJiMDQyR01IeGtySzNOb2Q0Ri9RNzB2c3ZtQ05rU253ek1wajl1WGZXMm5rY2FFekVSMU5veURBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
     },
     {
       "merchant": "Splash",
@@ -632,6 +674,20 @@
       "source": "single-use",
       "emailMessageId": "19fa38fa79d59399",
       "emailDate": "2026-07-27T12:32:07.000Z"
+    },
+    {
+      "merchant": "Liberty Mutual Insurance",
+      "percentBack": null,
+      "dollarBack": 5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TEdBbk9takRQOXBTUHltRHRyN0gvdXNqbUV0NXl6NDEvZm1Vbnh2RW1uVUh3Q1Z5Y2pzWEVNaWhiQTFXZ2xNWnRTMnlQTnpEYm1TZXFhMWFuVmtXZjFPbGJueG5raC9yMlV3MllnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=libertymutual.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fa3c16b9b6f170",
+      "emailDate": "2026-07-27T13:26:29.000Z"
     }
   ],
   "upcomingReveals": []
