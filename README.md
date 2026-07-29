@@ -297,5 +297,4 @@ The sync worker's CORS allowlist includes `http://localhost:8000` and `http://12
 ## Task workflow
 
 - **GitHub Issues:** https://github.com/CMR2334/capone-shopping/issues
-- **Apple Notes:** "Claude Tasks - C1 Email Tracker" — check the checkbox when done typing to trigger the task watcher
 - **Task watcher:** `~/Automation/task-watcher.js` — monitors both GitHub Issues and Apple Notes
