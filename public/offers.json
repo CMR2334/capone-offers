@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-29T12:18:17.513Z",
+  "lastUpdated": "2026-07-29T12:23:39.214Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Forme",
+      "percentBack": 70,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aWNUSlFEaFhsblhQS3BTRGZ2c2hTakZoZ01UU2UxRjdQY05PbCtEWnFpMi9jWXNETU9zcmR5aGFIMllyM0Fsek12UnpEaCs3cTdhQjRuOWk4QzFGbDBVR3lsODR6QlEyaXpNK0FRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forme.science&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
+    },
     {
       "merchant": "e.l.f. Cosmetics",
       "percentBack": 56.5,
@@ -212,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "19fa1d865d0f29e0",
       "emailDate": "2026-07-27T04:32:20.000Z"
+    },
+    {
+      "merchant": "StubHub",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Mm8rUXI3NzkwV0grRUFlb0Y2VXVORGFYQ2pQRTlKSnlrcDh5S2dEbzBNUTQ3MXgvd091NndSb0dlazI3RHc3MzRBQUtrSVFRUnZVbEcrS3hZcWRXS2FBbEF6bk5BR0FBcTdIaVdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stubhub.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
     },
     {
       "merchant": "HubSpot",
@@ -428,14 +456,14 @@
       "percentBack": 10,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 4,
       "lastViewed": null,
-      "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VkRCTVpOZXlLeGoyeTF6WlM0WCtVUlRtZlMreEVuNzNqTExtYU5WRG9MaWlESzYwcUNmSW55TlRIUXc2c2RwYzB6Q2p0Vi9yd0JHb2xVMG83WFhDZi9Uc1VUcXNhakZkdUZLYTRBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-08-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VDM0dmNpbG1kUHpveDN0aGM1aTFjd1M4d1phTEc0c1pYdm9WVnB5Z1F4ZU5VTFQ3WHg4V2FPNDZ5MFVnK0RBODAvOGpkWmtVcUZRT2l6SkdvYXVJdFRDdWFKNi9GTGdOUWZta2hnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19faa904a75cfdb9",
-      "emailDate": "2026-07-28T21:10:10.000Z"
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
     },
     {
       "merchant": "NFL+",
@@ -682,12 +710,12 @@
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bjkzVE4rNGRKRnFUWFZTUlV6cEEzU0gyaWgyb3FucW9vRTZjcDlDbkZqekIxYkg2eWdTaTFGOE9Jc0txMFZ5SGR4ZlY2VWpMWmhTRkRWRngyMUp1YVd4Rit0OXRqYWkxZEpFUVV3PT0/runV3dl",
+      "expiresAt": "2026-08-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MFB2YlA0TXBqODM4enE2VnZlLzA3ZVZjTmthUXZlMGI0Z0tsZElOQkhaQTdXaUxSVU5BZlhTbERhQUpBQnVBbGtVV3c1bW1DdU5sMHBvc2ZmWW1uTG1YYXRRcDJPMS8rNjBNN0F3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19faa904a75cfdb9",
-      "emailDate": "2026-07-28T21:10:10.000Z"
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -738,12 +766,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S2V2UFAwbFVxTXphcjlFNnRmYmNUUEhYOFVJOGppam9yb1BQQ2RlU2pjUDJUM1k2cy8vc2NhUm5GdGdyMUhiS3pXNXZHcDZsVUNkbmpYM1lqNHZDUnNZTmNQYnA0aEdjaTF5RWZnPT0/runV3dl",
+      "expiresAt": "2026-08-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6czhyOWJ5NkdibDhtc3ZKYU1zb2hZUjBIZkNYeERNNklpV0d1SDBxNjA2UUl0TExBTUtFTWJSWGo4Q1RuYzZscHI0U1hWQi9qbDdvOThvWGxrclpyRHpJRkpHZXVjMWR5R3Z6amxRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gametime.co&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fa8fce5ef03ffc",
-      "emailDate": "2026-07-28T13:49:33.000Z"
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
     },
     {
       "merchant": "Homebase",
@@ -828,6 +856,20 @@
       "source": "single-use",
       "emailMessageId": "19fa619c4f1854bb",
       "emailDate": "2026-07-28T00:22:14.000Z"
+    },
+    {
+      "merchant": "Grammarly",
+      "percentBack": null,
+      "dollarBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlZqT3R6Qk5EbU9sbXo4MjhjTGN0YXBkZzU4WWFaSXQ4OFI3WXJEdjN3cjltVkVidjNBSWN5QUh0RUhwUVZ6dXppcVFDZW5uNU8zZWNVb3luMktmRWtYMHg1MTlRaitzVjlqZkp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=grammarly.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19fadcfbcc9bd4f7",
+      "emailDate": "2026-07-29T12:18:19.000Z"
     },
     {
       "merchant": "DoorDash",
