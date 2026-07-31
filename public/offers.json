@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T14:18:23.220Z",
+  "lastUpdated": "2026-07-31T15:18:27.684Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Zmh3OHZyZUhja0lneWRqcS8xTm84YlRKT3RVZGNnSitHRG1LcGRoUzRnS3piZVc4MFNkcXhVd3lKak5vcXZiTTh0L0dia2xiZElWTTBCU0s3K2dpYkxYMGdTMkVOWUZVTCtkWlVnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VTQvLzhnUWg5dmZFNXFHTm8vZ01DbFhMMUJNaFMwU0svcFVaVWxmNFdvd0ZTblFSVEc4Q2VhN3lWYTFPRXF6UWhWdnFTS0V1cGpjUGdzZDdKMTl0NlpqWFRDZ1dLYkphMEQ3eGdRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fb7cd9198280a3",
-      "emailDate": "2026-07-31T10:52:09.000Z"
+      "emailMessageId": "19fb89a0a07f1c4e",
+      "emailDate": "2026-07-31T14:35:30.000Z"
     },
     {
       "merchant": "Sam's Club",
@@ -431,11 +431,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SWRuZnRHMHJseEhMOHArSE1MZ0FMc0xrRjhSSDRMZXFzOWpTUEN6enlxOG81Z3FmSzJ4WUh3MnlLTWUzT1Z6Yk1KV3REOGtwaW1GbmFUZ056bUtWUjlNWkhHcWIrSFJXZm1xYWxnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V1dOVHh3Tm5OK0tYcUxlcEJOTjBrcXFXem1DeDRRc2Q1bWNsSC9WTG5IV1ZweUFmN2Z5VGRVc2hUUUFXbjNySEh3Tno4cm9KaVRHdmVXMGtHY0tYbFoxOVlBZm1SNm5vVVRLVTRnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/walmart.com/402ab5c6-bc59-4c2a-a45a-ece6c1c49ace.gif",
       "source": "single-use",
-      "emailMessageId": "19fb7cd9198280a3",
-      "emailDate": "2026-07-31T10:52:09.000Z"
+      "emailMessageId": "19fb89a0a07f1c4e",
+      "emailDate": "2026-07-31T14:35:30.000Z"
     },
     {
       "merchant": "Best Western Hotels & Resorts",
@@ -648,6 +648,20 @@
       "emailDate": "2026-07-30T02:45:36.000Z"
     },
     {
+      "merchant": "Green Chef",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cGJ0a3FkZlgrbjdCck1MaEhveU1sdEVKNXRZK2NyV2hhY2JxVTJ1cDlNNmdZSU9CRGc4aE9aVUtmWmRLQk9Dc0dNNHlLbkczOUs0RWtBbkJSRzN4VFA4SFlSSUQvTFU1ZTFLWmVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greenchef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fb89a0a07f1c4e",
+      "emailDate": "2026-07-31T14:35:30.000Z"
+    },
+    {
       "merchant": "DoorDash",
       "percentBack": null,
       "dollarBack": 45,
@@ -682,12 +696,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cnBock5Ic3g4d0VHUTNtRW96OHFpb0ZQamR0c3FLZmJnVmNpYk5WUEZMOWE0aVJWcTFmZ004T3hNNmpldG0yTmZZMml5WXdtamV0NEVVZnpWSllDc1MweDVsNkYyNmtPUkZiTzVRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=disneyplus.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q3RSTHpKZS9xSEp2U092K3IxeitTaFBwcGduY1AvUVlzT3ZCU3ZYYUw1ZEZLa0w2M2Rnc0xuRElaLzVWSVhmZGRoR2hoL1JRQlVBM2FLQTdxOWdRWEZycGpwN2dwWUZHTEVxK0xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=disneyplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fb3e3a2ca67a47",
-      "emailDate": "2026-07-30T16:37:47.000Z"
+      "emailMessageId": "19fb89a0a07f1c4e",
+      "emailDate": "2026-07-31T14:35:30.000Z"
     },
     {
       "merchant": "Safelite",
