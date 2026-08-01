@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T16:18:28.684Z",
+  "lastUpdated": "2026-08-01T17:18:26.373Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -46,6 +46,20 @@
       "emailDate": "2026-08-01T12:57:47.000Z"
     },
     {
+      "merchant": "Airalo",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UDhQWjlEcEdNWVNaRUowSUhpWEkwUGcxcGFvNmU4cUdHV29iWmJNUlVpMWtaUWxoRHJjSnAzbm95bHRQSCtjeUF1anBWMDVGeUgwRXhBckRRTGNDSUd5MXgzckRKSWVSTm9EMEd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airalo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
+    },
+    {
       "merchant": "Canada Pet Care",
       "percentBack": 25,
       "dollarBack": null,
@@ -86,6 +100,20 @@
       "source": "single-use",
       "emailMessageId": "19fb4d43b18891c4",
       "emailDate": "2026-07-30T21:00:34.000Z"
+    },
+    {
+      "merchant": "Big Bus Tours",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Yks4elhrVWd4T3hUK1N1M3Z5Ni85aWJGZjJYVkRob09BZlJzbnNxWG5HN21EQXRveHBNYUwrMzJNZE44UWVrL2FKY09BMmlmSUwwS3k4NUxaVHpxMGRrbVkvTVp2Rzl1QUFQSWF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
     },
     {
       "merchant": "Ticket Network",
@@ -240,20 +268,6 @@
       "source": "single-use",
       "emailMessageId": "19fb958c15063786",
       "emailDate": "2026-07-31T18:03:48.000Z"
-    },
-    {
-      "merchant": "Big Bus Tours",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L25yRStNVENkZjV6KzhkazJVRDN3eG1DS25mN3FqeVhNZ2xHOXNpa0NON09ta3BlVmdVTUJsQmJQemx5d2tONVh0RUFBR3VDZ1FNUkEzSW9PL0lZcUpWcUdPMi82RG00WlFoVU1BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19fb4d43b18891c4",
-      "emailDate": "2026-07-30T21:00:34.000Z"
     },
     {
       "merchant": "TicketSmarter",
@@ -452,6 +466,20 @@
       "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
+      "merchant": "Klook",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OUFRenZZSWNLTWJqTGNIUitubTkvck8ya2RQUndSWkpqcUthRnBNYkFtSGtZTkNISWIxVXFncUZmRnFwNHlibTlCSm5qQUU2aXlqamZWNzNoVWNrelFwVVlYMk4vTFlTM3poVDV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
+    },
+    {
       "merchant": "Ticket Liquidator",
       "percentBack": 7,
       "dollarBack": null,
@@ -492,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "19fb958c15063786",
       "emailDate": "2026-07-31T18:03:48.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OEh2RERWL0gwdEZDSlo4NGpjRUQ4UkkwSGpVQ2xPdVBIUVVwdUI2bTFleGF1L3R6NjBoTzZiUUVKS2ZIQUlMa3FsdDhndjdXYnJFR0VJd0Q1ZFNxUE83YldnMG1jSHJCSWJGOFVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
     },
     {
       "merchant": "Kinguin",
@@ -536,6 +578,20 @@
       "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
+      "merchant": "CityPASS",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eXU0cW1PL1N4Rjk3cjMrcGVmMG83YmttYSt2VlRaNkxCMWtGM2g2dnU4a1RjdG4zem41b29rbGtITStxNG9RQjA3aWpMWHVnUkMrWEhUZEtkR3RmQlRJcWxCSlhPdHJUM2RPOXFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
+    },
+    {
       "merchant": "Walmart",
       "percentBack": 4,
       "dollarBack": null,
@@ -548,6 +604,20 @@
       "source": "single-use",
       "emailMessageId": "19fb89a0a07f1c4e",
       "emailDate": "2026-07-31T14:35:30.000Z"
+    },
+    {
+      "merchant": "Polynesian Cultural Center",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cFFZNHBVMTU3OHRWV1BRUFFFa043a1lmczVUWEl4RWlrODdLNEoyN3ZxdVR1T2hCV0ZkakVBMGJ1eXYyS2JQa0N0Y09XVG9NSFZFVXAzSmU4Wm5DSFNqUUJ6UjAzWTk2NTFOcVRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=polynesia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fbe2110e572365",
+      "emailDate": "2026-08-01T16:21:04.000Z"
     },
     {
       "merchant": "GameTime",
