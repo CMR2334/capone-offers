@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T00:18:39.405Z",
+  "lastUpdated": "2026-08-01T01:18:36.025Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NEt4dEFmeXhOL0Y4NHM4cVNxQ0N1MG8rSFpkbms0cGZuSUttTFZ6VkN3cVZXVER3cE5TUHgyUktRaEhGeEZ2ZHFFem9VS0FzbVhqNDZ3TEs5RE5kZytiWjRyZWhFamFRWHZsWXh3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a3NMZ2hVTGIrTkR4eDlHcUV3cUluWjZTdG9HRkpYOG1QUHRmMFhCRm9QTnA5Y0FrRXljbG1TYWtEUEhhSnJ6U0JDTHhjNXBuTzhKVktkM052Ym0yTmRtZ1VKalNOZm95eHQwb0ZRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fba8784fd3d435",
-      "emailDate": "2026-07-31T23:34:30.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "Sam's Club",
@@ -67,11 +67,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S2s0aCtQaVByMFlWcTBISUpmL2FEd0NEa2RSd1FGZWFsTllCakZmZ1hYQnpNWGZOT0lSaDlRNHFVQURyQjVoTUk2Qit2QzdzRGVMVElJaSs1Z2JoL1VDVWtlcFFFY3JkQWdoV1ZRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V01Id0UxYmtyWHVLV3VQRnY5Yk9FUkFMNnd4RVNRNk1iT3dEU0F3VWtOVklVSnEwYjM1QVh2b1c0bE8vWFdUaWtML0pIdnU0N0pNN1JsZ2NhVzQrOUNQVi9KRWRpRytWWlo1VXBBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=canadapetcare.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fb9e6c4d2867af",
-      "emailDate": "2026-07-31T20:38:55.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "SIXT Rent A Car",
@@ -142,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "19fb7cd9198280a3",
       "emailDate": "2026-07-31T10:52:09.000Z"
+    },
+    {
+      "merchant": "iHerb",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a1NHbXplOGlYVVlINlVseEJDbFRWNHo3U3F4d1lKMHFDTzU2bHlJVmRHOEFwbitzMlp1bE80cDBvczZvTlVlQXR3NnhGVWFndVFVNkR2WnFvTE5tZnRmMk1wSjB4Z3NEYkZNeTJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "Going",
@@ -333,11 +347,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VE1BN0tvQk1tZGhKV2xqWmlYcWxOd2twc0ViMU1ocE1yV1Rhc1dRSHRZUW5lSFMzdHBEMDZyNWxjdHhOSUZMbGpmWmxPNW9CN1I3WlhrdEh3Q3RWQ291YU9zaHRhd3BwMkVvNWJ3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eGlidVM5cFRBVW1rQk83S0ExeWx0SHBXT2VDRU5sNFNOeWsvQ0ZERlB3WGYyZUZkNlVld3B3OUtqbTArektoN0kxOEJUU2NZRWJXREdaR2M2VnFDOW83UmRnbHh2cXVQQ0o0MTVRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=chewy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fb9e6c4d2867af",
-      "emailDate": "2026-07-31T20:38:55.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "Staples",
@@ -361,11 +375,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N2U5ZTVHNkNvSkJqL1kzMXZvY1dKYkVYVG00NnlYb09zZVQ1c0kxS0tYaldDclNWbXlSdG03cXFtWlVKQlBRTmtGblNXR2ovaVl6Y2JUa1ZaMUdKbDkxa3lYSTBnQ011VktVNVV3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UGN6MkVTK2FOQ05FMzRmR1VCYjV1Uk1zY25kQmlKOCs3TU1HZXAxYWN4OUJqV1hxaXdPVmU5TGhkNlk4ZlAwNXJpQ3l6cVk0ZU1ZQmJ4RFlCRmJ6bldRamlPb1M0bFEvdjcxZENBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wine.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fb9e6c4d2867af",
-      "emailDate": "2026-07-31T20:38:55.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "CVS",
@@ -515,11 +529,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YllWRHlBRmwzazRrbmdZL0VGV09vcjByZWhvZVdyWkQzdnBHS0poaGlaOGtOUjhJVy85ZTRDQ0Yyc0plQW5SN2ltZkprQTZpckFuRmFaYS93RGNyZjFTTU9TSHVuaFJOQjhzL3lRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QWZZZDF6NWFiYTZqbEsydUZBSnNkb0VXaC9vRXIwNGtxWm1rNEFtaWIzQmVBdUZiVzlKRlFsbGgxVHhsaDJwMXJLVWdiQXl3ODJFcGdVRStoRkNNemxDcnh6R2U4eEd2S04zNEZBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fb958c15063786",
-      "emailDate": "2026-07-31T18:03:48.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -949,11 +963,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cG1iWExMUGdRYXY0UEVYQ3h3WTFRUFhHd3dxbmRBRVdWRnBrRW1aWXVDcnRqZHRZdXNBZm8vc01XTnZGRFExRE10a2ozUGh0L240Z3RtUjJRUmoyRlphY0tHU2t4Nk0ycTNId0NnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TUhSSnhMNEhLQ2ZLZnk1V3pxWDRoMEZucjIvaUtPYVZrMVduaXVUUENJbUFFR2pMakExUWlBd2c0eDlrakpYc1pDVUwvKy9JMzAwWE5XMHZUYkRNTE9VS3I3djBGOEs5MFBOb0Z3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fba8784fd3d435",
-      "emailDate": "2026-07-31T23:34:30.000Z"
+      "emailMessageId": "19fbab166e9b2f27",
+      "emailDate": "2026-08-01T00:20:15.000Z"
     }
   ],
   "upcomingReveals": []
