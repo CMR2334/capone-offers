@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T23:18:41.957Z",
+  "lastUpdated": "2026-08-01T00:18:39.405Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6elZZSGpOSnhJa1RaS0J4NWFYNmpFUk5jaTdnb0ErVUJaTjBtSm0rdWFxZGVHWHAxRmZTTHRTZ1ErQ0pTNkp2anc5dDBCQUgwN1JIcG8rTFhYc0lOVGhPV2RhUFQ5QU40aURZdWp3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NEt4dEFmeXhOL0Y4NHM4cVNxQ0N1MG8rSFpkbms0cGZuSUttTFZ6VkN3cVZXVER3cE5TUHgyUktRaEhGeEZ2ZHFFem9VS0FzbVhqNDZ3TEs5RE5kZytiWjRyZWhFamFRWHZsWXh3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fb9e6c4d2867af",
-      "emailDate": "2026-07-31T20:38:55.000Z"
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
       "merchant": "Sam's Club",
@@ -142,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "19fb7cd9198280a3",
       "emailDate": "2026-07-31T10:52:09.000Z"
+    },
+    {
+      "merchant": "Going",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d0thNEhqbEhkcHJoU3VDNFNZODR3SExQNFBxQ2Z0WjJEdDVITDRrRHJPOHRlNmJ2ZmtZaUplRG9OaU52NXRUcFhGTXdZb2I3QVNPdW5aM01ZYk5WVVBLY2xLSmpvMU9PTEZDa1BRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=going.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -368,6 +382,20 @@
       "emailDate": "2026-07-28T11:16:59.000Z"
     },
     {
+      "merchant": "Contiki",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NElGcTRCTExZVFZNazNIV01iMHptRUNSOFFwOGlMUytqSmtObEhpdjRaK3o2TmxoL29MY0xYQjVJUHY5ZStLazdNMjB3SWRPK2QvQldIMTduNk94MUlMRGFzN0ExNkY2VnRzRVB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=contiki.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
+    },
+    {
       "merchant": "Celebrity Cruises",
       "percentBack": 10,
       "dollarBack": null,
@@ -464,6 +492,20 @@
       "source": "single-use",
       "emailMessageId": "19fb958c15063786",
       "emailDate": "2026-07-31T18:03:48.000Z"
+    },
+    {
+      "merchant": "Cheapest Airport Parking",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WkxRd3J2RVBmWG0zVHlkcWd3NXhFOVg1N3pXMGdhdU5MNDRMS2NsdWMyMlluZUlDNW5YUzA5YWsxNTVkcnBHSlNGREdva2FuNU9nS1IzYlVDTWN6QnlSOWpiSFllV3VsbjN2OWRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheapestairportparking.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -576,6 +618,20 @@
       "source": "single-use",
       "emailMessageId": "19faff8b0934fe95",
       "emailDate": "2026-07-29T22:22:17.000Z"
+    },
+    {
+      "merchant": "Vignette Collection",
+      "percentBack": 2.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Mmg1UEhsZjFzNnRlWFV0L1ZmeUw0dWlyaUhnN280Y3hGeWhHRlVSUG15QlFSSzdQbkU2Ykd3N1RrVlVIRFZmcVlaa0huODdISUcwb1ppaUZZK3ZmSVR2d3MzM1FRZ1crSzNQSk5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vignettecollectionhotels.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
       "merchant": "Vivid Seats",
@@ -891,13 +947,13 @@
       "dollarBack": 7.5,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "July 26",
-      "expiresAt": "2026-08-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YVZsWEdqcFR2TlBZbTJPSzFiaDNlK1RORnJ1eUFoZys1RGQxeTZRNzBrNVZadVArelBuR2NBMkV0MnF1NElOSTExS2YzUWRFK0IxRGpuZDk0bWtaNGtsU2pWQi9taUpUbHI5K05BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&type=cropped&width=500",
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cG1iWExMUGdRYXY0UEVYQ3h3WTFRUFhHd3dxbmRBRVdWRnBrRW1aWXVDcnRqZHRZdXNBZm8vc01XTnZGRFExRE10a2ozUGh0L240Z3RtUjJRUmoyRlphY0tHU2t4Nk0ycTNId0NnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19faff8b0934fe95",
-      "emailDate": "2026-07-29T22:22:17.000Z"
+      "emailMessageId": "19fba8784fd3d435",
+      "emailDate": "2026-07-31T23:34:30.000Z"
     }
   ],
   "upcomingReveals": []
