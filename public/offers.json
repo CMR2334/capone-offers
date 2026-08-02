@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T18:18:33.083Z",
+  "lastUpdated": "2026-08-02T19:18:40.657Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -16,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "19fc29d51a870e0b",
       "emailDate": "2026-08-02T13:15:17.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 28,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RkN2R3BkUEtHNlBYUmFQc2ovanpKZ3FVZTBSZ0JwOEFaSityM2pJT0FHRVlUOGhsVi9FdDkyWUN0emFOZWxBUzVWdlJ4U1dDWFI0aFk2RzVWQ3h4M2NsajhxTENRTWYvbmJvWW5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
     },
     {
       "merchant": "Airalo",
@@ -263,11 +277,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NUc4MTFxcm12TXU1YUUrK0tvYi96RitTZFBwTzBLTDJ0VWVpSFpmNmZJNCt3cEVkN2lCSFZ1RmZiQmtId2lDdWhvL0llc2Y4L2xnRUhHK0JPV2FBNDFHNitLaVZ5Y2ZFaVpSSlB3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUFFNGdQR0o2cXNUMU90emNRaFk0b1Q3VnFhUWRpQjI1Y01VN0w4cWsyQkJDcXVRYnJyajUrN0NtZUk5bEVVeEgrMWZPNnI5V08rejg1Y0lEQmJtSHdsOUFhTVZZVngwZktQNVdBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=expedia.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19fc33d87e2fb72c",
-      "emailDate": "2026-08-02T16:10:16.000Z"
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
     },
     {
       "merchant": "StubHub",
@@ -550,6 +564,34 @@
       "emailDate": "2026-08-01T16:21:04.000Z"
     },
     {
+      "merchant": "shop.com",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SndBeDRLYkVrRHVXNVczVFpwNHByLzhmdDRBYVZ1UlJVbkdpSmlMRWhqd0xQQStwVWxZTVp6cWMycE4zM0l3cFB6QjRydUlubHZKcThTN2J4d3FYSUJLV3FMb3lJTFdjbGk1dmlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shop.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
+      "merchant": "Macy's",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjFYdWx2SEtwNzU4anY3NVI5MzR6RWdBY1U3VVYwblk2eG9LN1ZJVzZPWUdhSmdqbm1Jby9WWGtXZ0FxdTVpNWlRVmFNSkxUTHlPaWJYbFgvNzVVMUdRSTYzWWlMUTdNZ0xrbUNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
       "merchant": "Kinguin",
       "percentBack": 6,
       "dollarBack": null,
@@ -570,12 +612,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NklnMUpxV2FoNFAvOTVaTkVNQmFNQmtwUXhsRHlvZUxjOHgrS01haGl4UzJZdUdFZUhkZGZxNVhaTjdDZU5zazdYODFGT0Rid3VHNzUzSCtCek9kSDBYZzNxL0NmOVJLK0VXZVR3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,stcs_DA38GhYUmK3ZS0fI128HiHvfRi4M_kbSqAANQJw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/fb1b8ba32fbbe3d34afe8fd0.jpeg",
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUgzK0hGeldoa2pYNlVmeWd1Tm5vSDBUS2VTL0J2aHQ2czhFcGlXQzRROEt4cnZLNmVKdExkajBidU9FNW9VRzBNVEZoUVdmR2dEK0ZLLzhqTEE5N092ZVZEMDNHdk5Zd21IMEhnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,sSdQRhV63Q8n4DmHe6uSXB-u-0K3T-es6e9vDk7cr31A/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/457f3cfb43a67d062e6ccf78.png",
       "source": "single-use",
-      "emailMessageId": "19fb9e6c4d2867af",
-      "emailDate": "2026-07-31T20:38:55.000Z"
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
     },
     {
       "merchant": "Trip.com",
@@ -634,6 +676,20 @@
       "emailDate": "2026-07-31T14:35:30.000Z"
     },
     {
+      "merchant": "Bed Bath & Beyond",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ek1tZXF4b014MkdTdnQ3c2FzclpBTk13b3VXeWdGY0U3am5Mc1RZQWdTeTRSQjdsL2p1NGg0RFRjMm1tbXdhSEdwMXdYZHNTYXFma0RiN2tiUGVvejRQMTVENW4yZlR0VUZWSkdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bedbathandbeyond.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
       "merchant": "GameTime",
       "percentBack": 3,
       "dollarBack": null,
@@ -690,6 +746,34 @@
       "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
+      "merchant": "Target",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGQraEhIZmE4WUpudldIWHFXdkdiY3gvakxOWk0wWHRXNnhyRnhxTXY0OGJqSEswakVUQWZ5YWFXMVBOWmMrNUFReTRIMFZ4RDZFZWFNeWpDRk5SS0NJV0hNTDlzcEJxNmVXcThnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
+      "merchant": "DHgate",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U2RENi9jbVIyK3VOYWJnQ0xBS0xTUnM2R2VVYW82NUZwWm0xUUdaWkgwWmRQUXJrTm81YVJad2xFWHN3OU11MFpZeWM2ZUtOVmJEUDRud3JsYVROWGQ3b0EwOUdpTDE0NXcwTVFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dhgate.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc3e46544bc7f8",
+      "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
       "merchant": "Tours4Fun",
       "percentBack": 2,
       "dollarBack": null,
@@ -727,20 +811,6 @@
       "expiresAt": "2026-08-04T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SkFTaVoxRzJRb2w4VE1SVWZXZHZjTUszSUtKSWRZY3pBNDZwTSttcHRudEp6YWowazhMY2NnUUhueTJVdnJPRjlGWlEyUTJ1cDQ2Ykw2NUpDNFlDOUVrUDZVeEhFUmprclduVHV3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19fb7cd9198280a3",
-      "emailDate": "2026-07-31T10:52:09.000Z"
-    },
-    {
-      "merchant": "Target",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dGV2TWNNN0RWZGhpQWNuLytlWEorQXFDQU55VUUrS3NwK0ExOTVQUXdvSWJmVmdkaTFMU2c0dG9ydHVKMkxPRmFrR2h1aGxPL0VPYVVsTldKN3hDbUg5NkRxNkpPdEx0MGlxOGpRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "19fb7cd9198280a3",
       "emailDate": "2026-07-31T10:52:09.000Z"
