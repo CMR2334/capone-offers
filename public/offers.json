@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:18:44.975Z",
+  "lastUpdated": "2026-08-03T10:18:43.376Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "19fc3e46544bc7f8",
       "emailDate": "2026-08-02T19:12:32.000Z"
+    },
+    {
+      "merchant": "Famous Footwear",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVZxMlM2Y3U0bDBQbG1MaU9YRnRNbldiVE5UK2FhcHJuWFhZS1poL21CMDBnbVJ5MlFrK2pndENJTUJmL3M0cGtLcG80cklkdkNBNmMwcElBUFhXbkY0ZzFCQzRCNHE1SjZ2WFZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=famousfootwear.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
     },
     {
       "merchant": "Airalo",
@@ -130,6 +144,34 @@
       "emailDate": "2026-07-31T10:52:09.000Z"
     },
     {
+      "merchant": "Ford Accessories",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VFdpRnZKU24zMlVDellTcGJqcStwWDZPaDJRQUQ4MjhrckFxckVLQTRXNWZJV2RkOUVETWFKeCs5SWNoeStEYlI5d3c2bTA3YzJwK3hhV0hXblIzVXE0dzJOM3o1NzJIS0d0UUNRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoaccessories.ford.com,s27ohLryBbvqaI9zGfRlJDdjS2l1SfYSDojJYQtUfNXE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/d42b74b62d4ee662ec7da7df.jpeg",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
+    },
+    {
+      "merchant": "NAPA",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TERsclAzUFppeTJ2NmkvS0NzYXIxMURvTVpDYVVIcmFuNmc2Qnowcm5nYzRvZUYxVTlNcWRDNmJmVGVObzkyVDY5QmJaVzhxcFhnK2JaNFNmZ0R5ZWlJOFFBdDBFSmVQWXpnUWpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=napaonline.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
+    },
+    {
       "merchant": "Firstleaf Wine Club",
       "percentBack": 15,
       "dollarBack": null,
@@ -200,6 +242,20 @@
       "emailDate": "2026-07-31T18:03:48.000Z"
     },
     {
+      "merchant": "CarParts.com",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OTVWQXc1eHZXS0lwRlljVTY0b0ZKNC9sMWUvRnlrS0lnZFllenpVK3EzeXYrNmtlTDVTSEpERGlGVGxvSzNnTVh4V1Uxa3BSVzVFMUdWM3UxaXhnQ3NXSXJsUW4xYm5DWDVIYzh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=carparts.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
+    },
+    {
       "merchant": "StubHub",
       "percentBack": 14,
       "dollarBack": null,
@@ -268,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "19fb7cd9198280a3",
       "emailDate": "2026-07-31T10:52:09.000Z"
+    },
+    {
+      "merchant": "Rhino Rack",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZVJQWkdxdmlGWWhCWW4zTjJWanZiK0JjWGFxa1lrREFZMzhENE9IOHVCSko1T1IzV2tFSFEwSmtac1ZOTktQSG1vZEVaVUx5bWhtSUNLWEhYdkRNRFQxRmgvc1JLMnFwN0pXTGRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rhinorack.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
     },
     {
       "merchant": "Chewy",
@@ -382,6 +452,34 @@
       "emailDate": "2026-07-31T23:34:30.000Z"
     },
     {
+      "merchant": "Turtle Wax",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SkpsZzBSTEc3NUNuazlmZlpyeUNuMUlnWG5CZ3BFeWZSVXJudEtpdUNudVJjTFhVTjRvYVZpelJsS1ZSeE0zNGQ4aUxWTHREUUVGMUdjbUY3THZZa3EreGxOS1FYNW5DdGU5TVlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turtlewax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
+    },
+    {
+      "merchant": "3Wliners",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z0dIZVl6NU43UzVaTTVsS3JOeW9zczFFTktkYk1GY21ER1NYVElOdFoyWDgvbHg4TTIrU1IwM2VZbXJaMjc4L2xmcHNjOUpOT3dMcjFJK3ZsL01jbzFtNkhXTHF5aUYraUNKbTN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=3wliners.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
+    },
+    {
       "merchant": "Ticket Liquidator",
       "percentBack": 7,
       "dollarBack": null,
@@ -464,6 +562,20 @@
       "source": "single-use",
       "emailMessageId": "19fbe2110e572365",
       "emailDate": "2026-08-01T16:21:04.000Z"
+    },
+    {
+      "merchant": "Real Truck",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UWMrMG5lbHFhdlNac0oxZ21xallJYkprQ0JZTzhZK2FjOTB1dmViOHZ3UWNCTlRrc1FqZWJqRmtJSDZYYmc2dGJ2NlFFREJURjREQ2g2cG5hZkEydTRvNWVnT0RRRWpQVkRIdXNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=realtruck.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fc711679791f89",
+      "emailDate": "2026-08-03T10:00:33.000Z"
     },
     {
       "merchant": "shop.com",
