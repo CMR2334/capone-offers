@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-08-07T11:18:06.288Z",
+  "lastUpdated": "2026-08-07T12:00:00.745Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "DSW",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ODJLdllpMm5aalpEUWxxOW50QlpJaURXc2J5VVN2VVNFYlU4V0MyYzExS25BbjVNQ3JNOFdUQkViN2lkYTNpV0RyZklIbURlYWZQRXdpRS8ybU5obVBEZnVpekdpOHJNdHVOMjl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dsw.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
+    },
+    {
+      "merchant": "Event Tickets Center",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RGFrZWtsMGpQNyttTGYvZlFnaTd6M09oZ1RveXNBNmxBMlBUZHZzZ2ZiVERDd0QrN3Bqa3BjQThPMHR4ZVlVTVR6SFZPZGk0NGJEcFhGQnUvTEIxNjJuWkZjV2VJbEl6LzZBdWxRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
+    },
     {
       "merchant": "Costa Del Mar",
       "percentBack": 25,
@@ -44,20 +72,6 @@
       "source": "single-use",
       "emailMessageId": "19fd99f89e998bc7",
       "emailDate": "2026-08-07T00:28:58.000Z"
-    },
-    {
-      "merchant": "Event Tickets Center",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UjV6R1owd2l1YlByNDdiMFFjN3I3YU5yNFgwNGlLT1YzK1NmSzhBMVBFK1R2ZnM4TzNNd01GbFRhUWordFl6cTBucmt2S3kzclRJR2x2WHlHVkZDRDBkaHAwOW42S1ozQ0pIdVNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
     },
     {
       "merchant": "Blue Bottle Coffee",
@@ -270,6 +284,20 @@
       "emailDate": "2026-08-05T20:36:24.000Z"
     },
     {
+      "merchant": "Ticket Network",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZzB4emZ3ekJJUXRqNm1RQkF4Nk95RDFoL3FmY2RhUUtJSVVkV3ptOWY3Z0RtS0JsOUpGYVN1bkw2ZlZEMEc4akxmRFp2dXZXZmZhNEdxckZMR0xESmtHM2N1a29PNWtzR1ErVGZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
+    },
+    {
       "merchant": "Hellotickets",
       "percentBack": 10,
       "dollarBack": null,
@@ -282,20 +310,6 @@
       "source": "single-use",
       "emailMessageId": "19fd99f89e998bc7",
       "emailDate": "2026-08-07T00:28:58.000Z"
-    },
-    {
-      "merchant": "Ticket Network",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dDVyOWNzRUtRa3RMT0dveitZbGZNNktiL0RwSnZ2RGNFZldZbFZ6ZUlUSDIxMm80VHF4bmRmUkpGc0NnUVp0VVhOZWwvNEVnTkxmZitoRW1FWU1xekxnNk1rS2tnS3pqWmVGM0xBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
     },
     {
       "merchant": "Blue Apron",
@@ -570,12 +584,12 @@
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YTltK0Z1Zi96WmNqNjVkU2FOVzJFMGs4WjZiY2lNVUJ0US95V1Fkd1BsMHhPU2U5VXpqTHBqNEY3UkxxMzF3Ykt5YTIxQnRyRWdKeWJUdi9uV3F4K09MNk90WHJXMW44MUh2ZDl3PT0/runV3dl",
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjZscFFTYkM4cG1aTitNS2pVZCtmM24wM1ZIaFMwZTdsRG9kV3RaaldDVTNPSGx0MFJlYTNuaC8wWjFjbjA3Mk1RUytkdVpCWGRsVVhnMHBEMDNnZE5IRERTRHAzNVdnaWxheGt3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
     },
     {
       "merchant": "Priceline",
@@ -668,12 +682,26 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VHpWdmZxbmQ5TG1KVEREc0VsekZrcTFUTm02OEEvZHhQSmlkVFgrQXNLSU1la0d6VzZVd3RxdXdWRFZwVGlFNVhLSk1xWDU1Rzdnblo2bi8zOGxadG84bkhnRkU0WXN2TUMxSjFBPT0/runV3dl",
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SHRHMXZBdkY5WWNDTmFiTUR1aFQ1NXF0djdvWVVFR2FZanJCZkZjRHN5KzNIWWlJd0xIekRGNkszTFg0WnNyTUdKKzU3dDZsRmxwSmw4NnRFbWJ2elA2clZNWU9lc2ZrV0lVS3ZRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=astound.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fd47e00db57265",
-      "emailDate": "2026-08-06T00:34:15.000Z"
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
+    },
+    {
+      "merchant": "HelloFresh",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VjV1bWVOakxPL1ZUeWRCWnk0Vko3ZmFESjhlaWQwZDFXZGVweGhkMmZkbTJFSko3YzFCR2lBMVRMNDBDQUt2dytUVTU0ODdFcW9SKytZVjVLV0dEdGFCanBFZ05jc1oyZzlSdUpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
     },
     {
       "merchant": "DoorDash",
@@ -744,6 +772,20 @@
       "source": "single-use",
       "emailMessageId": "19fd2f786674871c",
       "emailDate": "2026-08-05T17:27:44.000Z"
+    },
+    {
+      "merchant": "Safelite",
+      "percentBack": null,
+      "dollarBack": 7.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N1l4em9QZ2hWY1pZM1Q1R0QxZmJJbUMxL1MxUW1mSm9EU3A3M0pibnBkNTkrbWNNZ1dCZG8vZit5RWJqRkdRQlg5T0d1WENvTnNsVWY4UlNOSDdnUkpwUjhHVkN4QnRGa3YvSGt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fdbf50a25b82c7",
+      "emailDate": "2026-08-07T11:21:37.000Z"
     },
     {
       "merchant": "Hungryroot",
