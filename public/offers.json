@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T15:17:56.195Z",
+  "lastUpdated": "2026-08-08T15:49:01.041Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -36,14 +36,14 @@
       "percentBack": 25,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RGFrZWtsMGpQNyttTGYvZlFnaTd6M09oZ1RveXNBNmxBMlBUZHZzZ2ZiVERDd0QrN3Bqa3BjQThPMHR4ZVlVTVR6SFZPZGk0NGJEcFhGQnUvTEIxNjJuWkZjV2VJbEl6LzZBdWxRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-08-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OWpDQmp5VTlpdys1c0ZNaTNyejZnbytBTlpRT2pCa2Z2N01oaTNYajNBRW1TY2p3Q09IaGhFRm9vTFlpcnpEa2FEbC9mTzhUTTFoZTdzbWovTC9LYmlhblRwUURxRmhKMjNVMFJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fdbf50a25b82c7",
-      "emailDate": "2026-08-07T11:21:37.000Z"
+      "emailMessageId": "19fe1f8f3d58e979",
+      "emailDate": "2026-08-08T15:23:35.000Z"
     },
     {
       "merchant": "Costa Del Mar",
@@ -290,12 +290,12 @@
       "capAmount": null,
       "wasPercent": 4,
       "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZzB4emZ3ekJJUXRqNm1RQkF4Nk95RDFoL3FmY2RhUUtJSVVkV3ptOWY3Z0RtS0JsOUpGYVN1bkw2ZlZEMEc4akxmRFp2dXZXZmZhNEdxckZMR0xESmtHM2N1a29PNWtzR1ErVGZnPT0/runV3dl",
+      "expiresAt": "2026-08-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OUhUZDZlaCtXK2NvZ0kweUhjSU1VQWFDcC9CVWVjRWUrZnZLK3BCL21iOGN0b1NDTXpsTFlJbGFnRXF1cUdDRzI3UDFLM0l3QWQxQVlITTFjSE5ibHNkc016UGNlY0M4WnBoN1FBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fdbf50a25b82c7",
-      "emailDate": "2026-08-07T11:21:37.000Z"
+      "emailMessageId": "19fe1f8f3d58e979",
+      "emailDate": "2026-08-08T15:23:35.000Z"
     },
     {
       "merchant": "Hellotickets",
@@ -374,12 +374,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NW9jeDVuc21JK0RPdVRha0laSHNaN2RaaDc4alpFN0s1Z3JBWjBaTmNtRFpROXRsNUpPUWtOc0lrSXZnRTF5Zkl4YThhbGJHMklDU3h2SitkdjNLZFQ0dGVjak9FUGVLRUdQSmtBPT0/runV3dl",
+      "expiresAt": "2026-08-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MnJvcS9CeFNOR1BlSTllZkMvRHdoSGJ2bEp2RzhVS3l4eDFpeHFwSVlBa0g4ZW1MMm5EWFlnUGYvQmt4eVZNRmliUkg0OEdVdVBjeXo5R1NWVGFSM3l5WXVsK28zbXVFS0lIZzlnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
+      "emailMessageId": "19fe1f8f3d58e979",
+      "emailDate": "2026-08-08T15:23:35.000Z"
     },
     {
       "merchant": "PetFlow",
@@ -408,6 +408,20 @@
       "source": "single-use",
       "emailMessageId": "19fd99f89e998bc7",
       "emailDate": "2026-08-07T00:28:58.000Z"
+    },
+    {
+      "merchant": "Ticket Liquidator",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-08-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXFQbXhZVTJKcE1NTnpRNmkwZGhGSk1JTk9SNG51WU5JRllmWStBOEFQbXNmRklId2UyNXVLZHdMbXU2eEM4K251MHBiYUh5cHhndHRXbmZpZUNhSkowQWMzZU40VUVmN0ZjNEV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fe1f8f3d58e979",
+      "emailDate": "2026-08-08T15:23:35.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -450,20 +464,6 @@
       "source": "single-use",
       "emailMessageId": "19fd99f89e998bc7",
       "emailDate": "2026-08-07T00:28:58.000Z"
-    },
-    {
-      "merchant": "Ticket Liquidator",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dDFXNHBBTHpScUlzNUxJSTU5ck4xS0ZZZTZpZHZyaVJodkZocVpZQ1ZFU2ZmM2UwelAxSHBmMWdGMEhiUWhqVStZZlQxY2NVU2hzODErWEZjUGVhdkNXSzREVlVFR1VxYUJiYXRnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -522,6 +522,20 @@
       "emailDate": "2026-08-07T11:21:37.000Z"
     },
     {
+      "merchant": "GameTime",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-08-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VkZHTnA1T1RpRzhmckVzOFlZc09oTVFVQ3NTZ3Y4Zytac3QxelJZazhrVlI0dk1QNEw0NmJXbmFna2kvd2dVem5XQm0rS3FGZWcrcWRYZEZpV3cwSDQwMlovTG1RY2ozT1M0TlJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gametime.co&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fe1f8f3d58e979",
+      "emailDate": "2026-08-08T15:23:35.000Z"
+    },
+    {
       "merchant": "Priceline",
       "percentBack": 2,
       "dollarBack": null,
@@ -548,20 +562,6 @@
       "source": "single-use",
       "emailMessageId": "19fd76dc0e08dd8b",
       "emailDate": "2026-08-06T14:15:21.000Z"
-    },
-    {
-      "merchant": "GameTime",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-08-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6enFaZGt5ZkRuNVVxZjZrZndwckNoc3hDYU51WDJzbFE0N1JYRUxWbjJSZXVOR3JxNzRnQ1BMUHZORmxQVXZuNENsZXVmM25xSkkySUxYN3VxNkRuVVdmRkUzWHhGTk5OdllRSkZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gametime.co&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fd6a9a1fdb5081",
-      "emailDate": "2026-08-06T10:41:08.000Z"
     },
     {
       "merchant": "JetBlue Vacations",
