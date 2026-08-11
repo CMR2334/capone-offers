@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-08-11T06:18:30.623Z",
+  "lastUpdated": "2026-08-11T07:18:31.759Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "1-800-Flowers.com",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWEyWVJEY09qSHJVNnFzcDNnRDFUNmZkMStIdk9iVXYvbFMydHNJN1N5a2NSRjFuMGtXazc3SzQrVnJZaE1ObWJ6YjRNajhwTzFvU1FOY1FQbFYvU3ZzTGttSU9LdzNLQUgwUEd3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800flowers.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19fec9e8772c8720",
-      "emailDate": "2026-08-10T17:00:39.000Z"
-    },
     {
       "merchant": "Chewy",
       "percentBack": 30,
@@ -382,20 +368,6 @@
       "emailDate": "2026-08-11T00:35:38.000Z"
     },
     {
-      "merchant": "Vivid Seats",
-      "percentBack": 2.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjZscFFTYkM4cG1aTitNS2pVZCtmM24wM1ZIaFMwZTdsRG9kV3RaaldDVTNPSGx0MFJlYTNuaC8wWjFjbjA3Mk1RUytkdVpCWGRsVVhnMHBEMDNnZE5IRERTRHAzNVdnaWxheGt3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fdbf50a25b82c7",
-      "emailDate": "2026-08-07T11:21:37.000Z"
-    },
-    {
       "merchant": "GameTime",
       "percentBack": 2,
       "dollarBack": null,
@@ -408,6 +380,20 @@
       "source": "single-use",
       "emailMessageId": "19fe1f8f3d58e979",
       "emailDate": "2026-08-08T15:23:35.000Z"
+    },
+    {
+      "merchant": "Vivid Seats",
+      "percentBack": 1.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RzZ0bTJTSkNaN1FqRDMvMmt5WTN6eHhjZUxvbVNGV1RzcTEyTSs1WmFkM2U4TkMxYUdwd2xsakdTWGxTR2pEclU2RGZoZng0NGx5OFhMZnVpWnpkRWMxd3EzOHN1emlQVzBjZXh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fe62189766e270",
+      "emailDate": "2026-08-09T10:46:25.000Z"
     },
     {
       "merchant": "Astound",
@@ -452,20 +438,6 @@
       "emailDate": "2026-08-10T10:57:58.000Z"
     },
     {
-      "merchant": "HelloFresh",
-      "percentBack": null,
-      "dollarBack": 50,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VjV1bWVOakxPL1ZUeWRCWnk0Vko3ZmFESjhlaWQwZDFXZGVweGhkMmZkbTJFSko3YzFCR2lBMVRMNDBDQUt2dytUVTU0ODdFcW9SKytZVjVLV0dEdGFCanBFZ05jc1oyZzlSdUpnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fdbf50a25b82c7",
-      "emailDate": "2026-08-07T11:21:37.000Z"
-    },
-    {
       "merchant": "CookUnity",
       "percentBack": null,
       "dollarBack": 49.5,
@@ -494,20 +466,6 @@
       "emailDate": "2026-08-10T10:57:58.000Z"
     },
     {
-      "merchant": "Thrive Market",
-      "percentBack": null,
-      "dollarBack": 40,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZEVqNnlKc3B3MGRzNSsrczFGazFMWFlwSUdxcCszMFQ2end3YTY2VFF3MkxXZmtMTnYwdDl0eGhaamRZZE9FWXdrbFNjNi9HTExUWC8yYUdTVzhlbHVYMjFzNmU3Ym80dGdZSnJBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thrivemarket.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19fec9e8772c8720",
-      "emailDate": "2026-08-10T17:00:39.000Z"
-    },
-    {
       "merchant": "Metro by T-Mobile",
       "percentBack": null,
       "dollarBack": 14,
@@ -520,20 +478,6 @@
       "source": "single-use",
       "emailMessageId": "19feb527c8041061",
       "emailDate": "2026-08-10T10:57:58.000Z"
-    },
-    {
-      "merchant": "Safelite",
-      "percentBack": null,
-      "dollarBack": 7.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N1l4em9QZ2hWY1pZM1Q1R0QxZmJJbUMxL1MxUW1mSm9EU3A3M0pibnBkNTkrbWNNZ1dCZG8vZit5RWJqRkdRQlg5T0d1WENvTnNsVWY4UlNOSDdnUkpwUjhHVkN4QnRGa3YvSGt3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fdbf50a25b82c7",
-      "emailDate": "2026-08-07T11:21:37.000Z"
     }
   ],
   "upcomingReveals": []
