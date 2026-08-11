@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T00:17:59.490Z",
+  "lastUpdated": "2026-08-11T01:17:58.883Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -102,6 +102,20 @@
       "emailDate": "2026-08-10T10:57:58.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjgxeWMvNCt4eHphSlFCMDZTZ09TaVM3R05QVWg4U3A5emNHUmp0WUZGQnhad3dKQjVXcU9zZXVBcmIxRldPQVhEZDFSUGVNQkxrRjhoaVFDVHZJVzhmNGVSeFNWL1RhZ2Y3M1h3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoinstacart.com,sytW2X9YOSjS2888pi7kvuOXJzXUkkJX3XW2Dm6nKzj8/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/d99111da62e7fd0f5a40b8ca.jpeg",
+      "source": "single-use",
+      "emailMessageId": "19fee3f1419f64b2",
+      "emailDate": "2026-08-11T00:35:38.000Z"
+    },
+    {
       "merchant": "LensCrafters",
       "percentBack": 17.5,
       "dollarBack": null,
@@ -116,18 +130,18 @@
       "emailDate": "2026-08-10T10:57:58.000Z"
     },
     {
-      "merchant": "Instacart",
-      "percentBack": 14.5,
+      "merchant": "topresume.com",
+      "percentBack": 15,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 5,
       "lastViewed": null,
       "expiresAt": "2026-08-14T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TnFvYksyYUxBZENrZ2VUQU5OQUpxOEo5cGdkaVJzYzV0YzJrSjl0aWtLcWxnQk0rZStFNGdRZnNPSmx6eTFJMEhLeHRxUm44ejBjZWNWL2kwaDRNdklTdHF1ZUZ1c2tVNEpUbXF3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QWdZbzRPQ2ZYVzV4WEp6cjJBSjJDekJ0N0VRc2haOVF5eTA4TjVONklLcVdENUV4MVNTeVROUmtOZ01PeWtkbGNZbHdNZzQxK2x6eUhFS3hMUkhGMlhLQ2hsZGhzTXMxN2ZiVWFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=topresume.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19feb527c8041061",
-      "emailDate": "2026-08-10T10:57:58.000Z"
+      "emailMessageId": "19fee3f1419f64b2",
+      "emailDate": "2026-08-11T00:35:38.000Z"
     },
     {
       "merchant": "Incogni",
@@ -212,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "19fe62189766e270",
       "emailDate": "2026-08-09T10:46:25.000Z"
+    },
+    {
+      "merchant": "IHG",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VERZMVQvZzVBVEtGNkVGMkNqei9STktpZ3N2US9GS0xjc0Y5bWptYWJGS0ZkRUJhc01kSjNUOXlVazMvYnNOdGhjTUFaM2JKTExxRS9PaU5lZnl1Vm5TUFhEM1hpdHZsNGRid2Z3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ihg.com/9bd877f2-7045-4b0f-9295-017e70ba82bf.gif",
+      "source": "single-use",
+      "emailMessageId": "19fee3f1419f64b2",
+      "emailDate": "2026-08-11T00:35:38.000Z"
     },
     {
       "merchant": "Hollister Co.",
@@ -338,6 +366,20 @@
       "source": "single-use",
       "emailMessageId": "19fe14ce20e63ca8",
       "emailDate": "2026-08-08T12:15:39.000Z"
+    },
+    {
+      "merchant": "Tours4fun",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aFdRdWF3OXdMWVhkTEhjNXNUSHQ1NFpZdVdXNHNFUXJwY0k3MFg0WGVQdEJtZnArd0o3a0NmaklxRmRmWmMvdXFFdUpXdEtBaDUvTDcrWHVGdFhxK3dNY3NESFgwcUhEaFp2Y1F3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tours4fun.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19fee3f1419f64b2",
+      "emailDate": "2026-08-11T00:35:38.000Z"
     },
     {
       "merchant": "Vivid Seats",
