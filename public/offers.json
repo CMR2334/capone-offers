@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T06:49:58.938Z",
+  "lastUpdated": "2026-08-13T07:18:30.490Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -312,20 +312,6 @@
       "emailDate": "2026-08-12T19:59:33.000Z"
     },
     {
-      "merchant": "Ticket Club",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aXozZGZOVjRWSmk5RG0wbVZsWmZhRHFJdHNIT292bzBkcmR4dSszcldzYnlQVk8wODVtYStvOWR2MHpLQ04vZlc3cXR1bS9xNU9IS2djazZ4SHZUMTRQSXE4YitScGJoNHBhcWNnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fe62189766e270",
-      "emailDate": "2026-08-09T10:46:25.000Z"
-    },
-    {
       "merchant": "Marriott",
       "percentBack": 8,
       "dollarBack": null,
@@ -394,20 +380,6 @@
       "source": "single-use",
       "emailMessageId": "19feb527c8041061",
       "emailDate": "2026-08-10T10:57:58.000Z"
-    },
-    {
-      "merchant": "Ticket Liquidator",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N0JZN0JtdXcyalcrdzhua3BNZFM4Q3h3RW4xQzludTVvU3ZyandCdEhsZXlSQzRQR1NDOHZKRGNIWVQ0b2pjc0p3ZWxGWkhoRGZtdUtkUjh5NlY4Z1UyaUt4ajYvK1V5STM4QXNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fe62189766e270",
-      "emailDate": "2026-08-09T10:46:25.000Z"
     },
     {
       "merchant": "Caesars Rewards",
