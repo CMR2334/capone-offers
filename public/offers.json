@@ -1,36 +1,8 @@
 {
-  "lastUpdated": "2026-08-15T06:18:27.738Z",
+  "lastUpdated": "2026-08-15T07:00:34.777Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Skechers",
-      "percentBack": 60,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OEQrcmFiQ3FtUnVkR0lCYVZrVlROZkhhVFBPRDI1a3Y0bFRvTjl0K3NsN01mSzd1RU1pU0hRWmYrRWtsWk53RHpRbUtGM2hTSE5zVUozaXV3RCtZcjFDYSttUi8vaEQwaVE1U1dnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=skechers.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a001837b5bec4e2",
-      "emailDate": "2026-08-14T18:23:08.000Z"
-    },
-    {
-      "merchant": "Kate Spade Outlet",
-      "percentBack": 35,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ci9maFJhb1ZXUnF3MFVlM3N4NFZqeGFWMTlqT1N5VXZOTWFETUlrNHdpTU1HUUtxTVlpYWlmV24rdjNCNVY4cExPcGZkZDBZU0d1c2x2blVOUnJHSUlVMkxnRGV2NHViQTBub3VBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=katespadeoutlet.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a002d37c3556c9b",
-      "emailDate": "2026-08-15T00:30:08.000Z"
-    },
     {
       "merchant": "Beautyrest",
       "percentBack": 30,
@@ -704,20 +676,6 @@
       "emailDate": "2026-08-14T18:23:08.000Z"
     },
     {
-      "merchant": "HelloFresh",
-      "percentBack": null,
-      "dollarBack": 50,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZGhjcnZnbWZna1l1dW1ocnRlT2dzMEVxbjFRMDBUY01zclJjSGlWZnBIZXlheXhQVVRaVXoxQVBHdFRjQXJtVVM1cW9hcTNWQ1RnMTdVbzJUZ1FWRHY1T2F1WTVFZTNTWURYcXpBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ff0af2b7356b67",
-      "emailDate": "2026-08-11T11:57:18.000Z"
-    },
-    {
       "merchant": "DoorDash",
       "percentBack": null,
       "dollarBack": 45,
@@ -772,20 +730,6 @@
       "source": "single-use",
       "emailMessageId": "1a000907498c6c19",
       "emailDate": "2026-08-14T13:57:41.000Z"
-    },
-    {
-      "merchant": "Safelite",
-      "percentBack": null,
-      "dollarBack": 9.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aXZibGxvcVRYKzk4QXlsNWRaOWRZNzREWWtyMUlFMEg4RGNHeEhlUGpSYUpQQm1qSHF3VFphbjZLT05BTWJGWENZRlBaWCtTRlZHTkFIU0RyU1ZGMTVtVVlUN2RlRXM3SFc5WWlBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ff0af2b7356b67",
-      "emailDate": "2026-08-11T11:57:18.000Z"
     },
     {
       "merchant": "Liberty Mutual Insurance",
