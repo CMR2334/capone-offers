@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T06:18:23.027Z",
+  "lastUpdated": "2026-08-17T07:18:31.103Z",
   "sourceCount": 99,
   "parseFailures": 0,
   "offers": [
@@ -100,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "1a001105967eadfa",
       "emailDate": "2026-08-14T16:17:23.000Z"
-    },
-    {
-      "merchant": "Shark Ninja",
-      "percentBack": 18,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aksvWm9EWE4xMk51SEd6Q2R6aVNmbTVLTGIwNk1PckNXdzlIeHRZRlJsKzNHckEyTVVLeXV6bjVGK2IzTFpkS2xtazNYSFRDeVFrenpBcU45alY2NHB6VmpMRC9QcTFaaVZnNVJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sharkninja.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a00ad3b23874ee1",
-      "emailDate": "2026-08-16T13:47:20.000Z"
     },
     {
       "merchant": "Chewy",
@@ -284,20 +270,6 @@
       "emailDate": "2026-08-16T11:52:17.000Z"
     },
     {
-      "merchant": "Ticket Club",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmFzdGtIOHVTQ0p0MUtLMjFkaHJpR09iVzNtQ2o5bzR5SzdreCtJUnhLYm44YWZJQWNhUVBkZDYzdnlsYko1ZUE5L2VYQTk5Zy91QWhiZkN6YUhVMnVJMFB0MFliVnlGeHlsYjNRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fface8805d1090",
-      "emailDate": "2026-08-13T11:07:46.000Z"
-    },
-    {
       "merchant": "Rest",
       "percentBack": 8,
       "dollarBack": null,
@@ -382,20 +354,6 @@
       "emailDate": "2026-08-15T00:30:08.000Z"
     },
     {
-      "merchant": "Ticket Liquidator",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a1JXWkMvU2t5K3B2VzhlS3RxaGp3K0ZtTE9qMHVsamt5eHluUjUzUVhmY1UrZGtSVlhQWHg3K2lNZElOV3YrMGpYL1o3dGZBeE01ZGRsY2poaUhidjBCU1VvcDVNMThDUzZpZzNnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fface8805d1090",
-      "emailDate": "2026-08-13T11:07:46.000Z"
-    },
-    {
       "merchant": "Walmart",
       "percentBack": 6,
       "dollarBack": null,
@@ -436,20 +394,6 @@
       "source": "single-use",
       "emailMessageId": "1a001837b5bec4e2",
       "emailDate": "2026-08-14T18:23:08.000Z"
-    },
-    {
-      "merchant": "TicketSmarter",
-      "percentBack": 5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UGppKzQwZlVBcVVjQlNvUU1zRjRDckR4RndreDNnZkgwZUlBQWZKdlVQZVU4U2RDek9VNEp2TEthaFNLL3NmOGZvQlhGTzR4WVBLSjlMMnpMdlZQbXVkbEpvcWRjWmJzcTY4cXN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19fface8805d1090",
-      "emailDate": "2026-08-13T11:07:46.000Z"
     },
     {
       "merchant": "PetSmart",
