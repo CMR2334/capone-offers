@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T06:18:36.907Z",
+  "lastUpdated": "2026-08-19T07:08:15.964Z",
   "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "SIXT Rent A Car",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S2FabEdMdVpOTzlVNDh1amphZ2l6WG1WUkFORzI5RjI5ZEJ4NS9QOWFCcEhmTVBMUEpKT3kwZlk0QkdJM1BlU0EyQ25lZlliK0JVQXBVT0d4VEcydDI3T3lTL1dROXpKc0NucHBRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sixt.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0176d98b0aa20b",
-      "emailDate": "2026-08-19T00:30:53.000Z"
-    },
     {
       "merchant": "Quest",
       "percentBack": 30,
@@ -424,20 +410,6 @@
       "emailDate": "2026-08-19T00:30:53.000Z"
     },
     {
-      "merchant": "HelloFresh",
-      "percentBack": null,
-      "dollarBack": 50,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZUlXcTVJUno4SnRvMUxmTVE1bWxQb0ErbkZKOFZVSTlnZUliWEFvUGVlQnMvZmM4dWpiNG9WSTEycjBENlRKUVlWenhoK0dhWFAydlhySjVTMk5zWlArMWdnWHRaRVVuRDBqMXJBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a005149bfb4280b",
-      "emailDate": "2026-08-15T11:00:29.000Z"
-    },
-    {
       "merchant": "Talkspace",
       "percentBack": null,
       "dollarBack": 27.5,
@@ -464,20 +436,6 @@
       "source": "single-use",
       "emailMessageId": "1a0176d98b0aa20b",
       "emailDate": "2026-08-19T00:30:53.000Z"
-    },
-    {
-      "merchant": "Safelite",
-      "percentBack": null,
-      "dollarBack": 11,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L0lDTVZ3YitpN01ONWNacEt0MzhzYkdBVGtJN2hYdHM5RFo5UGx0UVdqQ3Q3WjBTWHJuanVqeUFjWlN0LzYxSEIxbUpDZ05BZDhIR1UwMVFlZHM4U0hHY0FhM0NKUzZmMGtvT2ZRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a005149bfb4280b",
-      "emailDate": "2026-08-15T11:00:29.000Z"
     },
     {
       "merchant": "Colon Broom",
