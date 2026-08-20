@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T21:46:23.347Z",
-  "sourceCount": 94,
+  "lastUpdated": "2026-08-20T22:18:30.449Z",
+  "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
     {
@@ -144,6 +144,20 @@
       "emailDate": "2026-08-20T12:51:11.000Z"
     },
     {
+      "merchant": "Belk",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dmlaUU5hRzJTOHFDbG9UNmFFTEt6RnlONUJXUFNsWk1WVGszaStqNndjUXE5SlNQR1hYaUt6anJwK1FjMi8yZ09RL2RtUFVDbndZMUlDOEJvcUpTdkRUQWQ2RTJ5dUpTUWNDRnBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 15,
       "dollarBack": null,
@@ -284,6 +298,20 @@
       "emailDate": "2026-08-19T15:52:10.000Z"
     },
     {
+      "merchant": "JD Sports",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bUZKYVVuZGRWeVlsR25LSHZsbkJkYWxBZzV2MGZYZExPTGhZZ1NHWm9Dc0dzWXJqVkl0M05BVVhmVU1qdlZjRWJJenUrQldsZ01uZ0ltNkt5OTVYQjIxTEQ3dW43STVGdlV1STR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=jdsports.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
+    },
+    {
       "merchant": "Finish Line",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -366,6 +394,20 @@
       "source": "single-use",
       "emailMessageId": "1a0176d98b0aa20b",
       "emailDate": "2026-08-19T00:30:53.000Z"
+    },
+    {
+      "merchant": "BOSE",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlJPcGtSdWF3VWw0M2hGRXh3NDNHeU9tV1hnOStMWWMwYzZEb2djdjZyVUtyTktXR2JWQ25LMTErRFNTNjZaWTh0d0o0eDlRSmk2S05kcEVrbE1rWnZQbFptVlV5VllJTFRQRHdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bose.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -522,6 +564,20 @@
       "emailDate": "2026-08-20T12:14:51.000Z"
     },
     {
+      "merchant": "Fubo",
+      "percentBack": null,
+      "dollarBack": 57.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b3BucGd5M1ZTbUVnUG14bFY4dHRsc2RCNDdqeGxvK2JkTWNoSk9hRjZsZDRxMWR3bDNSemdyTVVxSkN0NXVyV0llM0FYcVB1ZUxpS3kwSmE1RkhKamN3YVJnWU9MQjVTTjN3YjB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
+    },
+    {
       "merchant": "The Farmer's Dog",
       "percentBack": null,
       "dollarBack": 52,
@@ -570,12 +626,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S1lnMVlROHlOZXVJN3cxZGxldWpqTlNwSzNEZWtPNTZTZW1mWU1ZOU5LWWNKTGthbk8wZkMvTW8vZWJGWlhBWHFjODJwVEtCTlNWbzlDWEF6UDYrRmdVVi96T0gzc2VpRm5yR3h3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=disneyplus.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZmZWc0dVUTFrZVpTU29JSDJOblNmM1pKTXBhT3l3ek1qTVFGZG96SjN6MHl5Rmx4WEc0NlduNGhCRTRsRTBwL2VwM3VjOFdRZXhQSVdRYjNVMDUzam5aczkyNnZxK21UWU40UEJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=disneyplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
     },
     {
       "merchant": "Sling",
@@ -584,12 +640,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFArWDlDVGF5TXVNS1JFT2NkbUVuMHpzTUVCeE1WK09kVUNOR0F4NXNRd3dzOFhuK0FVbnFxOG1jejdlZlFuZDN3Skp2U1V3VXZJa2g2bUF4U0ZMZVdkR0s3Yi92UTJ3MjB6cmlnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d0krOFJodS9pbEpmZE15NVhFT3hBRXZNSjZFZGZmc1dsWXNQWkZrdzdDWEphSVpmS29WNHh4MytlR0xyNDVWQnhoUnhXYVVkbFBlcFJnbStNZ2t4ZzlkZGh5eCtLVVdrVjdieDRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
     },
     {
       "merchant": "Safelite",
