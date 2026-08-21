@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-08-21T06:17:56.711Z",
+  "lastUpdated": "2026-08-21T07:10:37.953Z",
   "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "StubHub",
-      "percentBack": 60,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K0FlckZTWjdCSzk2RkdRcGtMa2g4eSs0Rk1qK0s2bDRJWGZJL0pTcUcwZVU5dkF5OUdmcHI1TlFYaUtMU3l2OGpTTlpFS0hhODB5Z3ZTVkQ4ck1yTk1rOHV1cmJEWi9ZQ2hzQjFnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stubhub.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a01f39bd9364f85",
-      "emailDate": "2026-08-20T12:51:11.000Z"
-    },
     {
       "merchant": "BJ's Membership",
       "percentBack": 30,
@@ -30,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "1a01f39bd9364f85",
       "emailDate": "2026-08-20T12:51:11.000Z"
+    },
+    {
+      "merchant": "StubHub",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UnMxVmV6dWpaMkorSFRlK0xOS1dHbTVpVjZ6dTJmZlBqVk9VZGgxWGhjUkMzV2dVRVBtSitFSTRINS9xZnVmZ1NuSHBWY3ZKYXVmS3R2L0V0Vm5YeHVmbFpWdEZCU1pRSVIwa2JnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logostubhub.com,sphgONBU2W1SuiKUYBowdxKnlkfY_WAOCfGp6UYDdJaw/https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/5333/6574302",
+      "source": "single-use",
+      "emailMessageId": "1a01f18742101817",
+      "emailDate": "2026-08-20T12:14:51.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -58,20 +58,6 @@
       "source": "single-use",
       "emailMessageId": "1a0176d98b0aa20b",
       "emailDate": "2026-08-19T00:30:53.000Z"
-    },
-    {
-      "merchant": "NFL+",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SExaMXplZ29wSUs4ZWVaekQyTmdFZGljWnFRRjRtMjFqSjR5NHZRQmcwSUx4NFNlMGpHZkIvUFd2VVluNHlTMGlUalVGUkh1MDNmMXpsaDBTL05vaGtFaW1lUWZPUytnSWRDc2VBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a00fa6ac64fe098",
-      "emailDate": "2026-08-17T12:16:15.000Z"
     },
     {
       "merchant": "Mitchell & Ness",
@@ -114,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "1a0176d98b0aa20b",
       "emailDate": "2026-08-19T00:30:53.000Z"
-    },
-    {
-      "merchant": "Ticket Club",
-      "percentBack": 17,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b04yT3hRMVE0NVUyZWRMZ3QrZVhxU2s3OFIxTlR3UGZHUzRxZUExWVFHaUtDSlNzUGh0am9lNTJkOXRQSDB4azMvWXhwWmFEL0J3V1o4NkhSNXgzdHBMNmZzMTJoMHk0d3BXOVBnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a00fa6ac64fe098",
-      "emailDate": "2026-08-17T12:16:15.000Z"
     },
     {
       "merchant": "CVS",
@@ -282,6 +254,20 @@
       "source": "single-use",
       "emailMessageId": "1a0176d98b0aa20b",
       "emailDate": "2026-08-19T00:30:53.000Z"
+    },
+    {
+      "merchant": "Ticket Club",
+      "percentBack": 8.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cU5EdCtHTDhER2M3bW9EdTVFTC8vNlRETjlTZmVTaDJrd2xBeDR1RnZjRWh5akJpcUczK1U5S2RJYVRXMFZnVWxtZ3B1Uy9mTE85Nm5aU043NWNUc0dLUjVOSm1maHRkOXJmMlN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a01f18742101817",
+      "emailDate": "2026-08-20T12:14:51.000Z"
     },
     {
       "merchant": "HOMAGE",
