@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T15:50:46.577Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-08-21T16:17:55.134Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-22T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aUdHVTZPaHBYRUNTZ2RTNUR6aEZuK0ZBeEtCQ2kzRmVYYXNpQmYwczdHVk1VQ01Pb25kd3UrQVQxcGY2b1psWjBNd01WU1NzOEIwK1ZpS2JCbTlkSTZ0S0xxei8zL0RXZ3hFcDl3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cFFPbEg5Q1pMT3JqUlU1QngwU0hRdzViKzgxRFlJTUkvcUpTbXdNNDFQT3c3QlpYQUhad0ZmTDVvQU5ZUkNCeHVtUXl2TW5ha2VxSEVlMEp0UDBJWWhyNlV0RmhmNnBaS2dyVjdBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=oldnavy.gap.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
+      "emailMessageId": "1a0251bc5ffe0e26",
+      "emailDate": "2026-08-21T16:16:11.000Z"
     },
     {
       "merchant": "BJ's Membership",
@@ -709,13 +709,27 @@
       "dollarBack": 50,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UjJDbUtqYXNsVVJydmloT05MUkZyV2d6amNNQVdTd0x0OXBYMWVSclg1WVFEWjc0NjZRQ0Y5NGhUTU9TS0FoMzVpYmFlY1FTdHdQMTlGZEtMSXZwdUl3bEQ1NHVJUDVCRmM5dGtnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "lastViewed": "August 20",
+      "expiresAt": "2026-08-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bVBVQXlVQURQT28vWnRDWS9FVjNlMjVURjhncm82VllGOW5JS1Npb0N6RTFnZlVsS2RqODdtWWJsUWwvYWl3cG95NzMybFVkLzRNYysvZFhiaXNpNVlVQnEyQ0I3QnNSSjRxREVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a01a1d50582461d",
-      "emailDate": "2026-08-19T13:02:03.000Z"
+      "emailMessageId": "1a0251bc5ffe0e26",
+      "emailDate": "2026-08-21T16:16:11.000Z"
+    },
+    {
+      "merchant": "Green Chef",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUF0M0tic3EzUldyR0FYNnJ4RkRuUlZPVlc0eU9JQzV5UUZIekY3SnIxdEJhYjhuUjhGTXduWDVzUmIyelM3WEFEdDF4M0hudU9GU29BMUVSNUJTTllxL1MvL3ZFdlhJQlJEN253PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greenchef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0251bc5ffe0e26",
+      "emailDate": "2026-08-21T16:16:11.000Z"
     },
     {
       "merchant": "Daily Harvest",
@@ -738,12 +752,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZmZWc0dVUTFrZVpTU29JSDJOblNmM1pKTXBhT3l3ek1qTVFGZG96SjN6MHl5Rmx4WEc0NlduNGhCRTRsRTBwL2VwM3VjOFdRZXhQSVdRYjNVMDUzam5aczkyNnZxK21UWU40UEJ3PT0/runV3dl",
+      "expiresAt": "2026-08-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MFgvN2cxS0paSFpMSHZwaWhtS3EvMzZnQXp6L1lJYVZtazRqRWJKZUdWZjAycGdYK2hYTk84dWNrcnREbVp4RTZ4MytTV3J1ajRqM0N4cEhxRWZna2NPNEw0eFdpMzlHNHQ3bTFBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=disneyplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a02136a57bd2c62",
-      "emailDate": "2026-08-20T22:07:04.000Z"
+      "emailMessageId": "1a0251bc5ffe0e26",
+      "emailDate": "2026-08-21T16:16:11.000Z"
     },
     {
       "merchant": "CheapOair",
@@ -780,12 +794,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ak5pYnNWUTJjWnRsNHRQUDRRTjFqWDZ1UU5DTExaTFJoVUg1SUtzc0Raa2hFbTFJWkg2a2p0dm8rT0VSajkyaFI3TFZuTDZjMHluVlFMQkdMaTRBS3N3NTU5cXJvdUhJMmZrUXlnPT0/runV3dl",
+      "expiresAt": "2026-08-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q2cwSkNTdmtEQjhCV2N2Mld2eDZIUVp0eURkcmQ2MFlMcjEvVkpCWXNIZklTK0FuVVdCTERBYkUwRzA1K2FZZmRzcmNWRGdIM25waTBJMnQ5dWZEM1pUQVpPVzBUZUJYbzg2RFRnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a01a1d50582461d",
-      "emailDate": "2026-08-19T13:02:03.000Z"
+      "emailMessageId": "1a0251bc5ffe0e26",
+      "emailDate": "2026-08-21T16:16:11.000Z"
     },
     {
       "merchant": "Colon Broom",
