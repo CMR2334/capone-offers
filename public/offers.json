@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-08-23T06:17:53.891Z",
+  "lastUpdated": "2026-08-23T07:04:54.636Z",
   "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Spanx",
-      "percentBack": 35,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MVpxalJaS2hza1dzSGowL0c0NDg0eldtTG84RlRFbi91Uk9Nd2ozUktIdXNROW1Qc2daWHh4Q1Q3c1JlVmhXcllXVjVnVG5RaWx4eVNGNldWdmFiVG1uL3FlUmhDQzc0UnpHeS9BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spanx.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a02a19d99f14782",
-      "emailDate": "2026-08-22T15:32:11.000Z"
-    },
     {
       "merchant": "Event Tickets Center",
       "percentBack": 30,
@@ -86,20 +72,6 @@
       "source": "single-use",
       "emailMessageId": "1a024aa618851fe9",
       "emailDate": "2026-08-21T14:12:20.000Z"
-    },
-    {
-      "merchant": "Mitchell & Ness",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ajJzSjdVRWNkSzJLVDhGbVdFNm5FVHFJendaRERGUjR3KzIzTVRVWERHaEFzb0crOVp0WE1XSDVPeEo2bTJrZUd0bTlLb2VFdGpmWUZmbkZiZUtMSisvaU92eHV5RVhXb3VadFdRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mitchellandness.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
     },
     {
       "merchant": "CVS",
@@ -228,20 +200,6 @@
       "emailDate": "2026-08-22T15:32:11.000Z"
     },
     {
-      "merchant": "Overton's",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T05BelpJS0tEU3VXWTFVNExOT1VzTWRGelBYTFV5dXowQjN4d0VXYmdydDNYbmp0bTg5TEQrZ2JqM3pjWjBFdG9WekRZNHlVTitXSElJTGZBdk9yRTh0enJSc1ZuV0NNN2dST2NRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=overtons.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
-    },
-    {
       "merchant": "JCPenney",
       "percentBack": 9.5,
       "dollarBack": null,
@@ -298,20 +256,6 @@
       "emailDate": "2026-08-22T15:32:11.000Z"
     },
     {
-      "merchant": "HOMAGE",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2x6UWx1NXJ0NTdabVp5UFhHRDkzdjMza2YvUTlxTDJLUTByQ3NxZ1JReXZlbFd6c1dLaGh2d09qTlhsejVjU1VKaS9HWFVzOHdEUTZMMERWMHloT3dmWDl3b2I2a0ovbDQwL1hRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homage.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
-    },
-    {
       "merchant": "JD Sports",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -324,20 +268,6 @@
       "source": "single-use",
       "emailMessageId": "1a02136a57bd2c62",
       "emailDate": "2026-08-20T22:07:04.000Z"
-    },
-    {
-      "merchant": "Finish Line",
-      "percentBack": 7.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dW01Ylh4TG5DelVINnlHWFRCM2FFZTMweUp5UytKb0xBZnNqbEVaTW5FRkxuTUFHay9FaTJrdS9BSWdZMjlQVVFDOFpWNXNhK3NhdFJTSGo3dnJ0TC8zR0lvUUhCZjV2RUtNT2ZRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=finishline.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a019ae19a65fbee",
-      "emailDate": "2026-08-19T11:00:34.000Z"
     },
     {
       "merchant": "Ticket Liquidator",
@@ -536,20 +466,6 @@
       "emailDate": "2026-08-20T12:51:11.000Z"
     },
     {
-      "merchant": "GameTime",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bnJmZnhoYytXY0oxbXYrMW5Xdk9YdjhTMDIvUE5CdERZTmRiQlRDL1ppV0tVSWd3bTg2czU0dC9Ga05lZHZpaHVWZWlOUXhQWC9GSXVRaFI1UVBTZk51eXRyMmVBVnlFU1lkWVVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gametime.co&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
-    },
-    {
       "merchant": "Bath & Body Works",
       "percentBack": 3.5,
       "dollarBack": null,
@@ -562,20 +478,6 @@
       "source": "single-use",
       "emailMessageId": "1a01f39bd9364f85",
       "emailDate": "2026-08-20T12:51:11.000Z"
-    },
-    {
-      "merchant": "Wilson",
-      "percentBack": 3,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzBCbXc5YTREbXk3LzNwaHlsOFpXdkYrRFVoZjZEY2hxVnBRT1BoNFNWSzJXbHVDckpRbWRudTVGUnExSUxTbHRGejc2UnFRdDZmQ1JjVDFXQXU0YUR6WEc1QzQ5VDhaMXJ3SHlnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wilson.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a019ae19a65fbee",
-      "emailDate": "2026-08-19T11:00:34.000Z"
     },
     {
       "merchant": "Bed Bath & Beyond",
@@ -606,32 +508,18 @@
       "emailDate": "2026-08-22T15:32:11.000Z"
     },
     {
-      "merchant": "DISH Network",
-      "percentBack": null,
-      "dollarBack": 210,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlFkK0swR2FQdEVwZ05EZnRxdFprS1ViOUtKREE1UG5aWTBlN3VYekc3WEZEYmpQTTBMY0xPc29JZ3NmenQyMlY0ZTBreWQ2dmRYRWcyMVJOcTA4czdJM0FRblV3bzQyTjk2ZGVBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dish.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
-    },
-    {
       "merchant": "DIRECTV",
       "percentBack": null,
-      "dollarBack": 200,
+      "dollarBack": 172.5,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VnR2U1cwZ24zVlpuL1dHaWJXY3d0bmFiejhJTGFBYUoxRTJ5d3Y1ZmRZUkdPWDlpMUdtR2c4K1dYNTRiQ3lGTjY2UzFZc2tqb2FxR01DZHhTWFA3TkozRnd0b04yakZjc2plTzR3PT0/runV3dl",
+      "expiresAt": "2026-08-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UkZmaG4zb3hIMW9VQjF0LzJ5MkFaclVkKzd2K1RhTlFwS3o1eTdNNjRUS2RxSEJwZlg2VjgyOGdlSFRiaC9ZcHBLQkZHRGYxOGVJOXhrZFowbU0zR2o5VklWY1RhSHNsUFNQMkFBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=directv.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a01ab91102f96dd",
-      "emailDate": "2026-08-19T15:52:10.000Z"
+      "emailMessageId": "1a02136a57bd2c62",
+      "emailDate": "2026-08-20T22:07:04.000Z"
     },
     {
       "merchant": "T-Mobile Home Internet",
