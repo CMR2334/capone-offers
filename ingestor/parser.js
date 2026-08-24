@@ -18,7 +18,7 @@ function parseCaponeEmail(html, meta = {}) {
     : null;
 
   const offers = [];
-  const seen = new Set();
+  const seenIndex = new Map(); // merchantKey -> index into offers[]
 
   $('*').each((_, el) => {
     const $el = $(el);
@@ -40,11 +40,19 @@ function parseCaponeEmail(html, meta = {}) {
 
     const { merchant, percentBack, dollarBack, isEarn, capAmount } = match;
     const merchantKey = merchant.toLowerCase().trim();
-    if (seen.has(merchantKey)) return;
-    seen.add(merchantKey);
+    const isTodaysTop = !isEarn;
+
+    // Emails often carry a hidden preheader/preview copy of the top offer, phrased as
+    // "Earn N% back at Merchant", ahead of the real "Today's Top Offer" card in the DOM.
+    // A plain first-match dedup would lock in that copy and its generic expiry. Once the
+    // real Today's Top card for the same merchant shows up, prefer it — it carries the
+    // correct (often single-day) expiry rather than the catalog-wide default.
+    const existingIdx = seenIndex.get(merchantKey);
+    if (existingIdx !== undefined && !(isTodaysTop && offers[existingIdx].source !== 'todays-top')) {
+      return;
+    }
 
     const cardCtx = contextText($el, 4);
-    const isTodaysTop = !isEarn;
 
     const wasMatch = cardCtx.match(/Was\s+(\d+(?:\.\d+)?)%\s*back/i);
     const lastViewedMatch = cardCtx.match(/You last viewed (\w+\s+\d{1,2})/);
@@ -54,7 +62,7 @@ function parseCaponeEmail(html, meta = {}) {
 
     const expiry = isTodaysTop && todaysTopExpiry ? todaysTopExpiry : defaultExpiry;
 
-    offers.push({
+    const offer = {
       merchant,
       percentBack,
       dollarBack: dollarBack || null,
@@ -67,7 +75,14 @@ function parseCaponeEmail(html, meta = {}) {
       source: isTodaysTop ? 'todays-top' : (capAmount ? 'personalized' : 'single-use'),
       emailMessageId: meta.messageId || null,
       emailDate: meta.date || null,
-    });
+    };
+
+    if (existingIdx !== undefined) {
+      offers[existingIdx] = offer;
+    } else {
+      seenIndex.set(merchantKey, offers.length);
+      offers.push(offer);
+    }
   });
 
   return { offers, upcomingReveals: [] };
