@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T22:17:45.434Z",
-  "sourceCount": 91,
+  "lastUpdated": "2026-08-24T22:46:59.348Z",
+  "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
     {
@@ -86,6 +86,20 @@
       "source": "single-use",
       "emailMessageId": "1a02eb4588614107",
       "emailDate": "2026-08-23T12:59:25.000Z"
+    },
+    {
+      "merchant": "Seats.aero",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUxMUzYzRysvelFNNUZjY3p5NHZwWGVrU1ZjUXZpSEUwZ3BrSU40TVpndnNjOTJraFJhaExOS2lreFBNWCtZS1RuUjVJemRRczJIS3BNWi85bjl0NlJmcStoeGdCSEFTMVFvWEV3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logoseats.aero,s9ixUadCOYBmXpC_ieC2oqwYay1WYMIyKTIpUdETdb5Y/https://seats.aero/static/favicon/safari-pinned-tab.png",
+      "source": "single-use",
+      "emailMessageId": "1a035f368572715c",
+      "emailDate": "2026-08-24T22:45:39.000Z"
     },
     {
       "merchant": "Mitchell & Ness",
