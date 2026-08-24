@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T19:17:55.591Z",
-  "sourceCount": 90,
+  "lastUpdated": "2026-08-24T19:47:40.432Z",
+  "sourceCount": 91,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SXdwVVJGM09ZeDE4WDQvRUpxb0MrOEh0eTFzR3RCdG1MU0NHanF2NmJVNUkvYy9RUlovaHhHT0hjczl6RWhBODFkQ2Y5UmdNZEVKU0l0aDRmQ0NIeWpVYUZ4cjdvNmxKQkdUbjZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bEVkdzZrTXV5eHJvTTJscGc4QzBIMmFFNWlEQWc1d2J4MGMzaXJockVqSGJJZWQzMWt3TElqZnpPWlRqYSt6dzZKTnVVYUloNzVvY2FxMVVURXFOTkY4bE1Vc0R6ZDJRbitVNy9nPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0348beb4d84b7e",
-      "emailDate": "2026-08-24T16:12:59.000Z"
+      "emailMessageId": "1a03548584364918",
+      "emailDate": "2026-08-24T19:38:48.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -599,11 +599,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dE1VSjlHUys0OUtxSE5Yd21pbHpSVllHc012dmlEcnA2VnFKUlJhS2lqUjRPcUhlNjVQZ21OOVJNOTlMM05VVEtwR0Y2dnhRbk0ySXM5a0VzdG9EOFJQTGo4YW1PRGV5dVJTbVpBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bFgrRGgxdVpWY01WV1lKNTJxQm11c3RXalJWVERuZ0Y3Ly9pZUNwYWp1aUhRK2JnWEFydkFqV0pwVGkxcTgvY3BZeVBFYmtiMmVLWXFncFJlYVpVSHpzV3llOS9MK0lYd1Z6M0hRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=directv.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a0348beb4d84b7e",
-      "emailDate": "2026-08-24T16:12:59.000Z"
+      "emailMessageId": "1a03548584364918",
+      "emailDate": "2026-08-24T19:38:48.000Z"
     },
     {
       "merchant": "Xfinity",
@@ -622,16 +622,16 @@
     {
       "merchant": "Fubo",
       "percentBack": null,
-      "dollarBack": 55,
+      "dollarBack": 56,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q1RYOGZzT3VEQ084b3ZENlVaNDZTQUpwOVVnTWxyTURGQUhuNSszem1UM3lCaXdmdkZHVzJJZDBBeDBsekZBNFB1bHZDNjNIVXJRczZvVlFDdlJybVgzbUd0YVBhT2RrTDdneTFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjhKSjJ1TmswcGNhQWtQdkRSOE4vclhPdm5uSklOa1RHYkM5S0NCMmR5eTZXSUlOQ3czZEJKTSs5WHJnNnU4UnRDNllJczNVejB3d050KzlNNTNJejlYNkxuaWFheDFVVDNqRmRRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0348beb4d84b7e",
-      "emailDate": "2026-08-24T16:12:59.000Z"
+      "emailMessageId": "1a03548584364918",
+      "emailDate": "2026-08-24T19:38:48.000Z"
     },
     {
       "merchant": "HelloFresh",
@@ -711,11 +711,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ajNoSCtDVTJtMFBLSmRMSGFOR2hpVmt2Wkl0Mjg5NlVKUTlxMFBjd2FMYVN4aTFWSWp2aDJmWjhHK21GbDZLWFQ5OWR1Tyt0dTBUaXRVUDhoZ3k3aUYxVXpvRzZTb1liakpGTmZRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a0ZUY3paRDNRVjRLOTg0MnNqVnRweVhYalNBazg1S2RhWUJFUXZUdjFGL2lKclpZWEFkMDc5NDYvS1ZuUFB0RjRpemZkb3ZWNU1EektZaDJGZzJqZVFxVHNzaTNObk0wbVNjOU9BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0348beb4d84b7e",
-      "emailDate": "2026-08-24T16:12:59.000Z"
+      "emailMessageId": "1a03548584364918",
+      "emailDate": "2026-08-24T19:38:48.000Z"
     },
     {
       "merchant": "NOW",
@@ -725,11 +725,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REtpQWd2STJxUHoxdU5DQ3dhZFNjck42TGlVMHJEdjRjc3U4eVdpYmFmdTV3eUNPTmJTbkNOTk1EdzcxUGVPdVVWRmk3T01EWVdFZlRHODRhYUFsODBiZzhaYUJPd09Od1Jsd3BnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MmYrS1VGbzBnNU51M2JGdVN0Q2lFRGppaEZjbWhoZnpIckw0MlpiZVVRenpHZ0kwNHo0THVBK0xBTVZaOHhPS2tVQ1UyaUROQWdjVXlldnVSd1doZkxNUStWOEU5emhlVXlXRGx3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0348beb4d84b7e",
-      "emailDate": "2026-08-24T16:12:59.000Z"
+      "emailMessageId": "1a03548584364918",
+      "emailDate": "2026-08-24T19:38:48.000Z"
     },
     {
       "merchant": "Safelite",
