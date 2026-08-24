@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T00:17:56.380Z",
-  "sourceCount": 90,
+  "lastUpdated": "2026-08-24T01:17:49.064Z",
+  "sourceCount": 91,
   "parseFailures": 0,
   "offers": [
     {
@@ -228,6 +228,20 @@
       "emailDate": "2026-08-20T12:51:11.000Z"
     },
     {
+      "merchant": "DICK'S Sporting Goods",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WnpNT1lIUktzWm1YR1lPZGhkMjZsRWFUWkRxVDlCT20rVHFiQUtOc2RxS2dpTm1QTkJvakV2eWxpam1IUXljbHlVQUNHL2Y4Tkd0OWNydU0wSnM0ckJoZVg5UXprNDk4Q2ZuVEp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
+    },
+    {
       "merchant": "Ticket Network",
       "percentBack": 10,
       "dollarBack": null,
@@ -333,11 +347,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UVNqZTl5d2ZCK29DWk9jMDNVSXJnZVdtSmo1bFhHd1lHdE0rM25pd3FFWEY3Z3NhZ1NlSmVSSjlHVmVmamNHRWp3a0UrRnBGOWJjU1k5cTZsWllicnZnVTRtS05LSHN4cFhBQnZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=finishline.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NlNFaml6ODFFVEsvVTdwak5nYTBJWE9OMlB2dytMRGNlMXIzQjIwbWo5bjkzTWlHWXA2WWJyekJaNUJzajQ1NGhqOVowMDFhNWwyUDdNVFZMaUlKTnNMUnJ1QmxQcDB6R0RHY2RnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=finishline.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a030300ac899e73",
-      "emailDate": "2026-08-23T19:54:08.000Z"
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
     },
     {
       "merchant": "JD Sports",
@@ -550,6 +564,20 @@
       "emailDate": "2026-08-21T18:24:05.000Z"
     },
     {
+      "merchant": "Academy Sports + Outdoors",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXVwNC9pb2FFYWRMa2hJTXhzSzFVbUdzZUlmdEZ4OXRrd0NadG0vRXZQQkRPcnBnbnBxbFhCdk5sQ1dFT3hJU2xoTTFkbFF2S1BETDRjWE9TTGUrUkVSUHQ4c2ZLWEg5YXo3WlVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=academy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
+    },
+    {
       "merchant": "Office Depot",
       "percentBack": 4,
       "dollarBack": null,
@@ -606,6 +634,20 @@
       "emailDate": "2026-08-21T18:24:05.000Z"
     },
     {
+      "merchant": "Lowe's",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N3NlbUFlYzY2bmkwckl2YkdBWjFuSGpkUVN5K2p6R1piSkxJSEdmb2poR01uUkNkREZZa1VYMFJQY3NJZU1mLytWd3drN0RiWkhFYTIxM2xwVHRCWGpSbWc5WXV3ZXgyckZ4S3BRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
+    },
+    {
       "merchant": "Vivid Seats",
       "percentBack": 1.5,
       "dollarBack": null,
@@ -618,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "1a030300ac899e73",
       "emailDate": "2026-08-23T19:54:08.000Z"
+    },
+    {
+      "merchant": "Bass Pro Shops",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUFJbTkzS2Z0dWM3ZFh1emx1WGlRYmsxcHZkeFE0NXJ6ekRPQXhjTFJPNXl0LzA0Y0VPQVpVNkZZYnYzVVQ1a3VnZURvWDBXa3k0RjhFZndaZlBJeEJ4dTFvWm15MzcxbVpTbEx3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=basspro.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
     },
     {
       "merchant": "Astound",
