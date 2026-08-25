@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-08-25T06:17:53.922Z",
+  "lastUpdated": "2026-08-25T07:11:43.548Z",
   "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Tripadvisor",
-      "percentBack": 40,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cmNFNFpnaXBaUjRWTkFWd3NZK2lQVldXZ1dTbjFiclFwVzFqQWY4ZnpUNHNaUVMreXlTZmlMRTlXVk5WY0cvZU94YzZDOW9GSE1DZ0wrUkVDaWdvNFFkMndzaGR5NHlyZkxWSTFRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0338d4fb80516a",
-      "emailDate": "2026-08-24T11:34:53.000Z"
-    },
     {
       "merchant": "NFL+",
       "percentBack": 30,
@@ -44,20 +30,6 @@
       "source": "single-use",
       "emailMessageId": "1a0338d4fb80516a",
       "emailDate": "2026-08-24T11:34:53.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 23.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2ZWNFFndC92VUFNQkY2TmhQRnFyVFJneHF2RDFBdzAzQ2swWXVnN2JhVFFialJoSktUNzNOU3hUaHJ3MFlFQWV6Q2FrSjVBTnlxTzgyNXNlRm56RGpQcUtkN3NXZmhrSkRHaURRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
     },
     {
       "merchant": "StubHub",
@@ -116,20 +88,6 @@
       "emailDate": "2026-08-23T19:54:08.000Z"
     },
     {
-      "merchant": "Big Bus Tours",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RzZiT1hNZkdtME1icFhOTyt0Mzh4UlhJTFdJdk5YaTI0RC9DaGdjdzloeVd2blVYdDk3RkVZcHpIbndVRnd5Y2xRNlhjYmE2b3JrcFh2SFlNM2Q4am1Xc3Rsd1JKL3ByUGNPWXdRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a023f9070378b1c",
-      "emailDate": "2026-08-21T10:58:37.000Z"
-    },
-    {
       "merchant": "New Balance",
       "percentBack": 14,
       "dollarBack": null,
@@ -144,18 +102,18 @@
       "emailDate": "2026-08-23T15:53:19.000Z"
     },
     {
-      "merchant": "Sam's Club",
-      "percentBack": 13.5,
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 11,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U2VZVDNieE03cndCKy8yUWpUSkNwUHBIVGlvWlVOTmlSK0xENHIrNXlRRllCY3YrM1F5WWJsR1BYZDRmM0lZR1BBQVZyUFFjOGp6MTY1dlQrRGVqbTd1eThmK0xEK1NORXRVdE9RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-08-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2g4RWpkUXQrbk50UVlNbk1sQ2Z2R2owbnZVcUlabW5NdDRLUGNtNE1ZT0dZT2tlZExLRTR6dlN3ZTZWVGlwU3RSc0RWcWJOM1A2UzByY1oyUUNXbjZieTZkaUljVzk2Sml1TWRBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/94e74cba-a171-42c3-acba-d432f21c41c6.gif",
       "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
+      "emailMessageId": "1a031249948c4506",
+      "emailDate": "2026-08-24T00:21:16.000Z"
     },
     {
       "merchant": "Ticket Network",
@@ -198,34 +156,6 @@
       "source": "single-use",
       "emailMessageId": "1a030300ac899e73",
       "emailDate": "2026-08-23T19:54:08.000Z"
-    },
-    {
-      "merchant": "Costway",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dmh4ejh6amhMdXNFVkwyMnZBZzBuU3R1SjNodmovQ2RucDF2NmNpMzhRSXp3RFhjMG5xa0x1ajVrOXJsYjhtenN4Mkd1eEZNeEdaWnZFSko4UCtjZFF6VVJITHlXMFdLZHk1MElRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=costway.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
-    },
-    {
-      "merchant": "GetYourGuide",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6elZLbG41Q3JUa1NKS0REajg5eHNPOEJKakk0V1dVYjh1TW16Rm0yOHZOZzljaXNiTm1KODh4QngyZVN6YS8vRUU2Z3B3aUl1VHVLTzcrcjJ1SDludkxhWTNzcXBkN1JIeENwb0JRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
     },
     {
       "merchant": "Ticket Club",
@@ -326,20 +256,6 @@
       "emailDate": "2026-08-23T19:54:08.000Z"
     },
     {
-      "merchant": "Hilton",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2s1bDBKa3AwTEw3dDJzMFRSZkVkZXB0WGhMY1IrbXByUVJFQWZsTytCWE9SRTNaczRHZTdVUTcxYjJ6ZU1CM0FieVBrcjJMd204a1A5L1NGYTErYzlqbnlhU0VKWXpMYWFrcHpnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
-    },
-    {
       "merchant": "LG Electronics",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -368,48 +284,6 @@
       "emailDate": "2026-08-23T19:54:08.000Z"
     },
     {
-      "merchant": "Best Western Hotels & Resorts",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YXA0ZlN4Njd4dU4zN1o5eXJSRER6WVN4YWlhb01mZjZFOWhRU3ZLK0lhRWx2ckpJb011OHFMbDM5QUJENHJrWlhwN0VsbnNhWVU2OHV6bUZHY0JOUFFLeUFaODRJL1VrNzJMc1ZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestwestern.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
-    },
-    {
-      "merchant": "Princess Cruises",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3NtTk9UK3RJSkxZcWNWQTNrNkE2RVA0WU9hMTFSR0M3cXVKSndrSW5PTWo2d0Z4UkVMUy9uQWxRQUY5Ym5Pek0yM2l3N2QvVi90dlF1TTNOSFBPREF5VEtLaUJ5N3hocWF0WUdRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a023f9070378b1c",
-      "emailDate": "2026-08-21T10:58:37.000Z"
-    },
-    {
-      "merchant": "Go City Pass",
-      "percentBack": 5.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6THhmNm93VGFPT0pkWDhuMk1vUXU0U08yUnprbCsyZFhNUnM3YWxGbTRYNHcwS0NKSmJkTFpGeW5MOVJKMEpzazFCQng5bEhlbEJDSWdVY1pmcGVqNkRXOGkxby9yd0pYcmJyaVhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
-    },
-    {
       "merchant": "Fanatics",
       "percentBack": 5,
       "dollarBack": null,
@@ -422,48 +296,6 @@
       "source": "single-use",
       "emailMessageId": "1a030300ac899e73",
       "emailDate": "2026-08-23T19:54:08.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eFdFcStqZzRuSDQ0LzBjTVhTVFpIUU5KZC9EQmNORm4rU1pFdEMzWWVRWGhjRWwzcEErblVQYm93bXlPZ3FSOXhrUzhZU241V0ZBWHlxbXhHTnhtdTZ5WUw0enZOS1lZajhrR1FBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,seDQ6Vzh9SF8Kayrs6iYUTQC7fyMh1ZEYHv_9ozDPPuw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1782877007270.png",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
-    },
-    {
-      "merchant": "Sears",
-      "percentBack": 5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bjF1MGc3VzJUcll4Qk9DUUJDdjJvOEM0VVZvU3VGUzR2Tm1pa1ZacEJOVlpJV0dTcUhmN0k4eFM0bTAxcWtTZkhlYjd5WDg3ZE4vblMwMFI5dHpHZlR6ZjcxcVZUQ0hTZ1dIQmVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sears.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
-    },
-    {
-      "merchant": "Walmart",
-      "percentBack": 5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cFZQVG1DL2R6Wjl5WkttMzlsNmtBd3U3by90VURDSVRmV2EzSDkrZ3JlTVgrbFJxM3c4K0lZaC9zNktOdmhoaHlpM1ZpM1lhZmhEcGM1Mmc1WkJuME8rbnJkaEFqY29KVXQ2ZjRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
     },
     {
       "merchant": "Olive Garden",
@@ -494,20 +326,6 @@
       "emailDate": "2026-08-24T00:21:16.000Z"
     },
     {
-      "merchant": "Office Depot",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UWtTTU0xRTZOZm1GejAvSnRQbyt0TW5tS0NUWHRiRXJ2Zk83SERrSFpJUFgvT0h4UncxMjJHQjFNM3hCUnpvYU1mTFJHNk9kZm1MUWtzMXdFQ1ZrazlBZ3plU3lYV2Z1WGpXWGhBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
-    },
-    {
       "merchant": "1-800-GOT-JUNK?",
       "percentBack": 3.5,
       "dollarBack": null,
@@ -520,20 +338,6 @@
       "source": "single-use",
       "emailMessageId": "1a032b348d5ea567",
       "emailDate": "2026-08-24T07:36:44.000Z"
-    },
-    {
-      "merchant": "Bed Bath & Beyond",
-      "percentBack": 2.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aXY4UXRyU3F4NDE5azdHSnlqV2JlVDJuR1JuVmI5U0Z1NlhQY2UwUG0zYno3Mm5RdFB2V01GMzVSVkFDcnp2alRoM2xzS3hIRXpFTFBNVGhTZktkaWl3VVI3M2M2UDJjWnNVMjJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bedbathandbeyond.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02590de304f400",
-      "emailDate": "2026-08-21T18:24:05.000Z"
     },
     {
       "merchant": "Lowe's",
@@ -662,20 +466,6 @@
       "emailDate": "2026-08-23T10:48:42.000Z"
     },
     {
-      "merchant": "Green Chef",
-      "percentBack": null,
-      "dollarBack": 50,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUF0M0tic3EzUldyR0FYNnJ4RkRuUlZPVlc0eU9JQzV5UUZIekY3SnIxdEJhYjhuUjhGTXduWDVzUmIyelM3WEFEdDF4M0hudU9GU29BMUVSNUJTTllxL1MvL3ZFdlhJQlJEN253PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greenchef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0251bc5ffe0e26",
-      "emailDate": "2026-08-21T16:16:11.000Z"
-    },
-    {
       "merchant": "DoorDash",
       "percentBack": null,
       "dollarBack": 45,
@@ -702,20 +492,6 @@
       "source": "single-use",
       "emailMessageId": "1a030300ac899e73",
       "emailDate": "2026-08-23T19:54:08.000Z"
-    },
-    {
-      "merchant": "CheapOair",
-      "percentBack": null,
-      "dollarBack": 18,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UjBmejJ1am9nYlp1KysvUHBpSTZNUHF1MExiYm1oQkNBdW9KY3R3NCs0QmQxTmRSd1lKWEVYdmUvKzlob1VhTlFEbk1mcnJoTDRmeWZaRHc3Qmw4d0RWOFE5b0ErUEVTNTF1dGFnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheapoair.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a024aa618851fe9",
-      "emailDate": "2026-08-21T14:12:20.000Z"
     },
     {
       "merchant": "Sling",
