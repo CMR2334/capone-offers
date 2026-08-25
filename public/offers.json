@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T20:17:57.246Z",
-  "sourceCount": 94,
+  "lastUpdated": "2026-08-25T20:48:58.586Z",
+  "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
     {
@@ -74,6 +74,20 @@
       "emailDate": "2026-08-25T13:24:59.000Z"
     },
     {
+      "merchant": "Winc",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R0ovcGhIcElIOFlGb2VHcWJST3pwSXV0ZnhkSjJtd05VaFJ6MnQyell1VjJDMlhTaEI5Nk5aRUZ5WTZaanhyeFBqL09qSDhaL1FUT2R1SVZYNzFFMllKWGtvR2lEWVRCMTdQTXNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=winc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
+    },
+    {
       "merchant": "StubHub",
       "percentBack": 20,
       "dollarBack": null,
@@ -100,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "1a02eb4588614107",
       "emailDate": "2026-08-23T12:59:25.000Z"
+    },
+    {
+      "merchant": "Firstleaf Wine Club",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 10,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OC9LQjlkWTlkSitNczBYeDFXUUQ1cnkvZ1ZMSFk2aTI0SGtIZmlmcjgrRW1KbHNnMHVyeENLTUszeFRjWVd5MHMzMmNCTVZraEdReFFMYkNJT2RpU0JhQWl5bW9kL0Y2UUtPbWpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=firstleaf.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
     },
     {
       "merchant": "Seats.aero",
@@ -494,6 +522,20 @@
       "emailDate": "2026-08-25T11:10:03.000Z"
     },
     {
+      "merchant": "Tours4fun",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TnkrcXBmRWtCRWRwNkNrMTRFQ2hkQjdKY2VrQVFRcVE3dHpKbDlnSUNMSG10U0dwa3I0aS9QZXlzWDRuMmpNVEdTMmtSVG1EMXJsbHQ3L245OG5wRWl3RGJZRTBKdEpJUTRpbWdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tours4fun.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
+    },
+    {
       "merchant": "MSC Cruises",
       "percentBack": 2,
       "dollarBack": null,
@@ -548,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "1a0338d4fb80516a",
       "emailDate": "2026-08-24T11:34:53.000Z"
+    },
+    {
+      "merchant": "Way.com",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUdCY3pnZGZBSWNzdGUvTmlhVTZDL1l6UTg2ODdid2dWRVVTK2l5RFVIbmpZTUV5SUdkbXA2bXhxeWtBSzBXYk5QbDJ4d2YzQlFQQVNEa0ExUVp4blowSlNENEUxOXl5Tk85amV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=way.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
     },
     {
       "merchant": "Hotels.com",
@@ -674,6 +730,34 @@
       "source": "single-use",
       "emailMessageId": "1a032b348d5ea567",
       "emailDate": "2026-08-24T07:36:44.000Z"
+    },
+    {
+      "merchant": "Wine Access",
+      "percentBack": null,
+      "dollarBack": 24.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZkJ3UUl3aU9KYU1IRUpsNmRHTVZaWXpiTUZES21MRWl6SG5pUG5zRkU1a1BrRHdVUzBnYThGbUdDdHFIOHBMMjh1VktvNUxSbzVZK0FSMWUxVGlleGRIQkpvRGQ5Uk9LeXVucVNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineaccess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
+    },
+    {
+      "merchant": "Wine Insiders",
+      "percentBack": null,
+      "dollarBack": 21,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eVc0bmo1bWl4a3gyNHFkanpLUE5id01LQmh6ZHM5VmEwMThpaDV4OUtQMDJ4bDlmUzVpZ21Mb3p4Q25sNjlmQjNzVTZpUmUwN21tbVlQTnZmVmhGVUtSZzhWTnNzT3dlU2wvUmhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a03aa3ee80be6f3",
+      "emailDate": "2026-08-25T20:36:56.000Z"
     },
     {
       "merchant": "Disney+",
