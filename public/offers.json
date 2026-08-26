@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:17:55.946Z",
+  "lastUpdated": "2026-08-26T07:11:38.341Z",
   "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
@@ -44,20 +44,6 @@
       "source": "single-use",
       "emailMessageId": "1a0338d4fb80516a",
       "emailDate": "2026-08-24T11:34:53.000Z"
-    },
-    {
-      "merchant": "CVS",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WmNVaWRmejR3R2ZzQ3A3M05FM1dTd0h4VDFsWkJYU3RXTDZiU01pWW5MeGYyN2dOMEZjTkRtYUdEQWdXSzJCSnpHTDdvUUoxckp3L2ZMNDljMmluUU92VTNPMU5DYWR5R1B4aGVBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a03a3eee3cf7afa",
-      "emailDate": "2026-08-25T18:46:37.000Z"
     },
     {
       "merchant": "Instantly",
@@ -310,20 +296,6 @@
       "source": "single-use",
       "emailMessageId": "1a030300ac899e73",
       "emailDate": "2026-08-23T19:54:08.000Z"
-    },
-    {
-      "merchant": "Ticket Club",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R3doT2dYSVlZTE9aalljNW5JREovVWFnaWVRK1IrMFlPOCs0SHI1TzFpdk1wcWhXeDVhekl1VDhTc1JzVm81NzAzdm9xVU9ZUXNxUkVQUU85WU9FZGRrdU5qZllWdzJsTTh2c1NRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a02a19d99f14782",
-      "emailDate": "2026-08-22T15:32:11.000Z"
     },
     {
       "merchant": "Marriott",
