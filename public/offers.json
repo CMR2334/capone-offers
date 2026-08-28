@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-27T23:17:58.075Z",
-  "sourceCount": 91,
+  "lastUpdated": "2026-08-28T00:17:57.516Z",
+  "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
     {
@@ -270,6 +270,20 @@
       "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
+      "merchant": "SignNow",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": 500,
+      "wasPercent": 10,
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WEtncEY3b2xpdlhiTGNDMm1nS3prRm5MTmYxK1F0TkZkTGNHbUIvcEdHSXlrOFkzY3VHZmdTbTVOTXBhNXFyQUFzdWxaaCtsdklQL1FnMWFoaHp3Q0tMQlZHUlBQWDZkS1Fmb1d3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=signnow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "personalized",
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
+    },
+    {
       "merchant": "NFL Shop",
       "percentBack": 15,
       "dollarBack": null,
@@ -522,6 +536,20 @@
       "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
+      "merchant": "Hotel Indigo",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZExxdWtpaUZ1OStrM0lZMndKQllQZkZQYVhORkNhTjZYaWpOOHczVG1oR2J1ZUJrenlpOGMzcVM4Mis5UGtXaUVzOGdlaGhWT1BabE1SUldqaTdsQXBQdCtqMlRFcXI5L2VwMkRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotelindigo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 10,
       "dollarBack": null,
@@ -676,6 +704,20 @@
       "emailDate": "2026-08-24T07:36:44.000Z"
     },
     {
+      "merchant": "Olive Garden",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bitYUUxQSThXOFdQNzA1ZElaSlI4djRSS2R6ZktmWWVwNXhMY2dhbkJIZjFTUjRQdHY3L3hoTUxsVyt4c2JSTHIxOGhkZnZOOU9TRlhRcGM0YisvV2VGN2VKRmw3MnpiT3dxVk5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=olivegarden.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
+    },
+    {
       "merchant": "Fanatics",
       "percentBack": 5,
       "dollarBack": null,
@@ -732,6 +774,20 @@
       "emailDate": "2026-08-26T01:51:26.000Z"
     },
     {
+      "merchant": "Raw Paws Pet Food",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZklpT2xjSzZvblorTWZpbEc3amFOZkdjSUlvRlZnc0lkemtSNTliUVUrejRMMDJyc2RzWUlmSXRoMTZiM0lLK2RldGw4d3VUUUNNVnZCS0hVektHNFo5WjhVK0xXQkFaOFEvM29RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rawpawspetfood.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
+    },
+    {
       "merchant": "Booking.com",
       "percentBack": 4,
       "dollarBack": null,
@@ -758,20 +814,6 @@
       "source": "single-use",
       "emailMessageId": "1a0389cf4225266e",
       "emailDate": "2026-08-25T11:10:03.000Z"
-    },
-    {
-      "merchant": "Olive Garden",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OVdqMjQ5TUcveVIwcFRmM0gxaUtUaW1maUpEbTNzMXlxYnl1MUE5dVNBakNZVDNJT0pTY01oSmVBMHAwaVJiSXhOcUp4aVhwcEpuNXFnODFxSGE1WE93RGhqd2xpenNKczdMZmxBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=olivegarden.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a032b348d5ea567",
-      "emailDate": "2026-08-24T07:36:44.000Z"
     },
     {
       "merchant": "1-800-GOT-JUNK?",
@@ -872,6 +914,20 @@
       "emailDate": "2026-08-27T14:35:04.000Z"
     },
     {
+      "merchant": "Giftcards.com",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eGtrdHRVY0hScGpoN3ZVZElZVUU4eEhhd3V6UTdsQ3k4ZmNDUUk5bzB1SEF1dlB3TEVvVzhvSGNrczdrN0xCT3RlWGdER0hhRFdtRWlSMmVacG1sUXB6WE56V3MwNlAySUhPSUFnPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=giftcards.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
+    },
+    {
       "merchant": "Way.com",
       "percentBack": 1,
       "dollarBack": null,
@@ -961,13 +1017,13 @@
       "dollarBack": 45,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "August 23",
-      "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bUh6MnFQTUszYTB0UElnL1J0RnRmdm02d0VFbW1jMUoyK2x5a3Z3UzNIMEpvcHUxK1RMaWxReVpIam0vall2RGt4ZzVVL0hlQVlqQy9mcTVLRHI0VW1jZThoWmF0VG1jbm5GQnV3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&type=cropped&width=500",
+      "lastViewed": null,
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MzhGZXcvVEU4UzNaSEltc2JnZFBZU05KY2lVN2Q4SzJQM3Y2SkgrbFZQUTRlY1JSWVJkUmI3U1c3SStvOW8wZjZSem9MMk04bGMwNk9OQjUyTGw3M01QcFlqdmE5blJ6RkVhNkNRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodoordash.com,sN3Z6eZuW_WINaFYW3Niok9xLCu8ur5p4bBoUw9def9o/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ca5c6d4b4c3462d5fab76c7e.png",
       "source": "single-use",
-      "emailMessageId": "1a032b348d5ea567",
-      "emailDate": "2026-08-24T07:36:44.000Z"
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
     },
     {
       "merchant": "Wine Access",
@@ -1046,12 +1102,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UnBGTm1GMkovZ251UmFJU2lyZjRGWnZ1b0QwaWFKeE96UHBZQzlTZG1JQlQ5NlN3OTFBOGdicHAwOFVFMm9ybUg2ZzJVY0lEMHE5MDNPblBPcUpua1lZT0grMHFHNnJ1ZUtSOENnPT0/runV3dl",
+      "expiresAt": "2026-08-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L2tGTFRVMTR6WDJNRS8vbHNHNWdaOWFQeEVaT09WMnpNM1IrUnZHK1ZadFBrWUR4RWg3SklMZisrN1Y4MjZ4emFvQXkrRXA1USsxeWNLOHBnQVNYNk1aMEZucC9Iczg1SzQzUDd3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=upack.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a032b348d5ea567",
-      "emailDate": "2026-08-24T07:36:44.000Z"
+      "emailMessageId": "1a0458558cb8c022",
+      "emailDate": "2026-08-27T23:19:21.000Z"
     }
   ],
   "upcomingReveals": []
