@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-28T14:17:49.601Z",
-  "sourceCount": 92,
+  "lastUpdated": "2026-08-28T15:17:59.891Z",
+  "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
     {
@@ -438,6 +438,20 @@
       "emailDate": "2026-08-27T02:16:08.000Z"
     },
     {
+      "merchant": "Hotels.com",
+      "percentBack": 12.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlNxMXc3Rll2M0xaR09kelIzL0pscHA4WUwwck1HM09EUnZ3VVhyNjBHWlRNTEMzM0RXUXZ2SlgzazNSWFpRQ0F4dzZrT0REc254TFppQ2JSWXMwQjZOUFVjUEpRbmJ5RGovUWZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotels.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a048c574fc022fa",
+      "emailDate": "2026-08-28T14:28:13.000Z"
+    },
+    {
       "merchant": "FramesDirect",
       "percentBack": 12.5,
       "dollarBack": null,
@@ -464,6 +478,20 @@
       "source": "single-use",
       "emailMessageId": "1a03bc3ddd1de490",
       "emailDate": "2026-08-26T01:51:26.000Z"
+    },
+    {
+      "merchant": "Seats.aero",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": "August 23",
+      "expiresAt": "2026-09-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d2RhK2pNUHNSZlR6c1ZkaEhSazgwSEFxbTBrREVwT29OQVV0OW1XWjdOWTQrUDE1Q1hKTVZZNGY0VnFhUmtkL3pQTGQ0YUc2cWhWcTllaHQ5ZExhY2k4S0pWM0dxZ3QzQjRPZitnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=seats.aero&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a048c574fc022fa",
+      "emailDate": "2026-08-28T14:28:13.000Z"
     },
     {
       "merchant": "IHG",
@@ -604,20 +632,6 @@
       "source": "single-use",
       "emailMessageId": "1a0389cf4225266e",
       "emailDate": "2026-08-25T11:10:03.000Z"
-    },
-    {
-      "merchant": "Hotels.com",
-      "percentBack": 7.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UUpKQXN6WE5KTkFlMmVOSWlwdDhkZVNIdTFkenlQRVFIMGt2M3lwT0x0cEVCNDZLWUkrNFpjTGxkWnQydS92K1R5clZNb2Nxa3lWUlZJVU9UcGlOMExZbDV4Zk1NRWx3aVZYZ1BRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotels.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0482a25998dbc1",
-      "emailDate": "2026-08-28T11:38:36.000Z"
     },
     {
       "merchant": "More Labs",
@@ -893,11 +907,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VFpSd0g1QitveDdSUG53UGlubmFhSkx2LzRTZ2p6cXhpTGIyK284aWJuT01SQXRYaEJnbC90Nml4ZzRsWVFGUTJPN2xQNWhlUXMwU0FMYjZmbGo2elkvQW5SK2gwWmdEb3BKbWFnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6djlxNGNTQUM4c3FQb1lsU2NsbjRTQ0hWKzNpL01SOVdEQWUyUU1EMWw5bFpyVlZabkh2d25uK3hmdkhHN3J1S3ZkNllBZEVOaUlUb1QrTndBaDFrZ3R0L1NicWtPSjNzVG8ralJ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=directv.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0482a25998dbc1",
-      "emailDate": "2026-08-28T11:38:36.000Z"
+      "emailMessageId": "1a048c574fc022fa",
+      "emailDate": "2026-08-28T14:28:13.000Z"
     },
     {
       "merchant": "Astound",
@@ -906,12 +920,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUhFemV6dGJ5UzVhK0FXem8raFMzUmRjZzAxclZrdFlBajY5aWRvY28reHh2QlR6UWNuSFRSUlF2UXF0cEN6QUpqb3ZWYXNtNno1ZTZYSXNQQTFHNHlVMnYwanVqM082dkp1eXRRPT0/runV3dl",
+      "expiresAt": "2026-09-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RlU2cTJYS2creXU1bzYzcmphQ1R6UUtCOXhkNStGNHFDZ1FUb2haRDJnUkZMOERPOE9IVGNYQ0d3LzEyN1Rib1J4SGZWa2JDY0RmbkhnVEx3R0cwU2wwTXVpa2hlMWJNajZQTnd3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/astound.com/a866d650-56a1-4475-b264-11d443f27257.gif",
       "source": "single-use",
-      "emailMessageId": "1a03bc3ddd1de490",
-      "emailDate": "2026-08-26T01:51:26.000Z"
+      "emailMessageId": "1a048c574fc022fa",
+      "emailDate": "2026-08-28T14:28:13.000Z"
     },
     {
       "merchant": "Fubo",
