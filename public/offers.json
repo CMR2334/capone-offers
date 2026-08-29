@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T17:18:21.356Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-08-29T18:18:19.908Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -158,6 +158,20 @@
       "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 22,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "August 28",
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VVcxTGFYMTNpOXkzL0pJVWg5V1AyMzRFWE16MTJyNlFHelpScHArOWh2d3NMeTM5WXNLOURsNitnUDhuYy9sUk0rbjdMbjZ3QkJJaDJ2cjh4S0pLV1UyYjRZbjhHT0NWQmkvZ2tRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a04eb51c3c3a24f",
+      "emailDate": "2026-08-29T18:08:07.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 20,
       "dollarBack": null,
@@ -270,18 +284,18 @@
       "emailDate": "2026-08-28T11:38:36.000Z"
     },
     {
-      "merchant": "Instacart",
-      "percentBack": 15.5,
+      "merchant": "CVS",
+      "percentBack": 15,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZUtaUGlMZWNLcU1FOGJEUXl0dG5mOVdiZmlLUExCbnJ0Nk5XaURGZTgzcXY0NHRocDY2eHlOd0c5Y05JYUg0c094VDBXZDBkUVcxUk1lNnFjalE1Unp0NXplblAyZ2lMK0t1US9nPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-08-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dHZETnNrTFdnOHRJcThCY2dzQlRnWitLdy9Ia1pyYmZ4dVg0Tmw3cTBNNWRBQzhId2pLc2VqZ3I0eGJRclhsb3E1TUtxMVJkdzkzai9MOGhsTHorWW9JWW9jTWxDQjhpQ01PZ3JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&width=500&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
-      "emailMessageId": "1a04ae549b3691a4",
-      "emailDate": "2026-08-29T00:22:15.000Z"
+      "emailMessageId": "1a03debb2be814a2",
+      "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
       "merchant": "Doughp",
@@ -380,20 +394,6 @@
       "source": "single-use",
       "emailMessageId": "1a041ebdf5b6f581",
       "emailDate": "2026-08-27T06:32:51.000Z"
-    },
-    {
-      "merchant": "CVS",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-08-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dHZETnNrTFdnOHRJcThCY2dzQlRnWitLdy9Ia1pyYmZ4dVg0Tmw3cTBNNWRBQzhId2pLc2VqZ3I0eGJRclhsb3E1TUtxMVJkdzkzai9MOGhsTHorWW9JWW9jTWxDQjhpQ01PZ3JRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a03debb2be814a2",
-      "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
       "merchant": "The Framery",
@@ -648,6 +648,20 @@
       "emailDate": "2026-08-27T02:16:08.000Z"
     },
     {
+      "merchant": "YETI",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q3VlcUFhWUdyUzhIR0pIQkhYZXg3YzN1cEJJckFHVGlRR1dUVnZaRXY0QkIvVkVGZGNtSU0rcFExWmdXRDdCa0l1elZUbDFvR1NrYWpUaVNPd1A5ZkEvS3BiU0gyTXZraUI3WExnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=yeti.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04eb51c3c3a24f",
+      "emailDate": "2026-08-29T18:08:07.000Z"
+    },
+    {
       "merchant": "Ticket Liquidator",
       "percentBack": 7,
       "dollarBack": null,
@@ -864,12 +878,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-08-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RzFQOG9JUHhBMnFMSjVKcWl0Y2RuakpwT21jN2J5MStxSGlGcEluN0srNFB1Mi9XVnh0SEhZRU1YeWFaUW04M253bU1nazdFNWpJSVJZUEd0akM3Z3N4MFJPQWlXRDhhaWpNaFh3PT0/runV3dl",
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3pmd0ZSakc1a2M2VytYSDhsdEJtc1hacGJGejl6eUloa25UNWpKMjR3U1RkNTJlQ3hON1FrdnBFa25FS1NNRGRBYkllRVF3bjdyVmd4dmpDWGRvcTJsZy9KOERzbHZVeEpvZmtnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a043a55b0b08575",
-      "emailDate": "2026-08-27T14:35:04.000Z"
+      "emailMessageId": "1a04eb51c3c3a24f",
+      "emailDate": "2026-08-29T18:08:07.000Z"
     },
     {
       "merchant": "DoorDash",
@@ -878,12 +892,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ekphY2xTYklpWi85WUxTQ05rY1lRQ2g0T3JkVFpibDM3WVBvQzVPblVvRXQvWXVsbmxDMllHcS9ieWwxSWdGR2pSMmR0VUdZM2pvbC9Qa2FmVjZEdG9GVy9EY0ZXVmFWSmpQeEFBPT0/runV3dl",
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QU9TY3RnKzJEMmtHOG1GUkNaaG16V1VnYmRSTnpUYzY5Nm96d2ZqcXY5ck83b2JuMnhpWGM1b3FSSjRsMDB1NndtMDRlTVBxbHVrU25maS9YZFJ6Ung0eWNXczZGZS9QTWJZMmx3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a04ae549b3691a4",
-      "emailDate": "2026-08-29T00:22:15.000Z"
+      "emailMessageId": "1a04eb51c3c3a24f",
+      "emailDate": "2026-08-29T18:08:07.000Z"
     },
     {
       "merchant": "Fubo",
@@ -912,6 +926,20 @@
       "source": "single-use",
       "emailMessageId": "1a04995251bfe366",
       "emailDate": "2026-08-28T18:15:05.000Z"
+    },
+    {
+      "merchant": "Daily Harvest",
+      "percentBack": null,
+      "dollarBack": 24.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aXYxMzRQM0x3VmE2RE1ZaHZmeTQwRW1IelRCZ0IwSUtuYVlSYWJpS1IrVHdiaHVMZ2QyaE84OTVJUERJUkxvMGRmWjRiUWdHakdKN0FKWFNibFNYaDVTMDR6dHNKUTIvWUowYmZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=daily-harvest.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04eb51c3c3a24f",
+      "emailDate": "2026-08-29T18:08:07.000Z"
     },
     {
       "merchant": "Uber Eats",
