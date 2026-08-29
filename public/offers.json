@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T11:18:22.043Z",
-  "sourceCount": 92,
+  "lastUpdated": "2026-08-29T12:18:26.178Z",
+  "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
     {
@@ -88,6 +88,20 @@
       "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
+      "merchant": "Tripadvisor",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aHkzVVdlVDl4K2NLRTA3VE9VWjBhNUlBS015YjJSSWNKdkVTUUM1QnFGZmNsUHFNRTBuSnJGSGZ3V1o2L2lYbnYvN3h4VndIdmEzbXRiWjc1b3N0MjFKRTdMemluRE5CZVp4VXhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
       "merchant": "Magzter",
       "percentBack": 25,
       "dollarBack": null,
@@ -114,6 +128,20 @@
       "source": "single-use",
       "emailMessageId": "1a03debb2be814a2",
       "emailDate": "2026-08-26T11:54:11.000Z"
+    },
+    {
+      "merchant": "Big Bus Tours",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXlSYjY2U2l2Nm9Wc1NIUEVLY0RSM203YzNCeHArUmJQOEo4TEYwOGFORGlZcnQrRTI1RjZmamxZb3p5bzVhNlY4UXcxV3lkQ3lCR2xmbndPdWJLdWNHdTJMdVphTGV2djBTZEFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
     },
     {
       "merchant": "The STRAT Hotel",
@@ -354,6 +382,20 @@
       "emailDate": "2026-08-26T11:54:11.000Z"
     },
     {
+      "merchant": "Aerie",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-08-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eno5YTE5TTlBOU80a0RyaXhqSVNYbEdOSzR4em1SdnlFRTVHOExpZGN0MDh3ZHQyZGJhR3RhSEVpemVacExmZUJCbUVodUR0V0M5YlU2dlI4aTIvR1FLTzloMDk2c0pGeUZaNitBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=aerie.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
       "merchant": "Lids",
       "percentBack": 14,
       "dollarBack": null,
@@ -508,6 +550,20 @@
       "emailDate": "2026-08-27T23:19:21.000Z"
     },
     {
+      "merchant": "GetYourGuide",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SGM5byt3VU00UW9pSnRxcmo5Z25kN0NKR1l1TURtVE9zcVZKTFFhSXZmZm5wWWdDeGR5ampUOUNNdmNRWjNPY2FHa2Q5RWFXVXRmNEs4dkxlOXFlb2VQMXpHd0NYM0E0MCs1U3lnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
       "merchant": "Ticket Club",
       "percentBack": 8.5,
       "dollarBack": null,
@@ -590,6 +646,48 @@
       "source": "single-use",
       "emailMessageId": "1a04920feb56a527",
       "emailDate": "2026-08-28T16:08:13.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SXkwa1F1TFZ6SDJpTk41cTkwYjB5NGJlUUdRZUhpU1FFUUI1LzdDdlkyaE9Oam52SitsSEFnOHhnaTYzNGxZajNGeXZtbThqVFlVeG1CNHVjWjR4RHk4SnB0YkJKMnR4bXhxTkpRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/94e74cba-a171-42c3-acba-d432f21c41c6.gif",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SlZzUFFlc3o2ZjlpTzFZWG1zVXhpUm1RcXNlUE1DUllWY0dQUTVaTWhjU0MxbUw2RWtQOG4rMDhnS091bFZ1Uk0vb2tnUjVGZW9VRTE4Nm5qMzF2a1VyYTlxSk8rcUh5cVpMQ09BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q2VTOXJKS25vTVJxSmhjVW5CTlovSTkxT21JS1pObEY5djlXRTg0NHNEMEpITlpqYmRVQk1XK2tvZTlwRSsyVkV5NUd2Y0Fpa0NlUWZBUXVlR2FDcVl6QWgwTWMxclBIYldPRmlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a04d50ab1cd92c8",
+      "emailDate": "2026-08-29T11:38:46.000Z"
     },
     {
       "merchant": "Olive Garden",
