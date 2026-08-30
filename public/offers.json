@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T17:33:53.843Z",
+  "lastUpdated": "2026-08-30T18:18:20.485Z",
   "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-08-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UzBiQ0Q0dDNtYVJucnAzRytOYzA2YWw0WXc5ZzdvczhHcDcyMGNNeGo3T0ZHQVhMS3JFNk05T1lrN1pJMVZmZ2ludnRmaUFNN3YyYTBubTdQRnN4SnJIWjNHa1pEaFdmdy9mb3FBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QzhMaWFrSHBWazlMTWkwS1ZkQ1pTbjFIaVNFNXlEVDVHRWhYaTZqNVozRmhNZ3h6R0F0Ritkc0FiRll4dTZTL24vTmFNRDEyZHFpKzlUL1Nnbi9HbDJJazdyeUxqOVh0VFBUL2ZRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vans.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a0535d8d61f23bd",
-      "emailDate": "2026-08-30T15:50:34.000Z"
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
       "merchant": "NFL+",
@@ -172,6 +172,20 @@
       "emailDate": "2026-08-27T06:32:51.000Z"
     },
     {
+      "merchant": "Swanson",
+      "percentBack": 16.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RzdwOWJWc1A3SkdjdWlpV2tWTG9qdFAwZ0svWEZrRW9VUzVsMFFCYmdKZDErVjhjdm9NOWJQY3BSSFpBR1JuR08rejNvYWhkSHpTYy9yWHBmMWVhRXZYMVRXZTFlakN0eGxRVDl3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoswansonvitamins.com,swxc2dhj2xzfb3HDFGplfOFeph5wfq3TZKHWnsuucQgU/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/afaadfb603708b858434ef5e.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
+    },
+    {
       "merchant": "StubHub",
       "percentBack": 16,
       "dollarBack": null,
@@ -184,6 +198,20 @@
       "source": "single-use",
       "emailMessageId": "1a0482a25998dbc1",
       "emailDate": "2026-08-28T11:38:36.000Z"
+    },
+    {
+      "merchant": "My Lab Box",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2FvdmVjbEJBUEdydDhCcEpBKzZBS1VPY0lIMnBpUEFrKzVXTGxpTjJhTHhrZEptdDRvWXBZbGhRdHBBWnFrMDFYNWtPOHFWVDlsdEdUaEd1em1DZWd4T1RXdzFtNUVaa3BqYVFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mylabbox.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
       "merchant": "Doughp",
@@ -452,6 +480,20 @@
       "emailDate": "2026-08-27T23:19:21.000Z"
     },
     {
+      "merchant": "Pure TheraPro Rx",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Tm0rYy9wem1rZy9DMFNVb0UwcWpZM1pMVmFpSkptc2RLQnZXOWtFbU84a2pidzNBZVpCZktvMDlySTE5OGRJN0k3Q2h0Nyt4cFA0ZURmcWRRa1dOM05xVi92UkM2S3MvL2xjY0dnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=purethera.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
+    },
+    {
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "dollarBack": null,
@@ -480,6 +522,20 @@
       "emailDate": "2026-08-30T15:50:34.000Z"
     },
     {
+      "merchant": "The Vitamin Shoppe",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6clh2TFRFMitlak8ya1hQOFpRK2RBb09JUmlhd0FTMlg4RXZUNzV5QjJWUDJRdEVXSUZRc0xPSFNqUHdYZ0xjNU5IeUYzVkV3eTVvV1lJYTJzMXBYcjdyWDR4eXBScFk1OFpqbWZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitaminshoppe.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
+    },
+    {
       "merchant": "Walmart",
       "percentBack": 8,
       "dollarBack": null,
@@ -506,6 +562,20 @@
       "source": "single-use",
       "emailMessageId": "1a04920feb56a527",
       "emailDate": "2026-08-28T16:08:13.000Z"
+    },
+    {
+      "merchant": "BeautifiedYou",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SFVTM1NPV2JsVnQvWVF3M1dYdkxCaUprcFBmRThwZlhTUmJPV0c2Q1hEVzYxeGtrQ0VOQkIrRTd2N2o5M3NXcm1oZkZzeTRscmYwMWRjeUpob2Z0TkVIcE1la3c1aE1GVlpTa3RnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=beautifiedyou.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
       "merchant": "Ticket Liquidator",
@@ -578,6 +648,20 @@
       "emailDate": "2026-08-29T11:38:46.000Z"
     },
     {
+      "merchant": "Professional Supplement Center",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MTdUQmlrOGYzalQ0SjlRc1p3M3JnWVltR016SlcvdHFpZUVtVys5M3VxZ3AvSDBrZTlyTGFKTWpTRUZRK3VDWFZCcGovWGhubWt5dkRKSlZPVmNOR3Bzd0d0d05MalBPdzRHc2ZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=professionalsupplementcenter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
+    },
+    {
       "merchant": "Olive Garden",
       "percentBack": 5,
       "dollarBack": null,
@@ -618,6 +702,20 @@
       "source": "single-use",
       "emailMessageId": "1a0444a77cab6e30",
       "emailDate": "2026-08-27T17:35:25.000Z"
+    },
+    {
+      "merchant": "NHC",
+      "percentBack": 4.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dnhXWGNhdENYTC9NZUxnNUlORVJwNndONHo2RHo3cTlJV1RZOUdsY3ZJU0VwR0lkaHJoSUFONnBVWFFySnh0N1ppTnNQWXl6S2VhSktjcCtjVGJQL25INkFkUHhKbkI0R25TQVFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nhc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a053c2e11b18f2a",
+      "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
       "merchant": "Raw Paws Pet Food",
