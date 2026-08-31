@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-08-31T20:18:21.541Z",
-  "sourceCount": 88,
+  "lastUpdated": "2026-08-31T21:18:20.376Z",
+  "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Magzter",
+      "percentBack": 75,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6amhKMXV6UmdzeWtXNmxxZHdheDI1Wm5sb1MvZWlyUVJUSWlKemorSjhlVUU4L2NxZ1BKbjJkSk12aVZDdFNVcXVzSFJERTQ0MWR6MFVXQ3kxVEFqRFN0ZVpWSlA0SHFTSmE4NUFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=magzter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a05980830d213b7",
+      "emailDate": "2026-08-31T20:26:28.000Z"
+    },
     {
       "merchant": "Forme",
       "percentBack": 70,
@@ -30,6 +44,48 @@
       "source": "single-use",
       "emailMessageId": "1a04995251bfe366",
       "emailDate": "2026-08-28T18:15:05.000Z"
+    },
+    {
+      "merchant": "Quest",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "August 26",
+      "expiresAt": "2026-09-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6emhFeHJwMlhNUGQ4UlQ5aGV2TFh5SlFISFhEYmlPZnVWMHYzbFZZR3lkd1YzZERPWTc0citYMGNubDIzNVcxUlZNR2UvQmNCckpJSUg5M1RCQzJXcWlxUDF2TTdwNjM5YjJ2SlVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=questhealth.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a05980830d213b7",
+      "emailDate": "2026-08-31T20:26:28.000Z"
+    },
+    {
+      "merchant": "Viome",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-09-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGtPRzZ6SitSQkRvVDA4WnNIY2dac1BuNXl6OHY5QzExSEMrV2hiR3MxWXBZSEtMYjNRdEIrTjRTVWg0ckwrTXpmQk9FNUdCd2lXMlBSTXJqTDJDMHFDT3AvWGhnR3l3QnBKdkNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viome.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a05980830d213b7",
+      "emailDate": "2026-08-31T20:26:28.000Z"
+    },
+    {
+      "merchant": "Roadtrippers",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZU9QV0piS3F0Q3VZRUYxTVIra2JXb2l3YXExZjArbWpHaEZmS2dnbFIwZG1IOVppY1o1bFRrYm1QYWJ3K1B1TjhodktSMTl0MFI1c0xYdDhMMFpzQm14WVRNbzY0VU9BK3pqVkFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=roadtrippers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a05980830d213b7",
+      "emailDate": "2026-08-31T20:26:28.000Z"
     },
     {
       "merchant": "NFL+",
@@ -86,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "1a04eb51c3c3a24f",
       "emailDate": "2026-08-29T18:08:07.000Z"
+    },
+    {
+      "merchant": "DonJoy",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z3hsQVBGOUpLaHVFeUhNNEVUZ1VzZkFKOC9hd2F1aGdYamdFZnpQNVllTkt1UlJUamRnQXc3VEptWG8yaGtwMHFuZlZtV01SY3RUME4rNVpFWG9lSzBxNFByTmlTTjU5QTRxRk1nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=donjoystore.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a05980830d213b7",
+      "emailDate": "2026-08-31T20:26:28.000Z"
     },
     {
       "merchant": "Big Bus Tours",
