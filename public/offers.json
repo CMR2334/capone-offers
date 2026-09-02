@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T22:18:28.595Z",
-  "sourceCount": 88,
+  "lastUpdated": "2026-09-02T22:41:22.344Z",
+  "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHV0aFViU01XL2l4VmNGUGphbjhlVTNkYVUyUnFlS3h4OEJENVBxOTlGdGs1NFlWdFFjOWlIcXp3TFZqQ01tZHkzNkJnZjFCSXlMUFlvb2o0cW5ra3dUeDBLNUozLzNsZTlNWW13PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WGxSd0JGUG9tZGdLSWVhdXRYSWNjcUdJUlZmNXdMWkVaSW11SCt1UnRpblVzci9LN3hhRWgxdVFVSkJhNDZIeGF0N3NSY2xDRzBUZGZ2Nk9Lc1lvNzBpWmNMNFdIZ2pFczgxWlRRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eyebuydirect.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a063a1cb18e752e",
-      "emailDate": "2026-09-02T19:39:02.000Z"
+      "emailMessageId": "1a06442326a8b98f",
+      "emailDate": "2026-09-02T22:34:14.000Z"
     },
     {
       "merchant": "Instacart",
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a062cd8ff97a507",
       "emailDate": "2026-09-02T15:47:13.000Z"
+    },
+    {
+      "merchant": "NFL+",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUcwZjNNaHhKbGRFSDRXU3JKZlNPN0d3d1RjVG1NbElzTnlZNExpS2FueitIM0g4aGIzVDJFa3JiY0VqZi8wdlNObm4wTE5oU09ZR3ZRSzdaWUh0cWJGbnA3amR1bEc3OXVaWlBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0535d8d61f23bd",
+      "emailDate": "2026-08-30T15:50:34.000Z"
     },
     {
       "merchant": "Quest",
@@ -86,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "1a05980830d213b7",
       "emailDate": "2026-08-31T20:26:28.000Z"
-    },
-    {
-      "merchant": "NFL+",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-09-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUcwZjNNaHhKbGRFSDRXU3JKZlNPN0d3d1RjVG1NbElzTnlZNExpS2FueitIM0g4aGIzVDJFa3JiY0VqZi8wdlNObm4wTE5oU09ZR3ZRSzdaWUh0cWJGbnA3amR1bEc3OXVaWlBnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0535d8d61f23bd",
-      "emailDate": "2026-08-30T15:50:34.000Z"
     },
     {
       "merchant": "Nature Made",
@@ -704,6 +704,20 @@
       "emailDate": "2026-08-31T16:33:17.000Z"
     },
     {
+      "merchant": "Fubo",
+      "percentBack": null,
+      "dollarBack": 28,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S0JRSTZON0loT0Rjd1YvVFdMT2kycnpRN2VPd0RQOXEycTg3Sm81SXVVY3lTYVh4TEJpRkszT3dXRGMrVnU4RDgvUEZOd1VPazIycVRxRTdNYTlQT1J5WmdyRWVwWHdoYlgzVDhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a06442326a8b98f",
+      "emailDate": "2026-09-02T22:34:14.000Z"
+    },
+    {
       "merchant": "Uber Eats",
       "percentBack": null,
       "dollarBack": 16.5,
@@ -718,6 +732,20 @@
       "emailDate": "2026-09-02T15:47:13.000Z"
     },
     {
+      "merchant": "Sling",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eW9TNkd3a2ZmWjB1YW40SGk1UTZncWo4N29RanRrL2xTaGEzKzdTNDRCRjRuQ3QzQnRKRjZDbmlxU3NPSkZTLytFTW4wdHRSY1ZnREJsaUorWkRQaGpXc2FZd1F2TTQzR2lZbWNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a06442326a8b98f",
+      "emailDate": "2026-09-02T22:34:14.000Z"
+    },
+    {
       "merchant": "Efax",
       "percentBack": null,
       "dollarBack": 7.5,
@@ -730,6 +758,20 @@
       "source": "single-use",
       "emailMessageId": "1a059eb5ca5a03de",
       "emailDate": "2026-08-31T22:23:11.000Z"
+    },
+    {
+      "merchant": "NOW",
+      "percentBack": null,
+      "dollarBack": 7,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RU40TG9JSmM0emJiRFJBYU5SckVnTUpSSEZmSDYxV2ZLRnJTRkF1SHROSVo3L1NqcHlVbHNWdUJvS2k1NStpZTZEelVDbTdXcFRrNk0wbmExZUc4Q3QvcWdYQjlPZjh6VS9YVWd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a06442326a8b98f",
+      "emailDate": "2026-09-02T22:34:14.000Z"
     }
   ],
   "upcomingReveals": []
