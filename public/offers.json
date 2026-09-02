@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T00:19:22.130Z",
-  "sourceCount": 87,
+  "lastUpdated": "2026-09-02T01:18:25.311Z",
+  "sourceCount": 88,
   "parseFailures": 0,
   "offers": [
     {
@@ -19,17 +19,17 @@
     },
     {
       "merchant": "Moroccanoil",
-      "percentBack": 45,
+      "percentBack": 50,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SU5NbHA4SERDVnc4ZGwyWjN2VTIwRXVnNld4UEw4Y1FCaEJNTTJBZVlFc2NrdjFFdTRFTkZlaWF1elFpM2ZtcGc1QUg4dDVkdFUvczJPaStJVXR0VTRCT1lEU0cyRnJ4Zi9xa3JBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RjlUaTEyckllakROTEtBU1Jac1JuRnQ3TG1jV0FGQ1hVZXJJUzhsSWdJWlcwQlhQNVM3dy93d0FUWk53ZUJ1RG5Qd0JtZlJOcWZBdm9VTkdmN0pSZ1FoRWI4ZmhOVDJjRlVQaW53PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=moroccanoil.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a05cadb743c23b7",
-      "emailDate": "2026-09-01T11:14:43.000Z"
+      "emailMessageId": "1a05f7ea477d4268",
+      "emailDate": "2026-09-02T00:22:10.000Z"
     },
     {
       "merchant": "Quest",
@@ -170,6 +170,20 @@
       "source": "single-use",
       "emailMessageId": "1a04d50ab1cd92c8",
       "emailDate": "2026-08-29T11:38:46.000Z"
+    },
+    {
+      "merchant": "Belk",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZkNmZUdsR0RDNGsrMXE4R1E5ekdweVhQYW1FU1VXT1M0SDdrK1ZGRytzR2lEVFRLUk9oMmFoTjZIditHZjVNNk5SdUtzTnRnNmV5MnNOczFtN01vZjRIU1F2dEtobHN2akIwU3hBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a05f7ea477d4268",
+      "emailDate": "2026-09-02T00:22:10.000Z"
     },
     {
       "merchant": "Swanson",
