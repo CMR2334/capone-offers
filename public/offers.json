@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T19:18:28.055Z",
-  "sourceCount": 88,
+  "lastUpdated": "2026-09-02T19:50:25.307Z",
+  "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M0dtNnhkcW1iRTVKc2svbk5obzdvM0kva2tmRFZwMGZVUXFxcjYrclRlckVpTEc3S2crWi9vaCtrR1lTOE02ZE1LWlY2UmhLRDYzRUFaSVFyaEUzMFFwVExkdXR4Rm53ZUkrMW93PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHV0aFViU01XL2l4VmNGUGphbjhlVTNkYVUyUnFlS3h4OEJENVBxOTlGdGs1NFlWdFFjOWlIcXp3TFZqQ01tZHkzNkJnZjFCSXlMUFlvb2o0cW5ra3dUeDBLNUozLzNsZTlNWW13PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eyebuydirect.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a062cd8ff97a507",
-      "emailDate": "2026-09-02T15:47:13.000Z"
+      "emailMessageId": "1a063a1cb18e752e",
+      "emailDate": "2026-09-02T19:39:02.000Z"
     },
     {
       "merchant": "Instacart",
@@ -214,6 +214,20 @@
       "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
+      "merchant": "SignNow",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": 500,
+      "wasPercent": 10,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WkFJQnNhM2dTOGpkZlB2OFE5Ym9IVVBRTW53eUxIYnNDUGpkcU40RlJuV1pyaWoyc3BybFBvb2pMUGR6MVBEd0FpWCtSSEQveDhKYkl1blB5VGZtd1pzVGNleGRKcklGcm5FMHBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=signnow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "personalized",
+      "emailMessageId": "1a063a1cb18e752e",
+      "emailDate": "2026-09-02T19:39:02.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 15,
       "dollarBack": null,
@@ -270,20 +284,6 @@
       "emailDate": "2026-08-30T12:01:32.000Z"
     },
     {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cit2QWF5ZFU0eDhkQmt6VDlKdUVLK3RqelUrdlJ1YmcvamZrVGVNS1pLR1FNRFJIbTlrZUdXY08ybE5sTUpwT01haXRGVy9ndi9iVTNLQU55S1VnNlZrSUxmaEg1KzR2cXg5T0t3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a0621992c683026",
-      "emailDate": "2026-09-02T12:30:37.000Z"
-    },
-    {
       "merchant": "Giftcards.com",
       "percentBack": 10,
       "dollarBack": null,
@@ -310,6 +310,20 @@
       "source": "single-use",
       "emailMessageId": "1a059eb5ca5a03de",
       "emailDate": "2026-08-31T22:23:11.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cit2QWF5ZFU0eDhkQmt6VDlKdUVLK3RqelUrdlJ1YmcvamZrVGVNS1pLR1FNRFJIbTlrZUdXY08ybE5sTUpwT01haXRGVy9ndi9iVTNLQU55S1VnNlZrSUxmaEg1KzR2cXg5T0t3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a0621992c683026",
+      "emailDate": "2026-09-02T12:30:37.000Z"
     },
     {
       "merchant": "Spirit Halloween",
@@ -410,6 +424,20 @@
       "emailDate": "2026-08-30T15:50:34.000Z"
     },
     {
+      "merchant": "reMarkable",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFB2V0VrSUVLNVAzMlczS2ZmM3lWbUdDRzdNZExIT3NLNGR4bFh4M09HTlhhNU9lSmxHbkVvMERVWTFQKzM5c1QwcVR4SCtKQTB5VitNYTJFcHQ2TVJPbGtoWm9sVURzVFlaQ0ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=remarkable.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a063a1cb18e752e",
+      "emailDate": "2026-09-02T19:39:02.000Z"
+    },
+    {
       "merchant": "Hilton",
       "percentBack": 8,
       "dollarBack": null,
@@ -494,6 +522,20 @@
       "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
+      "merchant": "Crowne Plaza",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NVFqa0QyaTBHdFR4MkR0RGtHZ1VjMzVXM0JMSkRxNVhsdXRiK04wSXlkM0FkZ3YwR3VJOGxJVWhBcStrL3dRMWFDTEM4MmU5dkdVYzFvVmora0h2M1pSSHZsZXM1aGVYY1NFRnVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=crowneplaza.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a063a1cb18e752e",
+      "emailDate": "2026-09-02T19:39:02.000Z"
+    },
+    {
       "merchant": "Westgate Resorts",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -550,20 +592,6 @@
       "emailDate": "2026-08-30T17:41:15.000Z"
     },
     {
-      "merchant": "Goldbelly",
-      "percentBack": 3,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-09-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eEVIUTZPNGRHTkVLeHNjOWZlYmdKNkNHL2FteTIrMkMrdnh1RUdKaTMvK3ozNXlRcXhMclF4QzdERHZOVEpwQTVPdllPQktpWHYyRzJBTUpLYlVoSnY1YjIwQmo0blQvdGdtM2t3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a062cd8ff97a507",
-      "emailDate": "2026-09-02T15:47:13.000Z"
-    },
-    {
       "merchant": "Cheddar's Scratch Kitchen",
       "percentBack": 3,
       "dollarBack": null,
@@ -576,6 +604,20 @@
       "source": "single-use",
       "emailMessageId": "1a059eb5ca5a03de",
       "emailDate": "2026-08-31T22:23:11.000Z"
+    },
+    {
+      "merchant": "Goldbelly",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eEVIUTZPNGRHTkVLeHNjOWZlYmdKNkNHL2FteTIrMkMrdnh1RUdKaTMvK3ozNXlRcXhMclF4QzdERHZOVEpwQTVPdllPQktpWHYyRzJBTUpLYlVoSnY1YjIwQmo0blQvdGdtM2t3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a062cd8ff97a507",
+      "emailDate": "2026-09-02T15:47:13.000Z"
     },
     {
       "merchant": "StubHub",
