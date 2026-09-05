@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-09-05T20:18:10.262Z",
-  "sourceCount": 85,
+  "lastUpdated": "2026-09-05T21:18:05.808Z",
+  "sourceCount": 86,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Magzter",
+      "percentBack": 70,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aDNRY2I4RlVMRzNScTNNQjVSTmNWRUJqTzRGN1ljemVuaVM2ZElmdS9zUTd1WkNsUko1c0NIZTFxOGdQVG1yZ2FMSFgrbTJVY3RQdTF2eG03Zk44WXhOeDRqT2xCbXFUSis5enBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=magzter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
+    },
     {
       "merchant": "Instacart",
       "percentBack": 36,
@@ -30,6 +44,48 @@
       "source": "single-use",
       "emailMessageId": "1a068d4079b885dd",
       "emailDate": "2026-09-03T19:52:00.000Z"
+    },
+    {
+      "merchant": "Quest",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "August 26",
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c2JoeWhHOUhEMDZNNDJuODNkS1owdjBYUVF1dkozbnJPNXhBNVJWT0pCNDVHZUVEenpqY0tzZUNkazd5K0tPdnNXd3VmMk9LY3cxTWhma1ZOOUJUUHVIeEdFR1MxVnE0ZEwwUklRPT0/runV3dl",
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
+    },
+    {
+      "merchant": "Viome",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6KzN4S0hzOXdtYzFpcEdFK3F2ZEJKK0lVdjlYbFlyOVEvd2VoRUN6a3hjaVp4NVNJR1pNcVRMaXptcnV4TGlSM1EzOUZYMUg3TkpaWWgrUDBYNHFxNy9URkkvcHQ3U1kzSlFqYUN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viome.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
+    },
+    {
+      "merchant": "Roadtrippers",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OHY5ak1PUzlMalFwU2dJdXlLWks0dmQ5bW5EQTQyM29DczYyMmEybklhKzBzcEdEZGExcTNkY0RITnRlRXRoWkxPTzZaMEFSWURqaExLQlBrOGsyMWVLV0lBSDhxcEloNHZaa3hBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=roadtrippers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
     },
     {
       "merchant": "NFL+",
@@ -88,6 +144,20 @@
       "emailDate": "2026-09-02T15:47:13.000Z"
     },
     {
+      "merchant": "DonJoy",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WXB0eDIwMk5kMGhXT25VVnVYRGV1b1JtblROK0Y1bTJGUzZHWjBsUFA5M2ZPVFp3M3FueWNNYUNvdXFOeDA1V1hHcG5kTFFFQkI2LzNiYW8wMm8zVGtsV2ptVDJNb3lEcER2UTdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=donjoystore.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 20,
       "dollarBack": null,
@@ -137,11 +207,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WUQzZWcraVg3YUNQS2pJWUtxTkN4REJtNit2c014MXlLR2RaVGI0RUxEdG9vR1R6S3p6a2Z6K2FjdUhDbGF1M0Q2QVpqZW1DRDFra2Jwd3dCWjZPYWNFQlcrTVZoWmF1elQ4dHBnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RDlBcWFBWFBJbTI1R1ZEZGRhYTF5L1IvRlN0M0pXOUJTbFMyaFB5UUNvNDVmcDY1STVsMUx0OEVpNjN5RFVhYXA2aEszQUNpV0k5UUhFVFVyUVRVbVp2QTVhSGZSN2EwTFpiVzlRPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bestbuy.com/d744df5b-de18-407d-b1fe-750477eb041f.gif",
       "source": "single-use",
-      "emailMessageId": "1a07291e1fd31041",
-      "emailDate": "2026-09-05T17:15:57.000Z"
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
     },
     {
       "merchant": "NHL Shop",
@@ -347,11 +417,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MDRCaFZZZkNtNEowTkdISHM5b2V6Z0ZoWXhGRlp1Yk1SUTdXWlN0WjFQY3Q2Q3BrSmhIamtKQWdnYncwaEtPWDVQbDZwaHZ2WWIyaWxnd2JEdHB5SXh2TUNuZ3QzUGVNU3BBMmlRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fanatics.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXZWSUE0VTRJZi9xWEYyOXdpK0owSVdPSkd5ZFZxQ1g5citWbG96WXd3NUh0NXVVNnFybXNONENPaVU2dDlJeXRYdXgvNHRoNlluakMxR1E3dWFEMGtNVTBtbXJ2OFBFeDlhQkVnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/fanatics.com/00151e6e-908b-4991-858d-f691107ea52c.gif",
       "source": "single-use",
-      "emailMessageId": "1a07291e1fd31041",
-      "emailDate": "2026-09-05T17:15:57.000Z"
+      "emailMessageId": "1a0736ea54eb8f89",
+      "emailDate": "2026-09-05T21:17:05.000Z"
     },
     {
       "merchant": "Discount Tire",
