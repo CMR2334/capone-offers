@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T06:18:08.377Z",
+  "lastUpdated": "2026-09-05T07:18:12.711Z",
   "sourceCount": 86,
   "parseFailures": 0,
   "offers": [
@@ -30,20 +30,6 @@
       "source": "single-use",
       "emailMessageId": "1a068d4079b885dd",
       "emailDate": "2026-09-03T19:52:00.000Z"
-    },
-    {
-      "merchant": "Fanatics",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MXR3MEJJazkxYkpNQkgrUzRXT0RnYVRjUmkzWWhXT3ZBeTdUeW1lRUhIN0Q3WGcrdGhTbDVLQktDa091ZFh6TFNudllhRWlsM1kxTlVzRUJNaDJlNHRrcHBhKzNGNHYwL2VzeGZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fanatics.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a06d471456bb880",
-      "emailDate": "2026-09-04T16:36:09.000Z"
     },
     {
       "merchant": "NFL+",
@@ -142,20 +128,6 @@
       "source": "single-use",
       "emailMessageId": "1a0621992c683026",
       "emailDate": "2026-09-02T12:30:37.000Z"
-    },
-    {
-      "merchant": "Belk",
-      "percentBack": 18,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-09-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZkNmZUdsR0RDNGsrMXE4R1E5ekdweVhQYW1FU1VXT1M0SDdrK1ZGRytzR2lEVFRLUk9oMmFoTjZIditHZjVNNk5SdUtzTnRnNmV5MnNOczFtN01vZjRIU1F2dEtobHN2akIwU3hBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a05f7ea477d4268",
-      "emailDate": "2026-09-02T00:22:10.000Z"
     },
     {
       "merchant": "SignNow",
@@ -298,20 +270,6 @@
       "emailDate": "2026-09-02T19:39:02.000Z"
     },
     {
-      "merchant": "Hilton",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-09-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T1BjYkRRdUNxVEc0WWJhYTk1NElzU2Z4OGplak5jc1cxOVFjQ3VDQTZCV1Z3WnFyU1k1NmlDWUM3aDlZeE5ibmwvaFQwRjlsQ0NjazQ4TUhLbGp3cHFFajRlaVRDbk1lUUJVbmNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a05cadb743c23b7",
-      "emailDate": "2026-09-01T11:14:43.000Z"
-    },
-    {
       "merchant": "Ticket Liquidator",
       "percentBack": 7,
       "dollarBack": null,
@@ -338,20 +296,6 @@
       "source": "single-use",
       "emailMessageId": "1a063a1cb18e752e",
       "emailDate": "2026-09-02T19:39:02.000Z"
-    },
-    {
-      "merchant": "Best Western Hotels & Resorts",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-09-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UlZPcEgzLzhDYW1sdWJMNDllc2N4ZjJmb0xWTU85MUJaZC81ZFZGVEkxV1FyN0JESDRpQjJGZVJVNS8xWVdKaFJmSTBXblEwbmUyZitDZ21wamg0UVM5Wm5VcitVTm1xRlFsakxnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestwestern.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a05cadb743c23b7",
-      "emailDate": "2026-09-01T11:14:43.000Z"
     },
     {
       "merchant": "Candlewood Suites",
