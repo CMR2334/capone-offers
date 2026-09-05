@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T16:51:26.509Z",
-  "sourceCount": 84,
+  "lastUpdated": "2026-09-05T17:18:10.474Z",
+  "sourceCount": 85,
   "parseFailures": 0,
   "offers": [
     {
@@ -137,11 +137,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bThZUkdtZnhpWXYzWkRYWFBkQ3gvelNtSDhQaVY0MWJES0IyQTlFMXdyTG94Mi96ZXRNSklLQjhOZkFLaHNyTGNQQTVGUVVaeEUrR1VJM1R6SnhwdVRNZGF0ZUZ5WjhycGJSRUtRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WUQzZWcraVg3YUNQS2pJWUtxTkN4REJtNit2c014MXlLR2RaVGI0RUxEdG9vR1R6S3p6a2Z6K2FjdUhDbGF1M0Q2QVpqZW1DRDFra2Jwd3dCWjZPYWNFQlcrTVZoWmF1elQ4dHBnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bestbuy.com/d744df5b-de18-407d-b1fe-750477eb041f.gif",
       "source": "single-use",
-      "emailMessageId": "1a071d374e36688a",
-      "emailDate": "2026-09-05T13:47:58.000Z"
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
+    },
+    {
+      "merchant": "NHL Shop",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cVQvdFRweU9OQXA5V044M2ZXa3N6eUpsR2xrU2drb1luU0RVWTFjRzdxdTVpbGJSRGtUdU85dGRVRDgrVGJubnR2SE5JaHJmU0NTUUlBZmJBMkJWWXc5N0VBSkdPRG5YWFZpc3JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nhl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
     },
     {
       "merchant": "SignNow",
@@ -170,6 +184,48 @@
       "source": "single-use",
       "emailMessageId": "1a0621992c683026",
       "emailDate": "2026-09-02T12:30:37.000Z"
+    },
+    {
+      "merchant": "‘47",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aDA5ZTc0czhiS0gwRWxwNVA3ZytBaHZlVklVS3Z0YVRPbE5iYXB2SmtyQkxkdUQ0OFJTK0hsclYzb2VVcVIvZ1NaakFPNGRGazNkdWZPRkJMczdNNDBPRVIvRUpNWURXd0g0ckd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=47brand.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
+    },
+    {
+      "merchant": "NFL Shop",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SmR0aUhLa3IzZm8rS0ppTmQ1ZTNOV1pYR1N4RnN1YXVGRGMrZlUrUk5rZkMwZHRtbi9PczZxLy91amNMeitiL2ttaTdOYkIzKzA2OUMrNi9OQVJLdmVBYUFEMmNqbWV6MGp4RTdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nflshop.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
+    },
+    {
+      "merchant": "MLB Shop",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UmlYVVhVbTgzaXVqLy9tWVk0VG95MGg1SWw3enNHUUREaTRKTEdzK3Y1WDRWNVpHVWJ1QzFLZDBneVdVUjV5Nk9iREp1WC95c2lMQi9ZNVJqWitNK0VGSlMxam9VWGNCQWNzUXV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mlbshop.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
     },
     {
       "merchant": "CVS",
@@ -284,6 +340,20 @@
       "emailDate": "2026-09-02T19:39:02.000Z"
     },
     {
+      "merchant": "Fanatics",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MDRCaFZZZkNtNEowTkdISHM5b2V6Z0ZoWXhGRlp1Yk1SUTdXWlN0WjFQY3Q2Q3BrSmhIamtKQWdnYncwaEtPWDVQbDZwaHZ2WWIyaWxnd2JEdHB5SXh2TUNuZ3QzUGVNU3BBMmlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fanatics.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
+    },
+    {
       "merchant": "Discount Tire",
       "percentBack": 7,
       "dollarBack": null,
@@ -291,11 +361,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFFHcXdNVDVDZjBtQWFvV3I0K25FcDZaUHdwc0xEdy9rYnRYVVhBSXFJVVNSZjZPQXl0dmRzcWJYVTh4RGtkUXhVdVhUbHlqVWg5TEx6cVlMb29JbDJzSXc2cHBsdXhNSXBRODZBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NDZTYVJoOEppbWZvNzczNFlSQU4rRHpCR3QxRzRTZWd0eWRVLzZLdnZTbWIrSHBrRHBzeHdQT3d3Smp1QU5CMVIxQmxCVHNwTjVXR2xQSko0a21OcFh1TUFXK1paUHNnWlhnZkt3PT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logodiscounttire.com,sXfb07pcYLgnU16beRr6w2Ho5cLYnNrIVPRdC_HQbEEM/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1788391130566.png",
       "source": "single-use",
-      "emailMessageId": "1a071d374e36688a",
-      "emailDate": "2026-09-05T13:47:58.000Z"
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
     },
     {
       "merchant": "Ticket Liquidator",
@@ -380,6 +450,20 @@
       "source": "single-use",
       "emailMessageId": "1a0621992c683026",
       "emailDate": "2026-09-02T12:30:37.000Z"
+    },
+    {
+      "merchant": "NBA Store",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWtnMzZzVGtvdGFmZlcwWDNkcFNQbis4M0ltNm9ROHo5SlpwTXRwTWNZUCtSTG0wSGdrN1VzWkZLNmFNNzRUU0dKS2JETmF4OTBSTkI1N3RyVDZycEhUYTN5OVozazRRd2RYSWN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=store.nba.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07291e1fd31041",
+      "emailDate": "2026-09-05T17:15:57.000Z"
     },
     {
       "merchant": "Goldbelly",
