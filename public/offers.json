@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T14:18:08.082Z",
-  "sourceCount": 86,
+  "lastUpdated": "2026-09-06T15:18:12.221Z",
+  "sourceCount": 87,
   "parseFailures": 0,
   "offers": [
     {
@@ -16,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "1a0736ea54eb8f89",
       "emailDate": "2026-09-05T21:17:05.000Z"
+    },
+    {
+      "merchant": "American Eagle",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cUJTZzdobVBBZldTWkROdVVpNHcyMmdWQWNCRVZkSDR0WEtFUFZvcHJuU0lUUGhGdnUwYVBLc1p0NnpQbjZ0cFJJbmk3bXFvUW1jTzRNZS9mcFgvaHE3cGhBeE9reUFNbkJzTVF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ae.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a07742d820b426f",
+      "emailDate": "2026-09-06T15:07:44.000Z"
     },
     {
       "merchant": "Ticket Club",
@@ -100,20 +114,6 @@
       "source": "single-use",
       "emailMessageId": "1a06825c04da62a7",
       "emailDate": "2026-09-03T16:41:39.000Z"
-    },
-    {
-      "merchant": "American Eagle",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NFFxMm1SQTNjcm9ib1Y2elRiZk9QN1FKV3hLOW5BNTFKVFl5UXRlNHRUZTlnUDhRK25WL205QmoxMnpwY0sxdXV5Z0RickVEZUFmbHUveXllU3pqZEZleUlNQlVSbVVPVWpCQ3ZRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ae.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a076a4d7822bdc5",
-      "emailDate": "2026-09-06T12:15:08.000Z"
     },
     {
       "merchant": "Orgain",
@@ -340,6 +340,34 @@
       "emailDate": "2026-09-04T16:36:09.000Z"
     },
     {
+      "merchant": "Go City Pass",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WUluaDdwNS9ZazFyMm4ra1pmMFZZaHpSYWZUc3RlTVl6ejdPeXU4RzVNWWR4K2lKbGtQS29meS9mV1l0NFUwb3JnM2NFQ3BzdFp2YnpZblBnMEVtZVdMSzh0VHNtRXE0WnVZdzh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07742d820b426f",
+      "emailDate": "2026-09-06T15:07:44.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MElKcWllRjRlSHRBaW51SXdXY2JwTUhvUVBTMkhGSlljS0hJWmNzY2lhNUlVWnI4NmZoUWljMTRaVkhCczYwNHg4Q1N5MjFmTWZCVWpaejhrRThnNDUyUG9IY1N2cDdtNnRkc0hnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a07742d820b426f",
+      "emailDate": "2026-09-06T15:07:44.000Z"
+    },
+    {
       "merchant": "Goldbelly",
       "percentBack": 7,
       "dollarBack": null,
@@ -394,6 +422,20 @@
       "source": "single-use",
       "emailMessageId": "1a06cbf0b44409df",
       "emailDate": "2026-09-04T14:07:33.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y1c0RUJCUUFkdTg3WHZYNXpJZFR2MkhUQ09rN05UMXFBS24zQkdxTHNvd3VyeTU5cFIzR0plOEI2RUJFWFo4dzB1UjBtKzFuTnlQZ1BwVjFMek1qVHF1djlMb0REWmQ3SWlvb0pnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a07742d820b426f",
+      "emailDate": "2026-09-06T15:07:44.000Z"
     },
     {
       "merchant": "StubHub",
