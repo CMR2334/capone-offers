@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T00:18:08.911Z",
+  "lastUpdated": "2026-09-06T01:18:07.823Z",
   "sourceCount": 86,
   "parseFailures": 0,
   "offers": [
@@ -207,11 +207,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RDlBcWFBWFBJbTI1R1ZEZGRhYTF5L1IvRlN0M0pXOUJTbFMyaFB5UUNvNDVmcDY1STVsMUx0OEVpNjN5RFVhYXA2aEszQUNpV0k5UUhFVFVyUVRVbVp2QTVhSGZSN2EwTFpiVzlRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YzlneHlYa01kZVZKTExEUnV5b2RrVnd6cWxBZE90a3hxWU92MjZkZzlCQUwxaVZ5czZ5SURtbWNzeGlUZG40TGhZKytDb1BMeDI2YVJ5MjlwTjBDY0FvUkxXSWNodkFUZDg4UEZBPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bestbuy.com/d744df5b-de18-407d-b1fe-750477eb041f.gif",
       "source": "single-use",
-      "emailMessageId": "1a0736ea54eb8f89",
-      "emailDate": "2026-09-05T21:17:05.000Z"
+      "emailMessageId": "1a0741fac4006e62",
+      "emailDate": "2026-09-06T00:30:27.000Z"
     },
     {
       "merchant": "NHL Shop",
@@ -354,6 +354,20 @@
       "emailDate": "2026-09-02T12:30:37.000Z"
     },
     {
+      "merchant": "GetYourGuide",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REVtYmFLR1E1di95VzRQaWkrVWFHNW1aMDRWYVNwRzN4NmZEUHA2SXBHbFJQZ1VQRnczR0h4aUQ2UmFNMTRkampUSVhRVHo4VHU3amVsenp5R3JlRWVnZVZuRU1WMVVleDBjNDhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0741fac4006e62",
+      "emailDate": "2026-09-06T00:30:27.000Z"
+    },
+    {
       "merchant": "Spirit Halloween",
       "percentBack": 9,
       "dollarBack": null,
@@ -366,20 +380,6 @@
       "source": "single-use",
       "emailMessageId": "1a06d471456bb880",
       "emailDate": "2026-09-04T16:36:09.000Z"
-    },
-    {
-      "merchant": "GetYourGuide",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-09-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OUM1VTdOWDFQNnRta3lwR3BCUmRSWEoydVUzWWdsemlIVWpGOFNDQkdveVcwQVRKM1ROTmkxRitTQUdjZnpFU09rczNvRFYzUk9nVStrWWtQMldHT2lvNnIxc3J4aVBjblA5VGFnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0621992c683026",
-      "emailDate": "2026-09-02T12:30:37.000Z"
     },
     {
       "merchant": "Go City Pass",
