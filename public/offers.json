@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T11:18:07.994Z",
+  "lastUpdated": "2026-09-06T12:18:10.481Z",
   "sourceCount": 86,
   "parseFailures": 0,
   "offers": [
@@ -102,6 +102,34 @@
       "emailDate": "2026-09-03T16:41:39.000Z"
     },
     {
+      "merchant": "American Eagle",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NFFxMm1SQTNjcm9ib1Y2elRiZk9QN1FKV3hLOW5BNTFKVFl5UXRlNHRUZTlnUDhRK25WL205QmoxMnpwY0sxdXV5Z0RickVEZUFmbHUveXllU3pqZEZleUlNQlVSbVVPVWpCQ3ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ae.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
+    },
+    {
+      "merchant": "Orgain",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGpwR2x6RjhEcitIMnpnY0ZZa3JFYU10VGJLL2hOQzBUQmJNcUF5Uy94Z0hKSjBUZlVoeWUwT09wR0t5d2E0Y3kzTjkvQmNxVUhKWXFCSHBlWFR4a1g0dVVqaTB6Nm1WQVlscWJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=orgain.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
+    },
+    {
       "merchant": "DonJoy",
       "percentBack": 20,
       "dollarBack": null,
@@ -144,6 +172,20 @@
       "emailDate": "2026-09-03T16:41:39.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 15.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "September 2",
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6clYvTElZMGtRY29GZ3l3bHlxWXRBTzNKVDh0bTcrSnNnUUVmajhCL1l2Rld5aEZvS3M3SzJxcUtqL0g3NFpuNW1aWno0Ty9ld0loWVYvT2d4c0JvUEJVQ0pFTDM3VGRBeDFGckFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
+    },
+    {
       "merchant": "Best Buy",
       "percentBack": 15,
       "dollarBack": null,
@@ -184,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a07291e1fd31041",
       "emailDate": "2026-09-05T17:15:57.000Z"
+    },
+    {
+      "merchant": "Liquid I.V.",
+      "percentBack": 12.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cU1YeVBkeWN3QjRHQlFqWE0rQ1JyT1cxNk9pNU1iN3AxZm1JZ1FtejczcVVzU0R6UFdMbTJHVENIdXNQWUYrdS91S2JuaTJwMVBnSFFxOUxiWU1EdTN3SEc1ck5JY1YzbTB5KzhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=liquid-iv.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
     },
     {
       "merchant": "NFL Shop",
@@ -282,6 +338,20 @@
       "source": "single-use",
       "emailMessageId": "1a06d471456bb880",
       "emailDate": "2026-09-04T16:36:09.000Z"
+    },
+    {
+      "merchant": "Goldbelly",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T1I3bEI4Y2t1ZWdsVUM2bi9QQ2loRXkwT2lManJQQ2k4UlVidDFQQlI5aGdKOVpOS3RvZWN0U0ZRV25STDlVclFGbko2RTd3NEY4SE4xNEV3K2lhZWpPMmtIZ20wQlVVeTJtNHVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -430,12 +500,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Umoya0xoNUQwZDZRUEUyR3RjcEdXL3J5b3ZoaGNDZjVJRFJPSXVhMXQzcitVci9kajJSeE0wRkxEUmVrU0d1VWprT3ArOHBFMmVlaG5DRTVhUTFwY2xUNEd6Y2t1a0tuRkM1SmtBPT0/runV3dl",
+      "expiresAt": "2026-09-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L1N1Sk9ETy95TXhJM1NGL2lVVUM5R0tDeVBwSGpqdXRuTTZ4YXRGeGVHV0FYL1NLK1Bocm1JRG9Id2x0TXVnV3FIUHp2Vk9GbUdKR2hDQXRtMkRGT1B4b3NQUTJ3TFcvaU5OUnhnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a06d471456bb880",
-      "emailDate": "2026-09-04T16:36:09.000Z"
+      "emailMessageId": "1a076a4d7822bdc5",
+      "emailDate": "2026-09-06T12:15:08.000Z"
     },
     {
       "merchant": "Safelite",
