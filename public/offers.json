@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T06:18:11.579Z",
+  "lastUpdated": "2026-09-07T07:18:10.044Z",
   "sourceCount": 90,
   "parseFailures": 0,
   "offers": [
@@ -16,34 +16,6 @@
       "source": "single-use",
       "emailMessageId": "1a0736ea54eb8f89",
       "emailDate": "2026-09-05T21:17:05.000Z"
-    },
-    {
-      "merchant": "American Eagle",
-      "percentBack": 40,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cUJTZzdobVBBZldTWkROdVVpNHcyMmdWQWNCRVZkSDR0WEtFUFZvcHJuU0lUUGhGdnUwYVBLc1p0NnpQbjZ0cFJJbmk3bXFvUW1jTzRNZS9mcFgvaHE3cGhBeE9reUFNbkJzTVF3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ae.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a07742d820b426f",
-      "emailDate": "2026-09-06T15:07:44.000Z"
-    },
-    {
-      "merchant": "Ticket Club",
-      "percentBack": 34.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6LzBXTEVuUjNpemUrMGV5VlJXWDZnRG1UY2FkNTVxM1VNUzRla05ldUN0Q2dNZ0UwN2F5eUZLRG1odVZjTCs3STMzNUtHdks4KzJjWXVSclZGNzF0TXQrbzlaM0RWU3VSb1NNdmd3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a068d4079b885dd",
-      "emailDate": "2026-09-03T19:52:00.000Z"
     },
     {
       "merchant": "edX",
@@ -116,20 +88,6 @@
       "emailDate": "2026-09-05T21:17:05.000Z"
     },
     {
-      "merchant": "Nature Made",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 6,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZHpxZHh5dkFoMnhPN2xmTk1qdFJjSVFzZ0RIRTlFbUNIUjVhZnhadTdSVVREWWxjclJCQkpaa0dTMWI2d3RDbjVqSzUxdGtGd1J5dGhQZ09lZk9uaGwwRWVzVEFTMk04bTBkblB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=naturemade.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06825c04da62a7",
-      "emailDate": "2026-09-03T16:41:39.000Z"
-    },
-    {
       "merchant": "Orgain",
       "percentBack": 20,
       "dollarBack": null,
@@ -170,20 +128,6 @@
       "source": "single-use",
       "emailMessageId": "1a071d374e36688a",
       "emailDate": "2026-09-05T13:47:58.000Z"
-    },
-    {
-      "merchant": "Walgreens",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlVVVmFvNFRCVkg4ZkVjRnQ5bzVWVnltR1VSRTZnRlhUVDlWajRqOUg1Ui90Ums3VkY0RVl5Uk5kVGtvbjFjUFFRWUlPQ09PTnYxTGVCTlFyUitPdldVV2dNbnVxaVlBNVNtd0J3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06825c04da62a7",
-      "emailDate": "2026-09-03T16:41:39.000Z"
     },
     {
       "merchant": "Instacart",
@@ -312,20 +256,6 @@
       "emailDate": "2026-09-04T16:36:09.000Z"
     },
     {
-      "merchant": "Sally Beauty",
-      "percentBack": 11,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-09-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UVNwN29oYlFnMHdWeVZhMk5HK3orVmVadUh3ZHpmc1VsalhMRWVndFlTQjkweGlOQk41MzJIYWlvTFJERHkrWEVXRXdUdDQzSXh0MnFmRzJwSWVMcGthaG9QeXJ6S1RTNmRuNFlnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sallybeauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06825c04da62a7",
-      "emailDate": "2026-09-03T16:41:39.000Z"
-    },
-    {
       "merchant": "Ticket Network",
       "percentBack": 10,
       "dollarBack": null,
@@ -366,6 +296,20 @@
       "source": "single-use",
       "emailMessageId": "1a06d471456bb880",
       "emailDate": "2026-09-04T16:36:09.000Z"
+    },
+    {
+      "merchant": "Ticket Club",
+      "percentBack": 8.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d0pHbmxzQ1g5NFN0V3VrTStFMlBnKzd4OXpLWHJ2OER0Uy9ESUNjNkRVVkdQU2tZdGRYUERMMjl4Q3hvemFWRlVVak1wajVybTZWYmVSMzFkUGFMMVlLalg1ejRZREpNTVBlZ1hBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a06e02762c623cb",
+      "emailDate": "2026-09-04T20:00:50.000Z"
     },
     {
       "merchant": "Go City Pass",
