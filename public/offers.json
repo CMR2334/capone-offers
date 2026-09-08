@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T13:18:36.352Z",
-  "sourceCount": 91,
+  "lastUpdated": "2026-09-08T14:18:46.535Z",
+  "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
     {
@@ -16,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "1a0736ea54eb8f89",
       "emailDate": "2026-09-05T21:17:05.000Z"
+    },
+    {
+      "merchant": "Lulus",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXZlUllSbmcxU25STVk1dklhNTlMUWQ4RktvU0lxT3JsbHQxS1VPaEpSQ3labyttNncwVlRTc1V0eE9OckV5UGFhZE1laDMzcmMyb090Z3VYYmdtTHl5cEdXcEFXMVJzbnd1c21BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lulus.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
     },
     {
       "merchant": "edX",
@@ -88,6 +102,20 @@
       "emailDate": "2026-09-05T21:17:05.000Z"
     },
     {
+      "merchant": "CVS",
+      "percentBack": 22.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXlPK29oM0pZUXlkalppb3ZSMTBTMVlLMHpwOUVzZTFEeG5HRjhoNjhQdUtyVnhBbHNZeDBZK0F3NWMvTFppOW5hbmtSWW9td0lxNVNZa2M4WmRnRktUbUVaNkdrb0ttUXdLRXVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
+    },
+    {
       "merchant": "Walgreens",
       "percentBack": 20,
       "dollarBack": null,
@@ -150,12 +178,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6empZZ0p3UWpRamxjdlZoWmhxekRIMlYraFNuNURrb3Y4VUdqdW9oMVQvMnNzUVN3N0VQc3dJRGdSSlE1MXZWUWRsTXJqalBYQ1BTQklESWtXUkN6cDUyRUJQQnhIUzQvUytERlVBPT0/runV3dl",
+      "expiresAt": "2026-09-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NEFuT29MZGt4TTBhdzJ5RUxSem5sMWhIdWEzUGMzK1FHQmZtd0JvMXVJb0hXbXJJVmJRZ1RtNWF2QjJ3ZDJQcnJGS1JiZjltQVJtNW9WWkJBVDF6STkrUG9KMXV2cEpZaVlHeUdBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a07bbe1c084c10c",
-      "emailDate": "2026-09-07T12:00:51.000Z"
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
     },
     {
       "merchant": "Nature Made",
@@ -296,20 +324,6 @@
       "source": "single-use",
       "emailMessageId": "1a07291e1fd31041",
       "emailDate": "2026-09-05T17:15:57.000Z"
-    },
-    {
-      "merchant": "CVS",
-      "percentBack": 11.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TDlCWmVOVy9IdjhQRmpzdFhZT2xqc2NWMFoyUGNvczBRTnBoYzFZNXJUc3NjdFBEdHdpZTMxelU4UC9tZUJmYU96YjBINW53c0hCSWs5MjRFWmN3VUc3bnRXMTQ0TXBzdDNQdFp3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a07c62709a8aeb3",
-      "emailDate": "2026-09-07T15:00:18.000Z"
     },
     {
       "merchant": "Vivint",
@@ -723,13 +737,13 @@
       "dollarBack": 45,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d3JaTVVxSFZOdTNldGFVNzQvRWZBQmZDN1EwSXUyd0d1T3NBSmJNMWx5MjNiOHl1YWcwakw0SnphTTZVZlZObEtVMUk5VndxNG1tMUVEamVJaFZYSnd1NmlTcDQ2dGNQV1NOMGdnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "lastViewed": "September 1",
+      "expiresAt": "2026-09-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OVQ3ZGNVNTloKzU0Q0lRaXhQWldXUDExelFnSm9GSGhEQklySVdrczdMUG9VbnlxUitZZDlWRjFpQ0FJOVhMLzlFc3h5MU1IYlpmd2NTYWg2ZjJRYnZNZWZVZkF5cFpWejJBSk93PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a07bbe1c084c10c",
-      "emailDate": "2026-09-07T12:00:51.000Z"
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
     },
     {
       "merchant": "Uber Eats",
@@ -738,12 +752,26 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWx1SHFJV3pmM1JXaDJpbUFzRmI1K3dBS0d6VnUyTHZsUGY5UnF3NEJidWNIbis5aHdLNGRZQUUyRFZHM0hUa3VmOFZ3eXgvNGJvelU4Nlg5cVRLTTM2ZjY4WUxtUEZLYllkaklBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-09-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R3ZaTUNmOVJQRnJydlZnUGhMZWtKT3EwNzYwSWdDWlhaVTZWSFI3OWszaXBMNGNZUWN0akNXdTFJQlBtbk13azI1TTJjbVptTXArT0lUK1pOcDlYYU1TWDFRMmtxckNPZFR1em5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a07bbe1c084c10c",
-      "emailDate": "2026-09-07T12:00:51.000Z"
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
+    },
+    {
+      "merchant": "Home Chef",
+      "percentBack": null,
+      "dollarBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Lzg3U1RTT3JjVlZGc0dEeEVPbFV5YU8vOVVMa1hGdm1wOTdCYlg5ckQvUXVNemFCbXlFVWRzRjYrQjlvRitZMm9qSCtjMmhOa2owcCtyS25JWEJvKytNM2duaUZiL0grZURkY3ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homechef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a081252b000b416",
+      "emailDate": "2026-09-08T13:11:31.000Z"
     },
     {
       "merchant": "Sling",
