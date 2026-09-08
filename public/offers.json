@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T06:18:36.489Z",
+  "lastUpdated": "2026-09-08T07:18:49.709Z",
   "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
@@ -86,20 +86,6 @@
       "source": "single-use",
       "emailMessageId": "1a0736ea54eb8f89",
       "emailDate": "2026-09-05T21:17:05.000Z"
-    },
-    {
-      "merchant": "Mattress Firm",
-      "percentBack": 22.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TitiYU0zNHN5YW82VlBMU2RzK2xQTFprcjhYeUVnb3orZ2JUUndNdUdXL1N1bjFUeTJRcFViT0lzZE9SdVR2akxiWW9TY2hTVDI2VGpIUmdjZmYrRGRLWlQ1VHpnSHNzclkvRFFBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mattressfirm.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a07cf059c0ad625",
-      "emailDate": "2026-09-07T17:35:20.000Z"
     },
     {
       "merchant": "Walgreens",
@@ -410,20 +396,6 @@
       "emailDate": "2026-09-06T00:30:27.000Z"
     },
     {
-      "merchant": "Ticket Club",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d0pHbmxzQ1g5NFN0V3VrTStFMlBnKzd4OXpLWHJ2OER0Uy9ESUNjNkRVVkdQU2tZdGRYUERMMjl4Q3hvemFWRlVVak1wajVybTZWYmVSMzFkUGFMMVlLalg1ejRZREpNTVBlZ1hBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06e02762c623cb",
-      "emailDate": "2026-09-04T20:00:50.000Z"
-    },
-    {
       "merchant": "The Vitamin Shoppe",
       "percentBack": 8,
       "dollarBack": null,
@@ -550,20 +522,6 @@
       "emailDate": "2026-09-05T17:15:57.000Z"
     },
     {
-      "merchant": "Ticket Liquidator",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZnJQbzd4N1hPTjdKc0UzMlVwbDk5bjkzbDVWTm04ZFRoK1FXUUpiZkt0VVlVenRuM2xCMkxMM2N1TGdjRUd3NUl6SGZlbXlsSzVySnZROUtBZHN6QVRYSGhsZDlnUjUzR1RaYk5nPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06cbf0b44409df",
-      "emailDate": "2026-09-04T14:07:33.000Z"
-    },
-    {
       "merchant": "BOSE",
       "percentBack": 6,
       "dollarBack": null,
@@ -590,20 +548,6 @@
       "source": "single-use",
       "emailMessageId": "1a07742d820b426f",
       "emailDate": "2026-09-06T15:07:44.000Z"
-    },
-    {
-      "merchant": "StubHub",
-      "percentBack": 5.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UHdVY0Y2cHJvbDJYSmtjT1hUR1NRNlhicUExQjBMOVVpZDBId0NnUDhneHlZZFlDcHRpa3hyT2YwcTY1TWhnVXJHRWUrbHJZL2NCSWNIRXlFWWNnMDdtL3E2SmNCcGZ1QzRPL2pnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stubhub.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a06cbf0b44409df",
-      "emailDate": "2026-09-04T14:07:33.000Z"
     },
     {
       "merchant": "NBA Store",
@@ -660,20 +604,6 @@
       "source": "single-use",
       "emailMessageId": "1a07cf059c0ad625",
       "emailDate": "2026-09-07T17:35:20.000Z"
-    },
-    {
-      "merchant": "GameTime",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-09-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SklzREExbllrd2pzMTQxMWlNQ2M5NW4zcmRiSDNOcWZ4bnBiSS8wNEZxM05aeE5vdTdtWGVxbHhhL1QyWXFMSDFLaG1lQ2lybWZ4aExkeXMxNCs0SnlDdi92Wk05YUZRKzMxOFpnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gametime.co&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a06e02762c623cb",
-      "emailDate": "2026-09-04T20:00:50.000Z"
     },
     {
       "merchant": "Vivid Seats",
